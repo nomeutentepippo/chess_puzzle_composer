@@ -1,0 +1,205 @@
+﻿[Event "SS1990-91 \[1-2Pr cooked\]"]
+[Site "?"]
+[Date "1990.??.??"]
+[Round "?"]
+[White "Kaljagin, VA."]
+[Black "\[+0831.22e1b5\]"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "8/5b2/6r1/1k1p3R/8/1P6/2r1pN1P/4K2R w K - 0 1"]
+[PlyCount "13"]
+[EventDate "1990.??.??"]
+
+1. Re5+ (1. Rh8+ Rc1+ 2. Kxe2 Rc2+ 3. Ke3+ (3. Kf1+ Rf6) 3... Re6+ 4. Kd4+ Rxf2
+5. Rb8+ Kc6 6. Rc1+ Kd6 7. Rb6+ Ke7 8. Rc7+ Kf6) 1... Ra6 (1... Re6 $5 {
+Cook Vlasak} 2. Rxe6+ (2. Rxd5 Kb6 $1 (2... Kc6 3. Nd3 Kxd5 4. Nb4+ Ke4 5. Nxc2
+Rc6 6. Kd2 Bxb3) 3. Nd3 (3. h4 Rc1+ 4. Nd1 exd1=Q+) 3... Bg6 4. Rc5 (4. Re5
+Rxe5 5. Nxe5 Rc1+ 6. Kxe2 Bh5+) 4... Bxd3 5. Rxc2 Bxc2) 2... Bxe6 3. h4 (3. Rg1
+Rc1+) 3... d4 4. h5 (4. Rh2 Bf5) 4... Bf5 5. h6 d3 6. Nxd3 Bxd3 7. Kf2 e1=Q+ 8.
+Kxe1 Rc1+ 9. Kd2 Rxh1 10. Kxd3 Rxh6) 2. Rxe2+ (2. Nd3 Ra1+) 2... Ra1+ 3. Nd1
+Bh5 4. Rd2 $1 (4. Rxc2 Rxd1+ 5. Kf2 Rxh1 6. Ke3 Kb4 7. Rd2 Bf7 8. Rf2 Be6 9.
+Kd4 Rd1+ 10. Ke5 Re1+ 11. Kd4 Re4+ 12. Kd3 Kxb3) 4... Rcc1 (4... Bf3 {second
+thematic line with castling} 5. O-O $1 (5. Rg1 Rcc1 6. Kf2 Rxd1 7. Rgxd1 Rxd1
+8. Ke3 Rxd2 9. Kxd2) (5. Rf1 Rxd1+ 6. Rxd1 Re2#) 5... Rxd2 6. Nc3 Kb4 7. Nxd5+
+Bxd5 8. Rxa1) 5. O-O $1 (5. Kf2 $6 Kc6 $1 (5... Bxd1 6. Rxd5+ Kc6 7. Rd3) (5...
+Rxd1 6. Rxd5+)) 5... Rxd1 (5... Bxd1 6. Rxd5 Kb4 7. Rd8) (5... Kc6 6. Ne3 Rxf1+
+7. Nxf1 Rb1 8. Kf2 Rxb3 9. Ne3) 6. Rxd5 $1 Rxd5 7. Rxa1 1/2-1/2
+
+[Event "SS1990-91 \[1-2Pr\]"]
+[Site "?"]
+[Date "1990.??.??"]
+[Round "?"]
+[White "Tkacenko, CI."]
+[Black "\[+0070.58f8c4\]"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "4bK2/b5p1/2p1p1p1/p1p1p1P1/2k1P3/1p2P3/PP4B1/8 w - - 0 1"]
+[PlyCount "23"]
+[EventDate "1990.??.??"]
+
+1. Bf1 Kb4 2. a3+ Ka4 3. Bc4 $1 (3. Kxe8 c4 4. Bxc4 Bxe3) 3... Bd7 4. Ke7 (4.
+Kxg7 Bb6 5. Kxg6 Bd8 6. Kh6 Be8 7. g6 (7. Bxe6 c4 8. Bxc4 Bb6 9. g6 Bxe3+ 10.
+Kh7 Bxg6+ 11. Kxg6 Bd4) 7... Bxg6 8. Kxg6 Bh4 9. Bxe6 Be1 10. Bd7 Kb5) 4... Bc8
+5. Kd6 $1 (5. Kd8 Ba6 (5... Bb7 6. Kc7 Ba8) 6. Bxa6 c4 7. Bxc4 Bxe3 8. Kc7 Bd4
+9. Kxc6 Bxb2) 5... Bb7 (5... Ba6 6. Bxa6 c4 7. Kxc6 Bxe3 8. Bb5#) 6. Kc7 Ba8 7.
+Kc8 Bb6 8. Kb8 Bd8 9. Kxa8 Bxg5 10. Kb7 Bxe3 11. Kxc6 Bd4 12. Bb5# 1-0
+
+[Event "SS1990-91 \[3Pr cooked\]"]
+[Site "?"]
+[Date "1990.??.??"]
+[Round "?"]
+[White "Stavrieckij, A."]
+[Black "\[+4410.74e1h3\]"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "8/6p1/1P2P3/1r3P1q/3P1p2/Qp2pP1k/1P2P3/RB2K3 w Q - 0 1"]
+[PlyCount "13"]
+[EventDate "1990.??.??"]
+
+1. Qe7+ (1. Bd3 Qh4+ 2. Kd1 Qf2 3. Qxb3 Rxb3 4. Kc2 Rxb6) (1. Ba2 $5 {Cook?
+Vlasak} bxa2 (1... Qh4+ 2. Kd1 Qf2 3. Bxb3 Qf1+ 4. Kc2 Qxe2+ 5. Kb1 Qf1+ 6. Ka2
+Qxa1+ 7. Kxa1 e2 8. e7 e1=Q+ 9. Ka2 Ra5 10. Ba4+ Rxa4 11. Qxa4+ Qxe7) 2. O-O-O
+Qxf5 3. Qxa2 Rxb6 4. d5 Qe5 5. Qb1 g6 6. Qc2 Rb7 7. Kb1) 1... g5 2. fxg6+ Kg3
+3. Qh7 Qxh7 (3... Ra5 $3 {wins Cook Vlasak} 4. Qxh5 (4. Ba2 Rxa2 5. Rc1 Qa5+ 6.
+Kf1 Ra1) 4... Rxh5) (3... Rc5 $5 {Husak} 4. Ba2 $1 (4. dxc5 Qh1+ 5. Qxh1) (4.
+Be4 Rc1+ 5. Rxc1 Qh1+ 6. Qxh1) (4. Kd1 Qxh7 5. gxh7 Rh5) 4... bxa2 5. Qxh5 Rxh5
+6. Kd1 Rh1+ 7. Kc2 Rxa1 8. Kb3 Rd1 (8... Rh1 9. Kxa2 Rh8 10. d5 Kf2 11. d6 Kxe2
+12. d7 Kf2 13. e7 e2 14. e8=Q e1=Q 15. Qxh8 Qe6+ 16. Ka3 Qd6+ 17. b4 Qd3+ 18.
+Kb2 Qd2+ 19. Kb3 Qd5+ 20. Kc3 Qc6+ 21. Kb2) 9. Kxa2 Rxd4 10. e7 Ra4+ 11. Kb3
+Ra8 12. Kc4 Kf2 (12... Kh4 $6 13. Kb5 Kg5 14. b7 Re8 15. Kb6 Kf6 16. Ka7 Rxe7
+17. Ka8 Re8+ 18. b8=Q Rxb8+ 19. Kxb8 Kxg6 20. Kc7) 13. b7 $5 (13. Kd3 Re8 14.
+b7 Rb8 15. g7 Re8 16. b4 Rb8 17. b5 Re8 18. b6) 13... Re8 14. Kd5 Kxe2 15. Kd6
+Kxf3 16. Kd7 Rg8 17. e8=Q Rxe8 18. Kxe8 e2 19. b8=Q e1=Q+ 20. Kf7) 4. gxh7 Rh5
+5. h8=R $1 (5. h8=Q Rh1+ 6. Qxh1) 5... Rxh8 6. Bh7 Rxh7 7. O-O-O 1-0
+
+[Event "SS1990-91 \[1hm\]"]
+[Site "?"]
+[Date "1990.??.??"]
+[Round "?"]
+[White "Massinen, P."]
+[Black "\[+0004.44c6c8\]"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "2k5/2P1p3/2K1P3/2P2n2/1p3N2/2p1p3/2P5/8 w - - 0 1"]
+[PlyCount "17"]
+[EventDate "1990.??.??"]
+
+1. Nd5 Nd4 2. Kb6 Nf5 3. Nxb4 Nd4 4. Nd5 Nf5 5. Nxc3 Nd4 6. Nd5 Nf5 7. c3 $1 {
+The idea of previous manoeuvres.} e2 8. Kc6 e1=Q 9. Nb6 1-0
+
+[Event "SS1990-91 \[2hm\]"]
+[Site "?"]
+[Date "1990.??.??"]
+[Round "?"]
+[White "KrajevJonovElonovPeretjatko"]
+[Black "\[+1731.23e2g2\]"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "8/P2b1P2/8/2N5/7R/5r1p/4Kpkp/4Q2r w - - 0 1"]
+[PlyCount "11"]
+[EventDate "1990.??.??"]
+
+1. Rg4 Bxg4 2. Qxh1 Kxh1 3. Kf1 Rxf7 (3... Ra3 4. f8=Q (4. Ne4 Ra1+ 5. Kxf2
+Ra2+ 6. Kg3 Kg1 7. f8=Q h1=Q 8. Qc5+ Kf1 9. Qc1+ Ke2 10. Qxh1 Rxa7 11. Kxg4)
+4... Rxa7 5. Qf6 Rc7 6. Qa1) 4. a8=Q+ Bf3 5. Qxf3+ Rxf3 6. Ne4 1-0
+
+[Event "SS1990-91 \[3hm cooked\]"]
+[Site "?"]
+[Date "1990.??.??"]
+[Round "?"]
+[White "Balo, T."]
+[Black "\[+0032.05d2a1\]"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "8/8/3p4/p7/1pbp4/N4N2/p2K4/k7 w - - 0 1"]
+[PlyCount "13"]
+[EventDate "1990.??.??"]
+
+1. Kc1 {with 5 thematic lines} d3 $1 (1... b3 2. Nc2 (2. Nxc4 {dual} b2+ (2...
+d3 3. Nb2 a4 4. Nxa4 d5 5. Nd2 b2+ 6. Nxb2 d4 7. Nb3) (2... d5 3. Nb2 d3 4. Nd2
+a4 5. Nxa4) 3. Nxb2 d3 4. Nd2) 2... bxc2 3. Nxd4) (1... Bd3 2. Nxd4) (1... Bb3
+2. Nxd4) (1... bxa3 2. Nxd4) 2. Nxc4 (2. Nd4 bxa3) 2... a4 3. Nfd2 (3. Nb6 {
+The worst dual, Vlasak} b3 4. Nxa4 d5 5. Nd2) 3... b3 4. Nb2 d5 5. Nxa4 (5. Nd1
+{dual}) (5. Nxd3 {dual} d4 6. Nb2 d3 7. Nxd3) 5... b2+ 6. Nxb2 d4 7. Nb3 1-0
+
+[Event "SS1990-91 \[1comm cooked\]"]
+[Site "?"]
+[Date "1990.??.??"]
+[Round "?"]
+[White "Kekely, L."]
+[Black "\[+4400.31h8g2\]"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "1Q5K/6P1/2p3q1/2P3r1/8/5R1P/6k1/8 w - - 0 1"]
+[PlyCount "15"]
+[EventDate "1990.??.??"]
+
+1. Qg3 (1. Qf8+ $5 {Cook? Vlasak} Rh5 $5 {Probably best chance.} (1... Qh5 2.
+Kg8 Rxg7+ $2 {According to judge Sevcik.} (2... Qxf3 3. Qxf3 Kxf3 4. Kf7 Rf5+ (
+4... Ke4 5. h4) 5. Kg6) 3. Qxg7 (3. Kxg7+ Qg5+ 4. Kf7+ Kxf3 5. Ke8+ Kg3 $13)
+3... Kxf3 4. Qf7+) 2. Kg8 Qh7+ 3. Kf7+ Kxf3 4. Ke8+ Rf5 5. g8=Q Rxf8+ 6. Kxf8 (
+6. Qxf8+ Kg2) 6... Qh6+ 7. Qg7) (1. Qb2 Kxf3 2. Qb3+ Kg2 3. g8=Q Rh5) (1. g8=Q+
+Rh5) (1. Rg3 $5 Kh1 $1 (1... Rxg3 2. Qxg3+ Qxg3+ 3. g8=R Kxh3 4. Rxg3+ Kxg3 5.
+Kg7) 2. Rxg5 (2. Qb1+ $1 {Cook? Husak} Qxb1+ 3. Rxg5 Qe1 (3... Qa1+ 4. Kh7 Qb1+
+5. Kh6 Qe4 6. g8=Q Qh4+ 7. Kg6 Qe4+ 8. Kh5 Qf3+ 9. Kh6 Qf6+ 10. Kh7 Qe7+ 11.
+Kh8 Qf6+ 12. Qg7 Qd8+ 13. Kh7 Qd3+ 14. Qg6 Qd7+ 15. Kh6 Qxh3+ 16. Rh5) 4. g8=Q
+Qh4+ 5. Qh7 Qxg5 6. Qe4+ Kh2 7. Qxc6 {with a slow, but probably win}) 2... Qxg7
+) 1... Rxg3 2. Rxg3 Qxg3+ 3. g8=R+ (3. g8=Q+ Kh1 4. Qg4 (4. h4 $5 Qe5+ 5. Qg7
+Qh5 $1 6. Kg8 (6. Qh7 Qxc5) 6... Qxc5 7. Qg5 Qxg5+ 8. hxg5 c5 9. g6 c4 10. g7
+c3 11. Kf7 c2) 4... Qe5+ 5. Kh7 Qxc5 6. h4 Qe7+ 7. Kg6 Qe8+ 8. Kf5 Qd7+ 9. Kf4
+Qd4+ 10. Kf3 Qd1+ 11. Kg3 Qg1+) 3... Kxh3 4. Rxg3+ Kxg3 5. Kg7 Kf4 6. Kf6 Ke4
+7. Ke6 Kd4 8. Kd6 1-0
+
+[Event "SS1990-91 \[2comm\]"]
+[Site "?"]
+[Date "1990.??.??"]
+[Round "?"]
+[White "Amirjan, AA."]
+[Black "\[+0103.02f5c2\]"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "8/8/R7/4pK2/8/8/1nk1p3/8 w - - 0 1"]
+[PlyCount "15"]
+[EventDate "1990.??.??"]
+
+1. Ra1 Nd1 2. Ra2 Nb2 3. Ra1 Nd3+ 4. Rg1 (4. Rh1 $2 Kd2+ 5. Ke4 Nf2+) 4... Kc3
+$5 (4... Kd2+ 5. Ke4 Kc2 6. Rg2 Kd2 7. Rg1) 5. Ke4 Kd2 6. Rg2 Kd1 7. Rg1+ Kd2
+8. Rg2 1/2-1/2
+
+[Event "SS1990-91  \[3 comm cooked\]"]
+[Site "?"]
+[Date "1990.??.??"]
+[Round "?"]
+[White "Dragoun, M."]
+[Black "\[+0030.46a6a8\]"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "k7/P7/K1p1p3/2p1p1P1/2p1p3/2P1P3/5b2/8 w - - 0 1"]
+[PlyCount "15"]
+[EventDate "1990.??.??"]
+
+1. g6 Bh4+ 2. g7 Bd8 3. g8=B (3. g8=N Bh4+ $5 (3... Bb6 $2 4. Nf6# Bxa7 5. Nd7)
+(3... Bc7 4. Ne7 Bb6 5. Nxc6 Bc7 6. Ne7 Bb6 7. Ng8 (7. Nc8 Bc7 8. Kb5 Kb7 9.
+Kxc5 Bd8 10. Kxc4 Bg5 11. Kb5 Bxe3) 7... Bd8 8. Nh6) 4. Nh6 Bd8 (4... Be1 $2 5.
+Nf7 Bxc3+ 6. Nd6# Ba5+ 7. Kxa5 Kxa7 8. Nxc4) 5. Ng4 Bc7 $1 (5... Bb6 6. Nf6#)
+6. Nf6# Bb6 {mutual zugzwang} 7. Ne8 $5 (7. Nxe4 Bxa7 8. Nd2 e4 9. Nxe4 (9.
+Nxc4 e5 10. Nxe5 Bb8 11. Nc4 Bg3+ 12. Kb6 Be1 13. Kxc5 Bxc3 14. Kxc6) 9... Bb8
+10. Kb6 (10. Nd2 Be5 11. Nb1 Bc7 12. e4 Kb8) 10... Bh2 11. Nxc5 Be5 12. Na4 $1
+(12. Ne4 Bg7 13. Kxc6 Bh6) 12... Bg7 13. Kxc6 Ka7 14. e4 (14. Kc5 Kb7 15. Kxc4
+Kc6) 14... Ka6 15. Nc5+ Ka7 16. Nxe6 Bxc3 17. Kc5 Kb7 18. Kxc4 Bf6 19. Kd5 Kc8)
+(7. Nd7 $6 Bxa7 8. Nb6 Bxb6 9. Kxb6 Kb8 10. Kxc6 Kc8 11. Kxc5 Kc7 12. Kxc4 Kc6
+13. Kb4 Kb6 14. c4 Kc6 15. c5 Kd5 16. Kb5) 7... Bxa7 8. Nc7+ Kb8 9. Nxe6 Ka8
+10. Ng7 Bb8 (10... Kb8 11. Nf5 Ka8 12. Ne7 Bb8 13. Kb6 Bd6 14. Nf5 Bb8 15. Ng3
+Bd6 16. Nxe4 Bf8 17. Ng3 e4 18. Nf5 Kb8 19. Kxc6 Kc8 20. Kd5 Kd7 21. Kxe4 Ke6
+22. Kf4 Kd5 23. e4+ Ke6) 11. Ne8 (11. Nf5 $5 Bc7 12. Ne7 Bd8 13. Nxc6 Bg5)
+11... Ba7 12. Nd6 (12. Nf6 Bb8 13. Kb6 Bd6 14. Nxe4 Bf8 15. Nd2 e4 16. Kxc6 Bg7
+17. Nxe4 Bh6 18. Kxc5 Bxe3+ 19. Kxc4 Kb7) 12... Bb8 13. Nxe4 Bc7 14. Nxc5 Kb8 (
+14... e4 $5) 15. e4 Kc8 16. Ne6 Kd7 17. Nxc7 Kxc7 18. Ka7 Kd6 19. Kb6 Kd7 20.
+Kb7 Kd6 21. Kc8 Kc5 22. Kd7 Kb5 23. Kd6 Ka4 24. Kxe5 Kb3 25. Kd4 c5+ 26. Kd5
+Kxc3 27. e5 Kb4 28. e6 c3 29. e7 c2 30. e8=Q c1=Q) 3... Bb6 4. Bxe6 Bxa7 5.
+Bd7+ $1 (5. Bc8 {dual Husak} Kb8 6. Bf5 $1 (6. Bd7 Kc7 7. Kxa7 Kxd7 8. Kb7 Kd6
+9. Kb6 Kd7 10. Kxc5 Kc7 11. Kb4 Kd7 12. Kxc4 Kd6) 6... Ka8 7. Bxe4 Kb8 8. Bf3 {
+see dual in 6th move}) 5... Kb8 6. Be8 (6. Bf5 $5 {dual Husak} Ka8 7. Bxe4 Kb8
+8. Bf3 $1 (8. Bxc6 Kc7 $1) 8... Ka8 9. Bxc6+ Kb8 10. Be4) 6... Ka8 7. Bxc6+ Kb8
+8. Bxe4 1-0
+

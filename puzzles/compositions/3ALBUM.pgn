@@ -1,0 +1,751 @@
+﻿[Event "Cs. sach"]
+[Site "?"]
+[Date "1995.??.??"]
+[Round "?"]
+[White "Vlasak, Emil+Hlinka+Husak"]
+[Black "\[+0750.20h1h7\], 1. priz"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "3r4/1R3BPk/8/2B3P1/8/2r5/2b5/7K w - - 0 1"]
+[PlyCount "23"]
+[EventDate "1995.??.??"]
+[SourceTitle "Inf 06 \[19_10+?\]"]
+
+1. g8=Q# (1. Bf8 Be4 2. Kg1 Rg3+ 3. Kf2 Rxg5) (1. Rc7 Kxg7 2. Bd4+ Rxd4 3. Rxc3
+Kxf7) (1. g8=R# Be4 2. Kg1 Bxb7 3. g6 Kh6 4. Bf8+ Rxf8 5. Rxf8 Rc8) (1. g8=B
+Kh8 $1 (1... Kg7 $2 2. Rc7) 2. Be7 Be4 3. Kg1 Rxg8 4. Bf6+ Rg7 5. Rb8+ (5.
+Bxg7+ Kxg7 6. Bd5+ Kg6) (5. Bxc3 Bxb7 6. g6 Be4 7. Kf2 Bxg6 8. Bxg6 Kg8) 5...
+Kh7 6. g6+ Bxg6 7. Bxc3 Bxf7+ $1) 1... Rxg8 2. Bh5+ $3 (2. Be8 Rg7 3. Rxg7 Kxg7
+4. Bd4+ Kf8) (2. Ba2 Kg6 $1 3. Rb6+ Kh5 4. Bxg8 Rxc5) 2... Rg7 $1 3. Rxg7 Kh8
+$3 4. Bd4 (4. Rc7 Rh3 5. Kg2 Rxh5 6. Bd4+ Kg8 7. Rxc2 Rxg5+) 4... Rh3 5. Kg1 $3
+(5. Kg2 $2 Rxh5 6. Bf6 Bf5 $11 {mutual zugzwang} 7. Kg3 (7. Kg1 Rh3 $1 8. Ba1
+Bd3 9. Bd4 (9. Kg2 Bf1+ 10. Kf2 Bd3 11. Kg1 Be4 $1) 9... Be4 $1 10. Re7+ Kg8
+11. Rxe4 Rg3+ 12. Kf2 Rxg5) (7. Bb2 Bb1 8. Ba1 Be4+ 9. Kg3 Rh1 10. Bf6 Bf5) (7.
+Bc3 Bc2 8. Kg3 Rh1 9. Kf4 Rf1+ 10. Ke3 Rh1 11. Bf6 Bf5 12. Kd4 Rd1+) (7. g6
+Bxg6 8. Rxg6+ Kh7) 7... Rh1 8. Kf4 (8. Kg2 Be4+ 9. Kf2 Bf5 10. Kg3 Bb1 11. Bb2
+Rh5 $1 12. Kg4 Rh1 13. Bf6 Bf5+) 8... Rf1+ 9. Ke5 Re1+ 10. Kd6 (10. Kxf5 Rf1+
+11. Ke5 Rf5+ $1 (11... Rxf6 $2 12. Rh7+ $1) 12. Ke6 Rxf6+) 10... Rd1+ 11. Kc7 (
+11. Ke7 Rd7+) 11... Rc1+ 12. Kb7 Rb1+ 13. Ka7 Rh1 $1) 5... Rxh5 6. Bf6 $1 (6.
+Rc7+ Kg8 7. Rxc2 Rxg5+) (6. Bc3 Be4 7. Bf6 Rh1+ 8. Kf2 Bf5) (6. Kg2 Be4+ 7. Kg3
+Bb1 $1 8. Kg4 Rh1 $1) 6... Bf5 7. Kg2 $1 {mutual zugzwang} Be4+ (7... Rh7 8.
+Rg6+) (7... Bh7 8. Rg6#) (7... Rh3 8. g6) (7... Rh4 8. g6 Bxg6 (8... Rg4+ 9.
+Kf3) 9. Ra7+ Kg8 10. Bxh4) 8. Kg3 Bf5 9. Kf4 Rh4+ (9... Rh1 10. Ra7+ Kg8 11.
+Kxf5) 10. Ke5 $1 (10. Kxf5 $2 Rf4+ 11. Ke5 Rf5+ $1 (11... Rxf6 $2 12. Rh7+) 12.
+Ke6 Rxf6+ $11) 10... Re4+ $143 (10... Be4 11. Re7+ Kg8 12. g6 Rh5+ 13. Kxe4)
+11. Kd6 Re6+ (11... Rg4 12. g6) 12. Kd5 1-0
+
+[Event "Cs. sach _9+9\]"]
+[Site "?"]
+[Date "1995.??.??"]
+[Round "?.33"]
+[White "Matous, Mario"]
+[Black "\[h8a5\], 4. prize"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "7K/1Pr5/r1n3R1/k7/n5R1/N7/8/8 w - - 0 1"]
+[PlyCount "15"]
+[EventDate "1995.??.??"]
+
+1. Nc4 (1. Rxc6 Raxc6 $1) 1... Kb5 (1... Kb4 2. Rxc6 $18) 2. Nd6+ (2. R6g5+ Kb4
+3. Na5+ Ka3) 2... Kb6 (2... Ka5 3. R6g5+ Kb6 4. Rb5+ Ka7 5. Rg8 {see main line}
+) 3. Rb4+ Ka7 (3... Kc5 4. Rc4+ Kd5 5. Rxc6 Rcxc6 6. b8=Q Rxd6 7. Rxd6+ Rxd6 8.
+Qb3+) 4. Rg8 Nb6 5. Ra8+ Nxa8 6. b8=Q+ Nxb8 7. Rb7+ Rxb7 8. Nc8# {#} 1-0
+
+[Event "Matous JT-50 _8+10\]"]
+[Site "?"]
+[Date "1997.??.??"]
+[Round "?.45"]
+[White "Polasek, Jaroslav"]
+[Black "\[+0312.10a2d4\], 2. prize"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "2BN4/8/8/8/P2k4/8/K7/3r2N1 w - - 0 1"]
+[PlyCount "23"]
+[EventDate "1997.??.??"]
+
+1. Ne2 (1. Nh3 $2 Kc5 2. Nb7+ Kb6 3. Nf4 Kc7 $11) (1. Ne6 $2 Kc4 2. Ne2 (2. Nf3
+Kb4) 2... Rd2 3. Kb1 Rd6 $1 $11) (1. a5 $2 Kc5 $1 2. Nb7+ (2. Ne6+ Kb5 3. Ne2
+Kxa5) 2... Kc6 {threat Kc7} 3. a6 Kb6 $11) 1... Kc5 $1 (1... Ke3 2. Nc6 $1 Rd2
+3. Kb3 Kxe2 4. a5 Rd6 5. Bb7 Rd1 6. a6) (1... Kc4 2. Ba6+ Kb4 3. Nc6+ Kc5+ 4.
+Bb5) 2. Ne6+ (2. Nb7+ $5 {thematic try} Kb4 $1 (2... Kb6 $2 3. Nc3 Rd2 (3...
+Rd4 4. Kb3) 4. Kb3 Kc7 5. Nd6 $1 $18 (5. Ne4 Rd3+ 6. Kc4 Ra3 $11)) 3. Bg4 (3.
+a5 Rd2 4. Kb1 Rxe2 5. a6 Re1+ 6. Kc2 Re2+ 7. Kd3 Ra2 8. Nd8 Kc5 $11) 3... Rf1+
+$1 (3... Rd2 $5 {try} 4. Kb1 Kxa4 5. Kc1 $18) 4. a5 (4. Kb2 Rf7 $1 (4... Kxa4
+$2 5. Nc3+ Kb4 6. Nd5+ Kc4 7. Be2+) 5. Nd6 (5. Nd8 Rf2) 5... Rg7 $11) (4. Bd7
+Rf7 5. Bc6 Rc7 6. Bf3 Rf7 $11) 4... Rf7 5. Nd8 (5. a6 Rf6 6. a7 Ra6 7. Kb2 Rxa7
+$11) (5. Bc8 Rc7) 5... Rf6 6. Nb7 Rf7) 2... Kb4 3. N6d4 Rd2 4. Kb1 Kxa4 5. Kc1
+Rd3 6. Kc2 Ra3 (6... Re3 7. Nc3+ Ka3 8. Ndb5+ Kb4 9. Nd5+) 7. Kb2 Rd3 8. Bf5
+Re3 9. Nc3+ Ka5 10. Nc6+ (10. Nb3+ $2 Ka6 11. Bc8+ Ka7 $1 $11) 10... Ka6 11.
+Bc8+ Kb6 12. Nd5+ 1-0
+
+[Event "Sevcik JT-60 _8+?\]"]
+[Site "?"]
+[Date "1996.??.??"]
+[Round "?.26"]
+[White "Husak, Karel+Hlinka"]
+[Black "\[+4432.22d1b1\], 2. prize"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "2b4q/1r6/Q7/1N6/8/1R1p3p/1N4PP/1k1K4 b - - 0 1"]
+[PlyCount "23"]
+[EventDate "1996.??.??"]
+
+1... Qh5 2. g4 Qxg4 3. Kd2 Qe2+ 4. Kc3 Qe1+ 5. Kxd3 (5. Kc4 $2 Be6+ 6. Kc5 Bxb3
+7. Qxb7 Qe5+ 8. Kb4 Kxb2 9. Qf3 Qe1+ 10. Kc5 d2 $19) 5... Rd7+ 6. Nd4 (6. Qd6
+Rxd6+ 7. Nxd6+ Qf1+ 8. Ke4 Qg2+ 9. Kd4+ Ka2 10. Kc3 Ba6 11. Rb4 Qxh2 12. Ne4
+Qc7+ 13. Nc4 Qc6 14. Kd4 Bxc4 15. Rxc4 Qb6+ 16. Kd3 Qb3+ 17. Rc3 Qd1+ 18. Ke3
+h2 $19) 6... Qf1+ (6... Rxd4+ 7. Kxd4 Qh4+ 8. Kc3 Qe1+ 9. Kd4 $11) 7. Kc3 (7.
+Ke3 $2 Qg1+ 8. Ke2 Re7+ $19) 7... Qe1+ 8. Kd3 Bxa6+ (8... Rxd4+ 9. Kxd4 Qg1+
+10. Kc3 Qg7+ 11. Kd2 Qg5+ 12. Kc3 Qe5+ 13. Kd2 Qxh2+ 14. Qe2+ $11) 9. Nc4 Ka2
+10. Ra3+ Kb1 11. Rb3+ Kc1 12. Rb1+ Kxb1 {^stalemate} 1/2-1/2
+
+[Event "Cs. sach _6+10\]"]
+[Site "?"]
+[Date "1997.??.??"]
+[Round "?.13"]
+[White "Lerch, Jan"]
+[Black "\[+0401.01c4d1\], 1. prize"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "4r3/8/3p4/1R6/2KN4/8/8/3k4 w - - 0 1"]
+[PlyCount "19"]
+[EventDate "1997.??.??"]
+
+1. Kd3 Rc8 $144 (1... Ke1 $144 2. Rf5 Kd1 3. Rf1+ $1 (3. Rf7 $2 d5 $1 4. Rf6
+Re4 5. Rf8 Re7 6. Ra8 Ke1 7. Ra1+ Kf2 8. Ra2+ Kg1 $11) 3... Re1 4. Rf2 Re8 (
+4... Kc1 5. Rd2 $1 Rh1 6. Ne2+ $18) 5. Nf3 Kc1 6. Rc2+ Kb1 7. Nd2+ Ka1 8. Ne4
+$1 Rh8 9. Nc3 Rh3+ 10. Kc4 (10. Kd4 $2 Rh4+ 11. Kd5 Rh2 $11)) 2. Rb7 $1 (2. Rb1
+$2 Rc1 3. Rb2 Ke1 $1 4. Rd2 Kf1 5. Nc2 Kg1 6. Ne3 Rc8 $11) 2... d5 3. Rb6 Rc4
+4. Rb8+ Rc7 5. Rh8+ {or} (5. Rg8+) 5... Kc1 (5... Re7 6. Nf5) 6. Rh1+ Kb2 7.
+Rh2+ Kc1 (7... Ka1 8. Nb5 $1 Rg7 9. Nc3 Rg3+ 10. Kc2 $18 (10. Kd4 $2 Rg2 $11))
+8. Rd2 $1 Kb1 (8... Rh7 9. Ne2+ $1) 9. Nb5 $1 Ra7 10. Nc3+ 1-0
+
+[Event "Kasparjan memorial _6+10\]"]
+[Site "?"]
+[Date "1997.??.??"]
+[Round "?.35"]
+[White "Matous, Mario"]
+[Black "\[+4044.12g2a5\], 4. prize"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "q7/8/1b6/k2N4/4Q2p/8/3p1BKP/7n b - - 0 1"]
+[PlyCount "15"]
+[EventDate "1997.??.??"]
+
+1... Qg8 (1... h3 $2 2. Kxh1 d1=Q+ 3. Be1 Kb5 $11 4. Qc4+) 2. Bg3 h3 3. Kxh1 (
+3. Kxh3 $2 Qxg3+ 4. hxg3 Nf2+) 3... d1=Q+ 4. Be1 Ka6 (4... Kb5 5. Qb4+ Kc6 6.
+Qxb6+ Kxd5 7. Qd6+ Kxd6) 5. Nb4+ (5. Nc7+ $2 Ka7 6. Nb5+ Kb8 7. Qe5+ Kc8 8.
+Na7+ Kb7 9. Qe7+ Ka8 10. Qe4+ Qgd5) 5... Kb5 (5... Ka7 6. Nc6+ Ka6 7. Nb4+) 6.
+Qc6+ Ka5 7. Qa8+ (7. Nd3+ $2 Qxe1+ 8. Nxe1 Qg1# {#}) 7... Qxa8+ (7... Ba7 8.
+Qxa7+ Kb5 9. Qb7+ Kc4 (9... Kc5 10. Qc7+ $1 Kd4 11. Qf4+ Kc5 12. Qc7+) 10. Qc7+
+Kb3 11. Qc3+ Ka4 12. Qc6+ Ka3 13. Nc2+ $11 Kb2 14. Qc3+ Ka2 15. Qa3+ Kb1 16.
+Qa1+ Kxc2 17. Qc3+ Kb1 18. Qb2+) 8. Nc6+ Kb5 {^stalemate} 1/2-1/2
+
+[Event "Cs. sach"]
+[Site "?"]
+[Date "1997.??.??"]
+[Round "?"]
+[White "Matous, Mario"]
+[Black "\[+0401.11e5g8\], 2. prize"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "6k1/7N/6P1/4K3/8/8/4pr2/6R1 w - - 0 1"]
+[PlyCount "17"]
+[EventDate "1997.??.??"]
+[SourceTitle "Inf 009 \[38_6+10\]"]
+
+1. Nf6+ Kg7 2. Ne8+ (2. Nh5+ Kh6 3. g7 Rf1+ 4. Rg6+ Kxh5) 2... Kh6 (2... Kg8 3.
+g7 e1=Q 4. Rxe1 Rg2 5. Rh1 Kf7 6. Rh8) 3. g7 Rf1+ (3... Rg2 4. Rh1+) 4. Rg6+ $1
+(4. g8=N+ Kh5 5. Ng7+ Kh4 6. Nf5+ Kh3) 4... Kh5 (4... Kxg6 5. g8=Q+ Kh6 6. Qg7+
+Kh5 7. Nf6+ Rxf6 8. Kxf6) 5. Nf6+ (5. Rg5+ Kh4 6. Rg4+ Kxg4 7. g8=Q+ Kf3) 5...
+Rxf6 (5... Kh4 6. Rh6+) 6. Kxf6 (6. Rg5+ Kxg5 7. g8=Q+ Rg6 8. Qd8+ Kg4 9. Qd2
+Kf3) 6... e1=Q 7. Rg5+ $1 {else perpetual:} (7. g8=Q Qa1+ 8. Kf7 Qa7+ 9. Kf8
+Qa8+ 10. Kg7 (10. Kf7 Qa7+ 11. Kf6 Qa6+ 12. Kf5 Qd3+ 13. Kf6 Qa6+ 14. Qe6 Qxe6+
+15. Kxe6 Kxg6) 10... Qxg8+ 11. Kxg8 Kxg6) 7... Kh6 $1 (7... Kh4 8. g8=Q) 8.
+g8=N+ (8. g8=Q Qe5+) 8... Kh7 9. Kf7 1-0
+
+[Event "Studie pod lupou _8+8\]"]
+[Site "?"]
+[Date "1995.??.??"]
+[Round "?.21"]
+[White "Vlasak, Emil"]
+[Black "\[+0031.30g6g8\]"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "6k1/1N6/2b3KP/7P/8/8/7P/8 w - - 0 1"]
+[PlyCount "19"]
+[EventDate "1995.??.??"]
+
+1. Nd6+ $1 (1. Nc5 Be8) (1. h7 Kh8 2. Nd6 Be4) 1... Bd5 2. h7 Kh8 3. Kh6 $1 {
+mutual zugzwang No 1} Ba2 4. Ne4 $3 (4. Nf5 $2 Bb1 5. Ne7 Bc2 $11 6. Ng6+ Bxg6)
+4... Bb3 $144 (4... Bb1 $11 5. Ng5 Bg6 $1 6. h3 $3 {mutual zugzwang No 4} Be8
+7. Nf3 Bg6 8. Ne5 Be8 (8... Bxh7 {see A.}) 9. h4 {mutual zugzwang No 5}) 5. Ng5
+Bd5 $1 6. h3 $3 {mutual zugzwang No 2} Bc4 7. Nf3 Bd3 8. Ne5 Bxh7 9. Ng6+ Kg8
+10. h4 {mutual zugzwang No 3} 1-0
+
+[Event "Studie pod lupou _6+9\]"]
+[Site "?"]
+[Date "1995.??.??"]
+[Round "?.18"]
+[White "Vlasak, Emil"]
+[Black "\[+4801.13h2a1\]"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "8/r7/6p1/q1PQ1R2/3p1R2/5N2/2rp3K/k7 w - - 0 1"]
+[PlyCount "19"]
+[EventDate "1995.??.??"]
+
+1. Nxd4 (1. Nxd2 $2 Rxd2 2. Kg3 gxf5) (1. Qxd4 $2 Kb1 2. Nxd2+ (2. Qb4+ Qxb4+
+3. Rxb4+ Kc1+ 4. Nxd2 Rxd2 5. Kg3 gxf5) 2... Rxd2 3. Qxd2 Qxd2+ 4. Rf2 Qh6 5.
+Kg3 gxf5) (1. Rxd4 $2 d1=Q+ 2. Kg3 Qae1+ 3. Nxe1 Qxe1+ 4. Kf4 Qf2+ 5. Kg5 Qxf5+
+) 1... d1=Q+ (1... Qa2 2. Nxc2 Qxc2 3. Rf1 d1=Q+ 4. Kg1) (1... gxf5 2. Nxc2 Kb1
+3. Ne3) (1... Rb2 2. Nb3 Kb1 3. Rf1+ d1=Q+ 4. Kg1) (1... Rh7 2. Kg2 {and
+whites are better comparing to main}) 2. Nxc2 Qxc2+ 3. Rf2 Qac3+ (3... gxf5 4.
+Rxc2) (3... Qaxc5 4. Qxc5) (3... Qxf5 4. Qd4) (3... Qca4 4. Qe5+) (3... Qc1+ 4.
+Qd4 Qac3+ 5. Qxc3 Qxc3+ 6. Rf1 Kb2 7. R5f2+) (3... Qc7 4. Kg2 Ra2 5. Rxc2 Rxc2+
+6. Rf2) (3... Qaa4 4. Qe5+ Kb1 5. Qe1+ Qc1+ 6. Qxc1+ Kxc1 7. Rf1+ Kb2 8. R5f2+)
+(3... Qe1 $5 4. Rxc2 Rh7 5. Kg2 Qh1+ 6. Kg3 Rh3+ (6... Qh4+ 7. Kf3 Qh3+ 8. Kf2
+Qh2+ 9. Qg2) 7. Kg4 Rh4+ (7... gxf5+ 8. Qxf5 Rh4+ 9. Kg3 Qe1+ 10. Rf2) 8. Kg5
+Rh5+ 9. Kxg6 Rh6+ 10. Kf7+) 4. R5f3 $1 (4. Qg2 $2 gxf5 5. Rxc2 Rh7 6. Kg1 Qe1+
+7. Qf1 Rh1+) (4. Qh1 $2 Kb2 5. Rxc2+ Qxc2) (4. Rxc2 $2 Qxc2 5. Kg1 (5. Kg3 gxf5
+6. Qd4 Ka2) 5... gxf5 6. Qd4 Qb2) (4. Rf7 $2 Rxf7 5. Qxf7+ Qe5+) 4... Ra2 $3 (
+4... Qxc5 5. Rxc2 Rh7 6. Kg3 Qg1+ 7. Rg2) (4... Qh8 5. Kg1 Qb1+ (5... Ra2 6.
+Rxc2 Rxc2 7. Rf2) 6. Rf1) (4... Qxf2+ 5. Rxf2 Rh7 6. Kg1 Qg3+ 7. Qg2) (4... Rh7
+5. Kg2) 5. Qxa2 $3 (5. Rxc3 $2 Qxf2+ 6. Kh3 Qh2+ 7. Kg4 Rg2+ 8. Kf3 Rf2+ 9. Kg4
+Qf4+) (5. Rxc2 $2 Qxc2 6. Kg3 Qh2+ 7. Kg4 Rg2+) (5. Kg1 $2 Qe1+) (5. Kg2 $5
+Qxc5 $1 6. Qxa2 Qxa2) 5... Kxa2 6. Kg2 $3 (6. Kg1 Qxc5) (6. Kg3 Qxf2+) 6... Kb1
+(6... Qxf3+ 7. Kxf3) (6... Qxf2+ 7. Rxf2+) (6... Qxc5 7. Rxc2+ Qxc2+ 8. Rf2) 7.
+Rxc3 Qxc3 8. Rf1+ Kc2 9. Rf2+ Kb3 10. Rf3 1/2-1/2
+
+[Event "Nestorescu JT-65 _6+8\]"]
+[Site "?"]
+[Date "1996.??.??"]
+[Round "?.31"]
+[White "Husak, Karel"]
+[Black "\[+1003.02d5d2\], 2. com."]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "8/3Q4/8/3K4/5p2/8/2pk4/5n2 w - - 0 1"]
+[PlyCount "21"]
+[EventDate "1996.??.??"]
+
+1. Ke4 $1 (1. Ke5 $2 Ke1 2. Qc6 Kd1 3. Qf3+ Ke1 4. Qxf4 Kd1 5. Qxf1+ (5. Qd4+
+Nd2 6. Qg1+ (6. Qg4+ Nf3+ 7. Qxf3+ Kd2 $11) 6... Nf1 $11) 5... Kd2 $11) (1. Kc5
+$2 Ke1 2. Qe7+ Kd1 3. Qd7+ Ke1 $11) (1. Kc4 $2 Ke1 2. Qe7+ Kd1 3. Kd3 c1=N+ $1
+4. Ke4 Ne2 $11 5. Kf3 (5. Qh4 Nd2+ 6. Kf5 f3 7. Qf2 Nc1 8. Qd4 (8. Qg1+ Ke2 9.
+Qxc1 f2 $11) 8... Nd3 $1 $11) (5. Qh7 Nd2+ 6. Kd3 Nc1+ 7. Kd4 Ncb3+ 8. Ke5 f3
+9. Qa7 Nc1 10. Qg1+ Ke2 11. Qxc1 f2 $11) 5... Nd2+ 6. Kf2 Nc3) 1... Ke1 (1...
+Kc3 2. Qd3+ Kb2 3. Qb5+ Ka2 4. Qxf1 $19) (1... Kc1 2. Kd3 Ne3 3. Qd4 Kb1 4.
+Qb4+ Ka2 5. Kd2 $19) 2. Qc6 $1 Kd1 $1 (2... Kd2 3. Qd6+ Ke1 4. Qxf4 {see main
+line}) 3. Qa4 $1 (3. Kd3 $2 c1=N+ $1 4. Ke4 Ne2 $11 5. Qa4+ (5. Ke5 Nd2 6. Qh1+
+Kc2 7. Qa8 f3 8. Qa4+ Kd3 9. Qd7+ Kc2 10. Qa7 Nc3 11. Kf4 Nd5+ 12. Kf5 Nc3 13.
+Kg4 Nce4 $11) (5. Qf6 Nd2+ 6. Kf5 f3 7. Kg4 Nc1 8. Qd4 Nd3 9. Qa4+ Ke2 $11)
+5... Ke1 6. Qa3 Nd2+ 7. Kd3 Nb3 $1 8. Qe7 Nbd4 9. Qh4+ Kf1 10. Qh1+ Kf2 11.
+Qh2+ Kf1 12. Qh7 Kf2 13. Ke4 Kg1 14. Qf7 Kf2 15. Qf6 f3 16. Qh4+ Kg2 17. Qg4+
+Kf1 $11) (3. Qd5+ $2 Nd2+ 4. Kd3 c1=N+ $1 5. Kd4 Ne2+ 6. Ke5 f3 7. Qc5 Ke1 $11)
+3... Kd2 (3... Ne3 4. Kd3 Ke1 5. Qb4+ Kf2 6. Qxf4+) 4. Qd4+ (4. Qa5+ $2 Kd1 5.
+Kd3 c1=N+ $1 6. Ke4 Ne2 $11 7. Qa1+ (7. Qa4+ Ke1 8. Qb4+ Kf2 9. Qc5+ Kg2 10.
+Kd3 Nfg3) (7. Kf3 Nd2+ 8. Kf2 Nc3 9. Qh5+ Kc2 10. Ke1 f3 $11) 7... Kc2 8. Kf3
+Nfg3 9. Qa2+ Kc3 10. Qd5 Kc2 11. Qc5+ Kb1 12. Qb4+ Kc1 13. Qe1+ Kc2 14. Qa1 Kd3
+) 4... Ke1 5. Qc3+ (5. Qb2 $2 Kd1 6. Kd3 c1=N+ $1 $11 7. Kd4 (7. Kc3 Ne2+ 8.
+Kc4 Nd2+ 9. Kd5 f3 10. Qa1+ Nc1 11. Qd4 Nd3 12. Qa4+ Ke2 $11) (7. Ke4 Nd2+ 8.
+Kd5 f3 9. Qd4 Nd3 $11) 7... Nd2 8. Kd5 f3 9. Qd4 Nd3 $1 10. Qa4+ Ke2 11. Qg4
+Ke1 12. Qg1+ Ke2) (5. Qc5 Kd1 6. Qh5+ Ke1 7. Kd3 c1=N+ $1 $11 8. Kc2 Ne2) 5...
+Kd1 6. Qf3+ (6. Qd4+ $2 Nd2+ 7. Kd3 $2 c1=N+ 8. Kc3 Ne2+ $19) 6... Ke1 7. Qxf4
+$1 (7. Kd3 $2 c1=N+ $11 8. Kd4 Ne2+ 9. Ke5 Nd2 10. Qh1+ Kf2 11. Qh6 Ke1 12.
+Qh4+ Kf1 13. Qh3+ Ke1 14. Qg2 f3 $11) 7... Nd2+ 8. Kd3 c1=Q 9. Qh4+ Kf1 10.
+Qh1+ Kf2 11. Qxc1 1-0
+
+[Event "Nestorescu JT-65 _6+8\]"]
+[Site "?"]
+[Date "1995.??.??"]
+[Round "?.37"]
+[White "Matous, Mario"]
+[Black "\[+4400.02g6c7\], 3. h.m."]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "4r3/2kq2p1/6K1/8/4Q3/R7/1p6/8 w - - 0 1"]
+[PlyCount "14"]
+[EventDate "1995.??.??"]
+
+1. Rc3 Kd8 2. Qa8+ Ke7 3. Re3+ Kf8 4. Qf3+ (4. Qa3+ Re7) 4... Kg8 5. Qd5+ Re6 (
+5... Qxd5 6. Rxe8# {#}) 6. Rxe6 b1=Q+ 7. Re4+ Qxd5 {^stalemate} 1/2-1/2
+
+[Event "Sevcik JT-60 _7+7\]"]
+[Site "?"]
+[Date "1996.??.??"]
+[Round "?.41"]
+[White "Polasek, Jaroslav"]
+[Black "\[+0314.11b7a4\], 3. h.m."]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "8/1K3B2/N3p3/P7/k4n2/7r/8/8 w - - 0 1"]
+[PlyCount "17"]
+[EventDate "1996.??.??"]
+
+1. Nc5 (1. Nc7+ $2 Rh7 2. a6 Nd5 $1 3. a7 Nxc7) 1... Kxa5 (1... Kb5 2. Nxe6
+Nxe6 3. Bxe6 Rh7 4. Kc8 Kc6 5. Kb8 $11) 2. Bxe6 $1 (2. Nxe6 $5 {Thematic try}
+Rh7 3. Nxf4 (3. Nd8 Nd3+ 4. Kc8 Ne5 5. Bd5 Kb6 6. Be6 Rh8 7. Bd5 Kc5 {with
+next Nf7 or Nc6}) 3... Rxf7) (2. Kc6 $143 e5 3. Kd6 Re3 4. Bd5 Kb4 5. Be4 Ne2
+$1 6. Nd3+ Kc4 7. Bf5 e4 8. Ne5+ Kd4 9. Nc6+ Kc3 10. Ke5 Ng3 11. Bg6 Re1 12.
+Kf4 e3 13. Kxg3 Rg1+ 14. Kf3 Rxg6) 2... Rh7 3. Kc6 $1 (3. Bd7 $5 {Thematic try}
+Nd3 $1 4. Nxd3 Rxd7+) 3... Rh6 4. Kd7 $1 (4. Kd6 $2 Kb5 $19 {mutual zugzwang})
+4... Kb6 5. Na4+ $1 Ka5 6. Nc5 Kb5 7. Kd6 {mutual zugzwang} Rg6 8. Ke5 Kxc5 9.
+Bf5 1/2-1/2
+
+[Event "Magyar Sakkelet _7+?\]"]
+[Site "?"]
+[Date "1995.??.??"]
+[Round "?.20"]
+[White "Vlasak, Emil+Hlinka"]
+[Black "\[+0041.21f5h8\]"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "7k/3b3B/8/5K1P/4p2P/1N6/8/8 w - - 0 1"]
+[PlyCount "21"]
+[EventDate "1995.??.??"]
+
+1. Kg6 e3 (1... Bb5 2. Nd4 e3 3. Nxb5 e2 4. Nd6#) 2. Nd4 (2. Nc1 Bb5) 2... e2 (
+2... Bb5 3. Nxb5) (2... Bg4 3. Kh6 e2 (3... Bd1 4. Bd3) 4. Nc2 Bf3 (4... Bxh5
+5. Kxh5 Kxh7 6. Ne1 Kg7 7. Ng2 Kh7 8. Kg4 Kh6 9. Kf3) 5. Bd3 Bg4 6. Kg5) 3.
+Nxe2 (3. Nf3 Bc6 4. Ne1 Be4+) (3. Nc2 Ba4 4. Ne1 Bc2+ 5. Nxc2 e1=Q 6. Nxe1)
+3... Bb5 4. Nf4 Bd3+ 5. Kg5 $3 (5. Kh6 Bxh7 6. Ng6 Kg8 {zugzwang} 7. Kg5 Kf7 8.
+Kf5 Kg7) 5... Bxh7 6. Ng6 Kg7 7. h6+ Kg8 8. h5 Kf7 9. Kf5 Bg8 $143 10. Ne5+ Kf8
+11. Kg6 1-0
+
+[Event "Matous JT-50 _7+7\]"]
+[Site "?"]
+[Date "1997.??.??"]
+[Round "?.23"]
+[White "Vlasak, Emil"]
+[Black "\[+0710.12c5d8\], 5. com."]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "3k4/1p6/rr6/2K5/8/p7/1P6/2R1B3 w - - 0 1"]
+[PlyCount "21"]
+[EventDate "1997.??.??"]
+
+1. Ba5 (1. bxa3 Rc6) (1. Rd1 Kc7 2. bxa3 (2. Bg3+ Kc8 3. bxa3 Rc6 4. Kb4 Rab6+
+5. Ka4 Rb2) 2... Rxa3) 1... axb2 (1... Rxa5 2. Kxb6 axb2 3. Rd1) (1... Kc7 2.
+Bxb6+ Rxb6 3. Kd4+ Rc6 4. Rxc6+ Kxc6 5. bxa3) 2. Bxb6 (2. Rd1 Ke8 3. Bxb6 Ra1)
+2... Rxb6 (2... Kd7 3. Rb1) 3. Rd1 $1 Kc7 4. Rb1 {mutual zugzwang} Rb3 5. Kc4
+Rb6 6. Kc5 Rc6+ 7. Kd4 $1 (7. Kd5 Rc2 8. Kd4 Kc6 9. Kd3 Rh2 10. Kc3 Kb5 11. Rg1
+(11. Kb3 Rh4) 11... Ka4) (7. Kb5 Rc2 8. Kb4 Kc6 9. Ka4 Rc4+ 10. Ka3 Rc5 11. Ka2
+Ra5+ 12. Kxb2 Rb5+) (7. Kb4 Kd7 $1 (7... Kb8 8. Rxb2 Rb6+ 9. Kc3 Rxb2 10. Kxb2
+Kc7 11. Kc3) 8. Kb5 (8. Rd1+ Rd6 9. Rb1 Rb6+ 10. Kc5 Kc7) 8... Rc2 9. Kb6 Kd6
+10. Kb5 Kc7 11. Kb4 Kc6 12. Kb3 Rc5) 7... Rc2 (7... Rd6+ 8. Kc4 Rb6 9. Kc5) 8.
+Kd3 Rh2 $143 9. Kc3 (9. Rg1 Rh5 10. Kc2 Rb5 11. Kb1) 9... Kc6 10. Rg1 (10. Kb3
+Rh5) 10... Kb5 11. Kb3 1/2-1/2
+
+[Event "Cs. sach"]
+[Site "?"]
+[Date "1997.??.??"]
+[Round "?"]
+[White "Husák, Karel"]
+[Black "\[+0130.13g5g7\], 1. spec. h.m."]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "7b/6k1/8/5PKp/1R6/4p3/2p5/8 w - - 0 1"]
+[PlyCount "29"]
+[EventDate "1997.??.??"]
+[SourceTitle "Inf 11 [plus 6 cor [24_6+"]
+
+1. Rc4 $1 {premature would be cheks in move one:} (1. f6 Kf7 2. Rb7+ Ke6 3. f7
+Bg7 4. Kg6 Bf8 5. Rc7 e2) (1. Rb7 Kf8 2. Rb8+ Ke7 3. Rc8 e2) 1... e2 2. Rxc2 (
+2. f6 $2 Kf7 3. Rxc2 (3. Rc7+ Ke6 4. f7 Bg7 5. Kg6 e1=Q) 3... Bxf6) (2. Rc7 Kf8
+3. Rxc2 e1=Q 4. Rc8+ Kf7 5. Rxh8 Qg3+) 2... e1=Q 3. f6 Kf7 4. Rc7+ Kg8 (4...
+Ke8 5. Re7+) 5. Rc8+ Kh7 6. Rc7+ Bg7 7. Rxg7+ Kh8 8. Kxh5 Qe6 $1 {the other is
+database-tested} 9. Kg5 $1 (9. Kg6 $2 Qg4+ 10. Kf7 $1 (10. Kh6 Qf5 11. Rf7 (11.
+Rg6 Qe5 12. f7 Qf4+) 11... Qf4+ 12. Kg6 Qe4+ 13. Kg5 Qe5+ 14. Kh6 Qe3+ 15. Kh5
+(15. Kg6 Qe8) 15... Qe8) 10... Qf5 11. Rg8+ $1 (11. Ke7 Qd5 $1 12. f7 (12. Rg4
+Qe5+) (12. Kf8 Qe6 13. Rg6 Kh7 14. Rg7+ Kh6 15. Rf7 Qe5 16. Kg8 Qd5 17. Kf8
+Qd8#) 12... Qe5+) 11... Kh7 12. Re8 Qh5+ 13. Ke7 Kg6 14. Rg8+ Kf5 15. f7 Qe2+
+16. Kd8 Qd3+ 17. Ke7 Qe4+ 18. Kd8 Qd5+ 19. Ke7 Qe6+ 20. Kf8 Kf6) 9... Qe5+ 10.
+Kg6 Qe4+ 11. Kg5 $1 Qf3 12. Re7 $1 Kg8 $143 13. Rg7+ (13. Re8+ Kf7 14. Re7+ Kf8
+15. Rg7) 13... Kf8 14. Re7 Qg3+ 15. Kf5 1/2-1/2
+
+[Event "Shakend Nederland"]
+[Site "?"]
+[Date "1995.??.??"]
+[Round "?"]
+[White "Vlasak, Emil+Husak"]
+[Black "\[+0410.04a4e2\]"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "4r3/R7/2pB4/8/K7/p1p5/4k2p/8 w - - 0 1"]
+[PlyCount "27"]
+[EventDate "1995.??.??"]
+[SourceTitle "Inf 12 \[22_5+8\]"]
+
+{dedicated to J. van Reek to 50th birthday} 1. Rh7 $1 (1. Bxh2 c2+ 2. Bf4 Re3+
+$3 (2... Re4+ $2 3. Kb3 Rxf4 4. Kxc2 Rf3 5. Ra6 c5 6. Ra5 c4 7. Ra4) 3. Bxe3
+Kxe3 4. Re7+ Kd2+ 5. Rd7+ Kc3 6. Rc7 a2 7. Rxc6+ Kb2 8. Rb6+ Kc1 9. Rh6 a1=Q)
+1... a2 $3 (1... h1=Q+ 2. Rxh1 a2 3. Kb3 Ra8 4. Rh2 Kd3 5. Rxa2 Rxa2 6. Kxa2 c2
+7. Bf4) (1... c2+ 2. Rxh2 $1 (2. Bxa3 $6 Kd1+ $1 3. Rxh2 (3. Rd7+ Ke1+ 4. Rh7
+Ra8 5. Kb3 Rxa3+ 6. Kxc2 Ra2+) 3... Ra8 4. Kb4 c5+) 2... Kd1+ 3. Rh1+ Kd2+ 4.
+Rh2+ Kd3+ (4... Kc1+ 5. Bxa3+) 5. Rh3+ Kc4 6. Rh4+ Kd5 7. Bxa3 Ra8 8. Kb3 Rxa3+
+9. Kxc2) 2. Rxh2 Kd3+ 3. Rxa2 (3. Rh1 a1=Q+ 4. Rxa1 Ra8) 3... c2+ $1 4. Rxc2 (
+4. Bf4 $2 Kc3 $1 5. Rxc2+ Kxc2+ {and Black wins. Compare to main line, Black
+threats Re4+ a has the important tempo. For example:} 6. Ka5 (6. Kb4 Re4+) 6...
+c5 7. Kb5 c4) (4. Ba3 Ra8 5. Kb4 c1=Q $1 6. Bxc1 Rxa2 7. Bh6 (7. Kc5 Rc2+) 7...
+Rc2) 4... Kxc2 5. Kb4 $1 {This is the Husak's EG honourable mention from Reek
+50th Anniversary Jubilee. The only moves sequence was tested by CDROM.} (5. Ka5
+$2 Rd8 6. Bc7 (6. Be7 Rb8) 6... Rd5+ 7. Kb6 c5) 5... Kd3 6. Kc5 Rc8 7. Be7 Ke4
+8. Kd6 Re8 9. Bh4 Rh8 10. Be7 Rh6+ 11. Kc5 Ke5 $143 12. Bd8 Re6 13. Bc7+ Kf6
+14. Bd6 1/2-1/2
+
+[Event "Tidskrift for Schack _7+6\]"]
+[Site "?"]
+[Date "1996.??.??"]
+[Round "?.34"]
+[White "Matous, Mario+Polasek"]
+[Black "\[g8d4\], spec. h.m."]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "6K1/6PB/2q4B/7R/2Nk4/2b5/r7/8 w - - 0 1"]
+[PlyCount "8"]
+[EventDate "1996.??.??"]
+
+1. Kh8 (1. Rh4 Kc5 2. Be4 Qd7 3. Kh7 Ra7) (1. Bb1 Qe8+ 2. Kh7 Qxh5 3. Bg6+ (3.
+Bxa2 Qf5+ 4. Kg8 Kc5 5. Be3+ Kc6 6. Bd2 Qd5+ 7. Kh7 Qh1+ 8. Kg8 Bxg7 9. Kxg7
+Qa1+) 3... Qh3 4. g8=Q+ Ra7+ 5. Bf7+ Qf5+ 6. Qg6+ (6. Kh8 Kc5+ 7. Bg7 Qh3+ 8.
+Qh7 Qxh7+ 9. Kxh7 Rxf7) 6... Rxf7+ 7. Bg7 Kxc4) 1... Ra8+ (1... Kxc4 2. Bg8+
+Kb4 3. Bxa2) (1... Qf6 2. Nb6 $1) 2. g8=B Qxh6 (2... Qxc4 3. Bg7 Ke3 4. Rh3+
+Kf2 5. Rxc3 $11) (2... Qe6 3. Bg7 Kxc4 4. Rh4+ Kc5 5. Bxc3) 3. Rd5 Kxc4+ 4.
+Rd4+ Kb5 {^stalemate} 1/2-1/2
+
+[Event "Olimpijev JT-60 _6+7\]"]
+[Site "?"]
+[Date "1997.??.??"]
+[Round "?.39"]
+[White "Matous, Mario+Polasek"]
+[Black "\[+0471.12h4h7\], 6. h.m."]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "b7/5Ppk/r6b/3N3p/6RK/1B6/8/8 w - - 0 1"]
+[PlyCount "9"]
+[EventDate "1997.??.??"]
+
+1. Rg6 (1. f8=N $2 Kg8 2. Ng6 Kf7 3. Nc7+ (3. Nb6+ Ke8 $1) 3... Kf6 4. Ne8+ Kf5
+5. Kxh5 Ra7) 1... Bxd5 $1 (1... Rxg6 2. Bc2 Bxd5 3. f8=Q# Bb3 4. Qf5 $18) 2.
+Rxh6+ $1 (2. f8=N $2 Kh8 3. Bxd5 Rxg6) (2. Bc2 Bxf7 3. Rxa6 g6 $11) (2. Bxd5
+Rf6 $11) (2. Rxa6+ g5 3. Kg3 Bxb3 $11 4. Rxh6 Kg7 $11) (2. f8=Q+ Bxb3 $11) 2...
+Rxh6 (2... Kxh6 3. f8=Q Bxb3 4. Qh8+ Kg6 5. Qxh5+ Kf6 6. Qf3+) (2... gxh6 3.
+f8=Q+ Bxb3 4. Qe7+ Kg8 5. Qe8+ Kg7 6. Qe5+ Rf6 (6... Kf7 7. Qc7+ Kf6 8. Qc3+)
+7. Qg3+) 3. Bc2 Be4 $1 4. Bxe4 g6 5. f8=B $1 (5. f8=Q# {stalemate}) 1-0
+
+[Event "Cs. sach"]
+[Site "?"]
+[Date "1997.??.??"]
+[Round "?"]
+[White "Polasek, Jaroslav+Matous"]
+[Black "\[+0407.10g7h5\], 6. comm."]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "8/2n3K1/8/1P2n2k/8/3R4/N1r5/8 w - - 0 1"]
+[PlyCount "20"]
+[EventDate "1997.??.??"]
+[SourceTitle "Inf 006 [after Kalana [42"]
+
+1. Rc3 $1 {The only way to escape from the strong mate threats:} (1. Ra3 Rf2 $1
+2. Rh3 (2. Ra7 Ne8 3. Kg8 Ng6 4. Rf7 Rxa2) 2... Kg4 3. Re3 Kf5) (1. Re3 Ne6 2.
+Kf6 Ng4+) (1. Rh3 Kg5 $1 2. Rg3+ Kf5 3. Nc3 Ne6 4. Kh8 Rd2 5. Kh7 Rd7+ 6. Kg8
+Ng4) 1... Rg2 2. Kf6 (2. Kf8+ Rf2+ 3. Kg8 Nd5) 2... Nd7+ 3. Kf5 $1 (3. Ke7+ $2
+Rg7+ 4. Kd8+ Ne6+ 5. Kc8 Ndc5 6. Kb8 Rb7+ 7. Kc8 Ra7) (3. Kf7+ $2 Nd5 4. Rh3 (
+4. Ra3 Re2) 4... Kg4 5. Ra3 Re2 6. Ra6 Re7+) 3... Rf2+ 4. Ke4 Nxb5 (4... Nf6+
+5. Kd3 Nfd5 6. Rc5 Rxa2 7. b6) 5. Rf3 Nd6+ 6. Kf4 Rxa2 7. Ra3 Rb2 8. Rb3 Rc2 9.
+Rc3 Rd2 10. Rd3 Rxd3 {^stalemate} 1/2-1/2
+
+[Event "Sevcik JT-60 _7+6\]"]
+[Site "?"]
+[Date "1996.??.??"]
+[Round "?.40"]
+[White "Polasek, Jaroslav"]
+[Black "\[+0031.22c1c3\], 1. h.m."]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "8/8/4p1P1/3b4/1p6/2k5/1N2P3/2K5 w - - 0 1"]
+[PlyCount "15"]
+[EventDate "1996.??.??"]
+
+1. Na4 Kd4 (1... Kb3 $2 2. e4 Bxe4 3. Nc5+) 2. e3+ $3 (2. Nb6 $2 Be4 3. g7 Bh7
+4. Nd7 Bg8 5. Nf6 Bf7 6. e3+ Kc3 $11) 2... Kxe3 (2... Kd3 3. e4 $1 Kxe4 4. Nb6
+Bb3 5. Kb2) 3. Nb6 Be4 4. g7 Bh7 5. Nd7 Bg8 6. Nf6 Bf7 7. Ng4+ Kf4 8. Nh6 1-0
+
+[Event "Matous JT-50 _7+6\]"]
+[Site "?"]
+[Date "1997.??.??"]
+[Round "?.46"]
+[White "Polasek, Jaroslav"]
+[Black "\[+0007.20e4h7\], 2. h.m."]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "8/7k/7P/n3P3/3NK3/8/8/6n1 w - - 0 1"]
+[PlyCount "17"]
+[EventDate "1997.??.??"]
+
+1. e6 Nb7 (1... Nc4 2. Nb5 $1 Ne2 3. e7 Nc3 4. Kd3 Nxb5 5. e8=Q Nbd6 6. Qe6+)
+2. Ke5 $1 (2. Kd5 $2 Nh3 3. e7 (3. Ne2 Nf2 4. e7 Ng4 5. Kc6 Na5+ 6. Kb6 Nf6 7.
+Kxa5 Kxh6 $11) (3. Ke5 Ng5 4. e7 Nf7+ 5. Ke6 Nfd6 6. Nf5 (6. Kd7+ Ne4) 6... Ne8
+$11) 3... Nf4+ 4. Kc6 (4. Ke4 Ng6) 4... Na5+ 5. Kd6 (5. Kd7+ Nd5) 5... Nb7+ 6.
+Kc6 Na5+ 7. Kb5 (7. Kd7+ Nd5) 7... Nd5 $11) 2... Nf3+ 3. Nxf3 Nd8 4. Ng5 Kxh6
+5. Nf7+ Nxf7+ 6. Kd5 $3 (6. exf7 $2 Kg7 7. Ke6 Kf8 8. Kf6 {stalemate}) 6... Kg7
+7. e7 Nd6 8. Kxd6 Kf7 9. Kd7 1-0
+
+[Event "Matous JT-50 _6+7\]"]
+[Site "?"]
+[Date "1997.??.??"]
+[Round "?.14"]
+[White "Pospisil, Jaroslav"]
+[Black "\[+0440.10h3h5\], 1. prize"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "5R2/7B/8/7k/5P2/1r3b1K/8/8 w - - 0 1"]
+[PlyCount "11"]
+[EventDate "1997.??.??"]
+
+1. Bc2 Bg4 $144 (1... Rb6 $144 2. Kg3 $1 (2. Rh8# $2 Rh6 3. Rg8# (3. Re8 Rc6 4.
+Bf5 Bd1 $11) 3... Rb6 4. Kg3 Bb7 $11) 2... Bb7 $144 (2... Bh1 $144 3. Rh8# (3.
+Bf5 $2 Bb7 4. Rh8# Rh6 5. Rb8+ Rb6 6. Bc2 Kh6 7. Be4 Re6 $11) (3. Re8 $2 Ra6 $1
+4. Bd3 Ra8 5. Re5+ Kh6 6. Re7 Rh8 $11) (3. Rc8+ Rc6 4. Rh8# Rh6 {with
+repetition}) (3. Rd8+ $2 Bb7 4. Rd2 (4. Rb8+ Kh6 $11) 4... Kh6 $11) 3... Rh6 4.
+Rg8# (4. Rf8# $2 Bc6 5. Rb8# Re6 6. Bf5 Rf6 7. Bc2 Kh6 $11) (4. Rd8# $2 Ra6 5.
+Bf5 (5. Rd2 Ra3+) 5... Bb7 $11 (5... Ra8 $11)) 4... Rd6 5. Rg4 Kh6 6. Rh4+) (
+2... Be2 $144 3. Rh8# Rh6 4. Re8) 3. Rf5 $1 (3. Rb8+ $2 Kh6 4. Be4 Re6 5. Bxb7
+(5. Rh8+ Kg7 6. Rh7+ Kg8) 5... Rb6 $11) 3... Kh6 4. Rf7 Kh5 5. Rh7+ Rh6 6. Rxb7
+) 2. Kh2 (2. Kg2 $2 Bh3+ 3. Kf2 Rb2 $11) 2... Rb6 (2... Rh3+ 3. Kg2 Kh6 4. Rf7)
+3. Kg3 Bd7 (3... Be2 4. Rh8# Rh6 5. Re8) (3... Rh6 4. Ra8+) 4. Rh8# (4. Rg8+)
+4... Rh6 5. Rd8# Rd6 (5... Bc6 6. Rd2) 6. Bf5 1-0
+
+[Event "Cs.sach _6+6\]"]
+[Site "?"]
+[Date "1997.??.??"]
+[Round "?.29"]
+[White "Husak, Karel"]
+[Black "\[+0442.13b1c3\], repar."]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "B7/1N2p3/8/8/3b4/Ppkr4/1R1p4/1K4N1 w - - 0 1"]
+[PlyCount "23"]
+[EventDate "1997.??.??"]
+
+1. Ne2 Kc4+ 2. Na5+ $1 (2. Rxd2 $2 Rxd2 3. Na5+ Kd3 4. Nxd4 Rd1+ 5. Kb2 Kxd4 6.
+Nxb3+ Kc4 7. Kc2 Rd6 $11) 2... Kb5 3. Rxd2 Rxd2 4. Nxb3 Rb2 (4... Bc3 5. Nxd2
+Bxd2+ 6. Kc2 Bc1 7. Kb3) 5. Kc1 $1 (5. Ka1 $6 Ka4 $1 (5... Rxb3+ $2 6. Nxd4+
+Ka4 7. Bc6+ Kxa3 8. Nc2#) 6. Nexd4 (6. Nbxd4 Kxa3 7. Nc3 Rf2 $11) 6... Kxa3 7.
+Bd5 Rf2 $11) 5... Rxb3 (5... Ka4 6. Nbxd4 Rb8 7. Nc3+ Kxa3 8. Bd5 Kb4 9. Nc6+
+Kxc3 10. Nxb8) 6. Nxd4+ Ka4 (6... Kc4 7. Bd5+) 7. Bc6+ Kxa3 8. Nc2+ Ka2 9. Bd5
+e6 $143 10. Bc4 e5 11. Bd5 e4 12. Nd4 1-0
+
+[Event "Sevcik JT-60 \[8_7+5\]"]
+[Site "?"]
+[Date "1996.??.??"]
+[Round "?"]
+[White "Kos, Vladimir"]
+[Black "\[+0144.01c3g4\], 2. h.m."]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "8/2b5/8/4R3/1n4k1/2K5/2p5/5BN1 w - - 0 1"]
+[PlyCount "13"]
+[EventDate "1996.??.??"]
+
+1. Bh3 Kf4 2. Rf5+ Ke4 3. Ne2 Nd5 4. Kb2 Be5+ 5. Kxc2 Ne3+ 6. Kd2 Nxf5 7. Bg2#
+{#} 1-0
+
+[Event "Matous JT-50 _6+6\]"]
+[Site "?"]
+[Date "1997.??.??"]
+[Round "?.47"]
+[White "Polasek, Jaroslav"]
+[Black "\[+0403.34h7e6\], 3. h.m."]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "8/1p3P1K/3rkn1p/2p1P3/3P4/7p/8/1R6 w - - 0 1"]
+[PlyCount "39"]
+[EventDate "1997.??.??"]
+
+1. Kg6 $1 (1. Kg7 $2 Nh5+ 2. Kg8 Rd8+ 3. f8=Q+ Rxf8+ 4. Kxf8+ cxd4 $11) 1...
+Rxd4 $1 (1... Nd7 2. exd6+ cxd4 3. Kg7+ Kxd6 (3... d3 4. Re1+ Kxd6 5. Rd1) 4.
+Rb4 (4. Rxb7 h2 5. Rb6+ Ke5 6. Rxh6 d3 7. Rxh2)) (1... Rd8 2. exf6+ $18) 2.
+exf6+ $1 (2. f8=Q+ $5 Rg4+ 3. Kxh6+ Rh4+ 4. Kg7 Rg4+ 5. Kh6 Rh4+ $11) (2. Rb6
+$2 Ke7 3. Rxf6 Rd8 $1 4. Kg7 Rf8 5. e6 Ra8 6. Rxh6 b5 7. Rxh3 Kxe6 8. f8=Q Rxf8
+9. Kxf8 Kd5 10. Ke7 b4 $11) 2... Rg4+ 3. Kh5+ Rg5+ (3... Kxf7 $2 4. Kxg4 Kxf6
+5. Kf4) 4. Kxh6 Rf5 $1 5. Kg7 $1 (5. f8=Q+ $5 Rxf6+ 6. Qxf6 Kxf6 7. Kh5 Kf5 $1
+8. Kh4 (8. Re1 c4 9. Kh4 Kf4 10. Kxh3 Kf3 11. Kh2 Kf2 $11) 8... c4 9. Kg3 (9.
+Kxh3 Ke4 10. Kg3 c3 11. Kf2 c2 12. Ra1 Kd3 13. Ke1 Kc3 14. Rc1 Kd3) 9... Ke4
+10. Kf2 Kd3 11. Rxb7 c3 12. Rd7+ Ke4 13. Ke2 c2 14. Kd2 Kf3 $11) 5... Rg5+ 6.
+Kf8+ Kd7 $1 (6... h2 7. Ke8 Rg1 8. f8=Q h1=Q 9. Qe7+ Kd5 (9... Kf5 10. Qxc5+)
+10. Qxb7+) (6... Rh5 7. Re1+ Re5 (7... Kxf6 8. Rf1+) 8. Ke8) (6... Rf5 7. Ke8
+Rxf6 8. Rb6+) (6... Re5 7. Rf1 h2 8. Ke8 h1=Q 9. Rxh1 Kxf6+ 10. Kf8 Rf5 (10...
+Ke6 $143 11. Rf1 Kd7 12. Kg8 $18 Re8+ 13. fxe8=Q+ Kxe8 14. Rf7 b6 15. Rb7) (
+10... Kg6 $143 11. Kg8 Rf5 12. Rg1+ Kh5 13. f8=Q) 11. Re1 $1 Kg6 (11... b5 12.
+Ke8 Kg5 13. Rg1+) 12. Re6+ Kg5 13. Kg7 {with next Rg6+ and Rf6}) 7. Rd1+ $1 (7.
+Rxb7+ $6 {thematic try} Kd8 $1 {(or Kc7)} 8. Rb2 Kd7 $1 (8... Rg2 $143 $6 9.
+Rd2+ $3 $18) (8... Rg3 $143 $6 9. Rb3 $3 h2 10. Rxg3 h1=Q 11. Kg7 Qb7 12. Rg4
+Kc8 (12... c4 13. Rh4 Qd7 14. Re4) 13. Re4 Qxe4 14. f8=Q+ Kd7 15. Qxc5 $18) 9.
+Rd2+ (9. Rh2 Rg3 10. Rd2+ Kc7 11. Rd5 h2 12. Rxc5+ Kd7 13. Rh5 Rg2 14. Rh6 Kc7
+15. Rxh2 Rxh2 16. Kg7 Rg2+ 17. Kh7 Rh2+ 18. Kg6 Rg2+ 19. Kf5 Rf2+ 20. Ke5 Re2+
+21. Kd5 Rd2+ $11) 9... Kc7 10. Rh2 Rg3 11. Rxh3 (11. Rc2 Kd7 12. Rd2+ Kc7 13.
+Rd6 h2 14. Ke7 Re3+ 15. Re6 h1=Q 16. f8=Q Qd5 17. Rxe3 Qd7#) 11... Rxh3 12. Kg7
+Rg3+ 13. Kh6 Rh3+ 14. Kg6 Rh8 15. Kg7 Rc8 16. f8=Q Rxf8 17. Kxf8 c4 18. f7 c3
+19. Ke7 c2 20. f8=Q c1=Q 21. Qd8+ {(With black Pb7 white wins - see main line.)
+} Kb7 $11) 7... Kc7 8. Rh1 Rg3 (8... c4 9. Rxh3 Kd7 10. Rh4 b5 11. Rh5 Rg3 12.
+Rxb5 c3 13. Rd5+ Kc7 14. Rd4 $18) 9. Rxh3 Rxh3 10. Kg7 Rg3+ 11. Kh6 Rh3+ 12.
+Kg6 Rh8 13. Kg7 Rc8 14. f8=Q Rxf8 15. Kxf8 c4 16. f7 c3 17. Ke7 c2 18. f8=Q
+c1=Q 19. Qd8+ Kc6 20. Qc8+ 1-0
+
+[Event "Reek JT-50 _4+7\]"]
+[Site "?"]
+[Date "1995.??.??"]
+[Round "?.28"]
+[White "Husak, Karel"]
+[Black "\[+0310.01a3c2\], h.m."]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "4r3/8/2pB4/8/8/K7/2k5/8 w - - 0 1"]
+[PlyCount "23"]
+[EventDate "1995.??.??"]
+
+1. Kb4 Kd3 (1... Re3 2. Kc5 Rc3+ 3. Kb6 $11) 2. Kc5 Rc8 3. Be7 $1 Ke4 (3... Re8
+4. Bd6 Rc8 5. Be7) 4. Kd6 $1 Re8 $1 (4... c5 5. Kd7 $11) 5. Bh4 $1 (5. Bf6 $2
+Ra8 $1 6. Bg7 (6. Bc3 Rd8+ 7. Kc5 Rd1 8. Bb4 Rb1 $1 9. Bd2 Rb2 10. Be1 (10. Bb4
+Rxb4) 10... Rc2+ 11. Kd6 c5 $19) (6. Bb2 Ra2 7. Bc3 Kd3 8. Be1 (8. Bb4 Kc4 9.
+Bc5 Kb5 $19) 8... Rc2 9. Bb4 Kc4 10. Bc5 Kb5 $19) (6. Be7 Ra6 7. Kc5 Ke5 8. Bd8
+Ke6 9. Bc7 (9. Bb6 Rxb6) 9... Kd7) (6. Bh4 Ra6 7. Bf2 (7. Kc5 Ke5 8. Bg3+ Ke6
+$19) 7... Kd3 8. Kc5 Ra2 9. Be1 Rc2+ 10. Kd6 c5) (6. Kc5 Ra2 7. Be7 Rc2+ 8. Kb4
+Kd5 $19) 6... Rg8 7. Bc3 (7. Bb2 Rg6+ 8. Kc5 Rg2 9. Ba3 Rc2+ 10. Kd6 Kd4 $19)
+7... Rg6+ 8. Kc5 Rg2 9. Bb4 Rb2 $1 (9... Rc2+ $2 10. Kd6 Kd4 11. Ba5 $1 c5 12.
+Bb6 $11) 10. Be1 Rc2+ 11. Kd6 c5 $19) (5. Bg5 $2 c5 $19) 5... Rh8 6. Be7 Rc8 7.
+Bh4 $1 Rh8 8. Be7 Rh6+ 9. Kc5 $11 Ke5 $143 10. Bd8 $1 Re6 11. Bc7+ Kf6 12. Bd6
+1/2-1/2
+
+[Event "Limit-20"]
+[Site "?"]
+[Date "1997.??.??"]
+[Round "?"]
+[White "Husak, Karel"]
+[Black "\[+0011.05d3b5\], 1._2. prize"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "2B5/8/4N3/1kp1p3/p2p4/1p1K4/8/8 w - - 0 1"]
+[PlyCount "25"]
+[EventDate "1997.??.??"]
+[SourceTitle "Inf 11 \[27_5+6\]"]
+
+1. Bd7+ Kb4 2. Nxc5 $1 Kxc5 (2... a3 3. Na6+ Ka5 4. Nc5 e4 5. Kd2 Kb4 (5... e3+
+$2 6. Kd3 b2 7. Kc2 Kb4 8. Nd3+ Kc4 9. Be6+) 6. Na6+ Kc4 7. Be6+ Kb5 8. Bxb3
+Kxa6 9. Bd5 Kb5 10. Kc2 e3 11. Kd3 $11) 3. Bxa4 Kb4 4. Bc6 $1 (4. Bd7 $2 e4)
+4... Ka3 $1 5. Bd5 $1 b2 6. Kc2 d3+ 7. Kb1 d2 8. Bb3 $1 (8. Bf3 $2 Kb3 9. Bd1+
+Kc3 10. Be2 e4 11. Bd1 Kd3 12. Kxb2 e3 13. Bc2+ Ke2 $1) 8... e4 (8... Kxb3 $11)
+9. Bc2 $1 (9. Bd1 $2 e3 $19 {zugzwang}) 9... Kb4 10. Kxb2 Kc4 11. Ba4 (11. Bd1
+$2 Kd3) 11... Kd3 12. Bb5+ Ke3 13. Kc2 $11 1/2-1/2
+
+[Event "Gambit _5+6\]"]
+[Site "?"]
+[Date "1996.??.??"]
+[Round "?.32"]
+[White "Matous, Mario"]
+[Black "\[h1h8\], 3. h.m."]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "6rk/6p1/Q6B/8/8/6q1/1R6/7K w - - 0 1"]
+[PlyCount "17"]
+[EventDate "1996.??.??"]
+
+1. Bxg7 Rxg7 2. Qa8+ Rg8 3. Qa1 $1 Rg7 $144 (3... Rg5 $144 4. Rb8+ Kh7 5. Qh8+
+Kg6 6. Qg8+ Kf6 7. Rb6+ Ke5 8. Qe6+) (3... Qf3 $144 4. Rg2 Kh7 5. Qa7+ Kh6 6.
+Qb6+ Kh5 7. Qc5+ Kh4 8. Qe7+) 4. Rh2 Kg8 5. Qa2+ Kf8 6. Rf2+ Ke7 $143 7. Re2+
+Kf6+ 8. Qe6+ Kg5 9. Re5+ 1-0
+
+[Event "Schaakfederatie _5+6\]"]
+[Site "?"]
+[Date "1997.??.??"]
+[Round "?.16"]
+[White "Pospisil, Jaroslav"]
+[Black "\[+0300.20e3d1\], 4. h.m."]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "8/8/8/3r4/7P/4K2P/8/3k4 w - - 0 1"]
+[PlyCount "21"]
+[EventDate "1997.??.??"]
+
+1. Kf4 (1. Ke4 $2 Rh5 2. Kf4 Rxh4+ 3. Kg3 Rh8 4. h4 Ke2 5. Kg4 Ke3 6. h5 Ke4 7.
+Kg5 Ke5 8. Kg6 Ke6 9. h6 Rg8+ 10. Kh7 Rg1 11. Kh8 Kf7 12. h7 Kg6) (1. Kf3 $2
+Rd4 2. Kg3 (2. h5 Kd2 3. h6 Kd3 4. Kg3 Rd6 5. Kg4 (5. h7 Rh6 6. Kg4 Ke4 7. h4
+Ke5 8. Kg5 Rxh7 9. h5 Rg7+) 5... Rxh6 6. h4 Ke4 7. Kg5 Ra6) 2... Ke2 3. h5 Ke3
+4. h6 Rd6 5. Kg4 Rxh6 6. h4 Ke4 7. Kg5 Ra6) 1... Ke2 2. Kg4 Rd4+ (2... Ke3 3.
+h5 Ke4 4. h6 Ke5 5. h7 $11) (2... Kf2 3. h5 Rd4+ 4. Kf5 Kg3 5. h6 Rd5+ 6. Kg6
+Kh4 7. h7 $11) 3. Kg5 Kf3 4. h5 Rd5+ 5. Kg6 Kf4 6. h6 (6. h4 $2 Rd6+ 7. Kg7 Kf5
+8. h6 Rd7+ 9. Kg8 Kg6) 6... Rd6+ 7. Kg7 Kg5 (7... Kf5 8. h7 Rd7+ 9. Kh6 $11) 8.
+h4+ $1 (8. h7 $2 Rd7+ 9. Kg8 Kg6 10. h8=N+ Kf6 11. h4 Rg7+ 12. Kf8 Rh7 13. Kg8
+Rxh4 14. Nf7 Rb4 15. Nd6 (15. Nh6 Ra4 16. Kh8 Rh4) 15... Ke6 16. Nf7 Rg4+) 8...
+Kh5 9. h7 Rd7+ 10. Kg8 Kg6 11. h5+ 1/2-1/2
+
+[Event "Mor.slez. sach \[5_4+6\]"]
+[Site "?"]
+[Date "1996.??.??"]
+[Round "?"]
+[White "Desensky, Jiri"]
+[Black "\[+0411.11b5d1\], correction"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "7R/3p2r1/8/1K4P1/3N4/8/6B1/3k4 b - - 0 1"]
+[PlyCount "16"]
+[EventDate "1996.??.??"]
+
+1... Rxg5 2. Bd5 Rxd5 3. Kc4+ Rd6 (3... Re5 4. Kd3 Kc1 5. Rb8 Rd5 6. Rb6) (3...
+Rg5 4. Rh1 Kd2 5. Nf3+) (3... Ra5 4. Rh1 Kd2 5. Nb3+) 4. Kd3 Ke1 $144 (4... Kc1
+$144 5. Rb8 $1 (5. Kc3 $2 Kb1 6. Rh1+ Ka2 7. Rh2+ Kb1 8. Rb2+ Kc1 9. Rd2 Kb1
+$11) 5... Rd5 6. Rb6 {or Rb7, Rb4, Rb3} d6 7. Rb8 Rh5 8. Ne2+ Kd1 9. Rb1# {#})
+5. Rf8 Rd5 6. Rf6 {or Rf7, Rf4, Rf3} d6 7. Rf8 Ra5 8. Nc2+ Kd1 9. Rf1# {#} 1-0
+
+[Event "Sachova skladba _5+5\]"]
+[Site "?"]
+[Date "1996.??.??"]
+[Round "?.30"]
+[White "Husak, Karel"]
+[Black "\[+3144.23h1g8\]"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "6kn/B2R1p2/3P4/8/8/4N1p1/5qPp/6bK w - - 0 1"]
+[PlyCount "24"]
+[EventDate "1996.??.??"]
+
+1. Rd8+ $1 (1. Bd4 $2 Kh7 2. Bxh8 Kxh8 3. Rd8+ (3. Ra7 Qe1 4. Nc2 Qd2# 5. Ra1
+Bb6# 6. d7 Qf2# $19) 3... Kh7 4. d7 Qf6 5. Rb8 Bxe3 6. Rb1 Qf2# $19) 1... Kh7 (
+1... Kg7 2. d7 $1 Qf4 (2... Qe1 3. Rg8+ Kxg8 4. d8=Q+ Kh7 5. Qh4+ Kg6 6. Qg4+
+Kh7 7. Qh4+ Kg8 8. Qd8+ $11) 3. Bd4+ f6 4. Rg8+ Kxg8 5. d8=Q+ Kg7 (5... Kh7 6.
+Bxf6 Bxe3 7. Qxh8+ Kg6 8. Qg8+ Kf5 (8... Kxf6 9. Qf7+ Ke5 10. Qxf4+) 9. Qd5+
+Kg4 10. Qd1+ Kf5 11. Qd5+ $11) (5... Kf7 6. Nd5 Qxd4 7. Qd7+ Kg6 (7... Kg8 8.
+Nxf6+ Qxf6 9. Qg7+) 8. Ne7+ Kg5 9. Qf5+ Kh6 10. Qh3+ Kg5 11. Qf5+ $11) 6. Nf5+
+Qxf5 7. Bxf6+ Kg6 (7... Qxf6 8. Qxf6+ Kxf6 {stalemate}) 8. Qg8+ Kxf6 9. Qg6+
+$11) 2. Rxh8+ (2. d7 $2 Qf6 3. Rxh8+ Qxh8 4. Bb6 Bxe3 5. d8=Q Qa1+) 2... Kxh8 (
+2... Kg6 3. d7 Qe1 4. Rg8+ Kh7 5. Rh8+ $11) 3. d7 (3. Bd4+ $2 Kh7 4. d7 Qe1 5.
+Bc3 Qb1+) 3... Qd2# 4. Bd4+ Qxd4 5. Nd5 Qh4 (5... Kg7 6. d8=Q Be3 7. Qf6+ {
+see main line}) 6. Ne7 Qd4 (6... Bb6 7. Ng6+ fxg6 8. d8=Q+) (6... Kh7 7. d8=Q
+Qg5 8. Qd3+ Kg7 (8... f5 9. Qxf5+ Qxf5 10. Nxf5 Bf2# 11. Nxg3 Bxg3# {stalemate}
+) 9. Qxg3 Qxg3# 10. Nf5+ Kf6 11. Nxg3 Kg5 12. Ne2 $11) 7. Nd5 Be3 8. d8=Q+ Kg7
+(8... Kh7 9. Nf6+ Kg6 10. Qxd4 Bxd4 11. Ne4 Bf2+ 12. Nxg3 Bxg3# {stalemate}) 9.
+Qf6+ Qxf6 10. Nxf6 Kg6 (10... Kxf6 {stalemate}) 11. Ne4 (11. Nh5) 11... Bf2+
+12. Nxg3 Bxg3# {^stalemate} 1/2-1/2
+
+[Event "Schaakfederatie _5+5\]"]
+[Site "?"]
+[Date "1997.??.??"]
+[Round "?.15"]
+[White "Pospisil, Jaroslav"]
+[Black "\[+4001.11g7c5\], 1. h.m. correc"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "4q3/N5K1/3P4/2k5/7p/8/8/3Q4 w - - 0 1"]
+[PlyCount "13"]
+[EventDate "1997.??.??"]
+
+1. Qc1 $1 (1. d7+ $2 Qe5+ 2. Kf7+ Qf5+ 3. Ke7+ Qe5+ 4. Kd8+ Qf6+ 5. Kc7+ Qb6+
+6. Kc8 Qa6+ 7. Kb8+ Qb6+ 8. Ka8+ Qd8+ 9. Nc8 Qa5+ 10. Kb7 Qb5+ $11) (1. Nc8 $2
+Qd7 2. Kf6 Qd8+ 3. Ke6 (3. Ke5 Qh8+ 4. Ke4 h3 5. Qd5 Kb4 6. d7 h2 $11) 3...
+Qxc8+ 4. Ke7+ (4. d7+ Qg8+) 4... Qb7+ 5. d7+ Qe4+ 6. Kd8+ Qa8+ $11) 1... Kxd6
+2. Nc8+ Kd7 (2... Kd5 3. Qd2+ Kc5 4. Qc3+ Kd5 5. Nb6+ Kd6 6. Qd4+ Kc7 7. Nd5+
+Kc6 8. Qa4+) 3. Nb6+ Kd6 4. Qa3+ Kc7 5. Nd5+ Kb7 6. Qb4+ (6. Qb3+) 6... Kc8 7.
+Qc5+ 1-0
+

@@ -1,0 +1,380 @@
+[Event "1st pr. Kekely 50 JT"]
+[Site "?"]
+[Date "2009.12.18"]
+[Round "?"]
+[White "O.Pervakov (Russia)"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6q1/B1P2p1p/bN2n3/5P2/3k4/p2p1P2/P2N2PP/2K5 w - - 0 1"]
+[PlyCount "31"]
+[EventDate "2009.??.??"]
+
+1. c8=Q $1 (1. Nd7+ $2 Kc3 2. Nf6 Qa8 $19) (1. fxe6 $2 Qxg2 $19) 1... Bxc8 2.
+Nd7+ (2. Nxc8+ $2 Nc5 3. Ne4 Qxg2 4. Bxc5+ Kc4 5. Ncd6+ Kd5 6. Bf2 Qf1+ 7. Kd2
+Qe2+ 8. Kc3 Qc2+ 9. Kb4 d2 $19) 2... Kc3 3. Nf6 Qd8 (3... Qxg2 $2 4. Nd5#) 4.
+Bb6 Nc7 5. Bxc7 Qf8 (5... Qd4 $2 6. Ba5+ $18) 6. Bd6 $1 Qh6 $1 (6... Qd8 $2 7.
+Be7 Qa5 8. Nfe4+ Kd4 9. Nb3+ $18) (6... Qg7 $2 7. Be5+ Kb4 8. Nd5+ $18) 7. Bf4
+Qh4 8. Bg3 Qd4 $1 (8... Qa4 9. Be5+ Kb4 10. Nd5+ Kc5 11. Ne4+ Kxd5 (11... Kc6
+12. Ne7+ Kb6 13. Nxc8+ Ka5 14. Bc7+ Kb4 15. Bd6+ Ka5 16. Bc7+ $11) 12. Nc3+
+Kxe5 13. Nxa4 Bxf5 14. Kd2 Be6 15. Nc3 $11) 9. Bf2 $1 (9. Be1 $2 Qg1 $19) 9...
+Qe5 $1 (9... Qd8 $2 10. Bb6 $18) 10. f4 $1 Qxf5 (10... Qb5 $2 11. Nde4+ Kb4 12.
+Be1+ $18) 11. Nde4+ (11. g4 $2 Qe6 $19) 11... Kb4 12. Be1+ Ka4 (12... d2+ 13.
+Bxd2+ Ka4 14. Nd5 $11) 13. Nd5 $1 Qg6 $1 (13... Qh5 14. Nc7 $1 Be6 15. f5 Qxf5
+(15... Bxa2 $2 16. Nc5#) 16. Nc3+ Kb4 17. Ne4+ Ka4 18. Nc3+ $11) 14. Nd6 $1
+Qxd6 (14... Qxg2 $2 15. Nb6#) 15. Nc3+ Ka5 16. Ne4+ $11 *
+
+[Event "2nd pr. Kekely 50 JT"]
+[Site "?"]
+[Date "2009.12.18"]
+[Round "?"]
+[White "G.Amann (Austria)"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "K7/1N1r4/4p3/P3p2B/k1ppP3/8/1PP3p1/2B1Qq2 w - - 0 1"]
+[PlyCount "23"]
+[EventDate "2009.??.??"]
+
+1. b3+ (1. Be8 $2 Qf8 $1 2. a6 Qxe8+ 3. Ka7 Qd8) 1... Kb5 (1... cxb3 2. cxb3+
+Kxb3 3. Bd1+ $18) 2. bxc4+ Qxc4 (2... Ka4 3. Nc5#) (2... Kc6 3. Qb4 $1 $18) (
+2... Kxc4 3. Be2+ $18) 3. Be2 d3 4. Bxd3 Rxd3 5. cxd3 Ka6 6. dxc4 (6. Kb8 $2
+Qb5) 6... g1=Q 7. Kb8 (7. Nc5+ $2 Qxc5 8. Kb8 Qb4+ 9. Qxb4 {stalemate.}) 7...
+Qxe1 (7... Qa7+ 8. Kc7 Qxb7+ 9. Kd6 $18) (7... Qg8+ 8. Kc7 Qb8+ 9. Kd7 $18) 8.
+Nc5+ Kxa5 9. Kc7 (9. Bd2+ $2 Kb6 10. Nd7+ (10. Bxe1 Kxc5 11. Bc3 Kxc4 12. Bxe5
+Kd3) 10... Ka6 11. Nc5+ Kb6 12. Na4+ Ka6 13. Bxe1 {stalemate.}) (9. Ka7 $2 Qxc1
+10. Nb3+ Kb4 11. Nxc1 Kxc4 12. Ne2 Kd3 $11) 9... Qd1 (9... Qxc1 10. Nb3+ Kb4
+11. Nxc1 Kxc4 12. Ne2 $18) 10. Bd2+ Qxd2 11. Nb3+ Kb4 12. Nxd2 $18 *
+
+[Event "3rd pr. Kekely 50 JT"]
+[Site "?"]
+[Date "2009.12.18"]
+[Round "?"]
+[White "Y.Bazlov (Russia)"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3B3r/kP6/8/8/3n4/8/1KRn4/4b3 w - - 0 1"]
+[PlyCount "39"]
+[EventDate "2009.??.??"]
+
+1. Bb6+ $1 (1. Bf6 $2 Nxc2 2. Bxh8 Ne3 $19) 1... Kxb6 (1... Kxb7 2. Bxd4 Rd8 3.
+Be3 Nc4+ 4. Kb3 $11) 2. Rc8 Nc4+ (2... Kxb7 3. Rxh8 $11) 3. Kb1 Na3+ (3... Kxb7
+4. Rxh8 $11) 4. Kc1 Bd2+ $1 5. Kb2 (5. Kxd2 $2 Rh2+ $19) 5... Bc3+ 6. Kxc3 (6.
+Kxa3 $2 Nb5+ 7. Ka4 Rh4+ $19) 6... Ndb5+ 7. Kb2 Rh2+ 8. Rc2 $1 (8. Ka1 $2 Kxb7
+9. Rc7+ Kb6 10. Rc6+ Ka5 11. Ra6+ Kb4 12. Ra4+ Kc5 13. Rxa3 Rh1+ $19) 8... Rh8
+9. Rc8 Rh2+ 10. Rc2 Rxc2+ 11. Ka1 Rc1+ (11... Kxb7 {stalemate}) 12. Kb2 Rb1+
+13. Ka2 Nc3+ (13... Ka7 14. b8=Q+ Kxb8 {stalemate}) 14. Kxa3 Nb5+ 15. Ka2 Nc3+
+16. Ka3 Ra1+ 17. Kb2 Ra2+ 18. Kc1 Ne2+ 19. Kb1 Nc3+ 20. Kc1 $11 *
+
+[Event "1st hm Kekely 50 JT"]
+[Site "?"]
+[Date "2009.12.18"]
+[Round "?"]
+[White "G.Amann (Austria)"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/4p3/4N3/1rp5/r1k2N2/2P5/PP2P3/1K6 w - - 0 1"]
+[PlyCount "21"]
+[EventDate "2009.??.??"]
+
+1. Nc7 Rb7 (1... Ra7 2. Nfd5 Rxc7 3. Ne3#) 2. Nfd5 Rxc7 3. Nxc7 Ra5 (3... Ra7
+4. b3+ Kxc3 5. Nb5+ $18) 4. Kc1 $1 {zz} (4. Kc2 $2 Rxa2 5. e3 e6 6. e4 e5) (4.
+Ka1 $2 {zz} e5 5. Kb1 e4 6. Ka1 e3 7. Kb1 Rxa2 $11) 4... Rxa2 5. Kc2 e6 6. e3
+$1 {zz} e5 7. e4 {zz} Ra3 $1 8. Ne8 $1 (8. Nb5 $2 Kxb5 $11) (8. bxa3 $2 {
+stalemate}) 8... Ra6 (8... Ra2 9. Nd6#) 9. b3+ Kb5 10. Nc7+ Kb6 11. Nxa6 $18 *
+
+[Event "2nd hm. Kekely 50 JT"]
+[Site "?"]
+[Date "2009.12.18"]
+[Round "?"]
+[White "S.Didukh (Ukraine)"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4n3/8/P7/1P2kN2/B4p2/3n1KP1/1p3P2/8 w - - 0 1"]
+[PlyCount "39"]
+[EventDate "2009.??.??"]
+
+1. Bc2 $1 (1. gxf4+ $2 Kf6 2. Bc2 Ne1+ 3. Kg3 Nxc2 4. a7 Nc7 5. b6 b1=Q 6. bxc7
+Qg1+ 7. Kh3 Qg8 8. Nd6 Ne1) 1... Ne1+ 2. Kg4 Nxc2 3. a7 Nc7 4. b6 b1=Q 5. bxc7
+Ne3+ 6. Nxe3 Qg6+ 7. Kh3 (7. Kh4 $2 Qh7+ 8. Kg4 Qg8+ 9. Kh4 fxg3 $19) 7... Qh6+
+8. Kg4 Qg6+ 9. Kh3 f3 10. Kh2 $1 (10. Nc4+ $2 Kd4 11. Kh2 Qh5+ 12. Kg1 Qh3 13.
+Ne3 Qc8 14. Nf5+ Ke5 15. Ne7 Qh3 16. Ng6+ Kd6 17. Nh4 Qc8 $19) 10... Qh6+ 11.
+Kg1 Qc6 12. Nc4+ Kd4 13. Nd6 Qc1+ 14. Kh2 Qf1 15. Nf5+ Ke5 16. Ne3 Qa6 17. Nc4+
+Kd4 18. Nd6 Qf1 19. Nf5+ Ke5 20. Ne3 $11 *
+
+[Event "3rd hm. Kekely 50 JT"]
+[Site "?"]
+[Date "2009.12.18"]
+[Round "?"]
+[White "M.Hlinka (Slovakia)"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r7/kb1K4/pp6/2PB4/1N1B2n1/1n6/2Rb4/3r4 w - - 0 1"]
+[PlyCount "18"]
+[EventDate "2009.??.??"]
+
+1. cxb6+ Kb8 2. Rc7 (2. Nc6+ $2 Bxc6+ 3. Rxc6 Rc1 4. Re6 (4. Rc7 Nc5+ 5. Bxc5
+Nf6+ $19) 4... Rc8 5. Bxb3 Bg5 6. Bd5 Rd8+ 7. Kc6 Rxd5 8. Kxd5 Kb7 9. Rg6 Ne3+
+10. Ke4 Re8+ 11. Kd3 Bf4 $19) 2... Nc5+ 3. Bxc5 Nf6+ 4. Kd8 Nxd5 5. Bd6 Bg5+ 6.
+Re7+ Nc7 7. Nc6+ Bxc6 8. bxc7+ Kb7+ 9. c8=B+ (9. c8=Q+ $2 Kb6 $19) 9... Kb6 {
+stalemate.} *
+
+[Event "4th hm. Kekely 50 JT"]
+[Site "?"]
+[Date "2009.12.19"]
+[Round "?"]
+[White "L.M.Gonsales (Spain)"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5R2/1bpp3Q/3q4/5B1p/3pP3/6pP/4K1P1/2k5 w - - 0 1"]
+[PlyCount "22"]
+[EventDate "2009.??.??"]
+
+1. Qxd7 (1. Qg8 $2 d3+ 2. Kf3 Qd4 3. Qg5+ d2 4. Kxg3 Qd6+ 5. Kh4 Qxf8 6. Qe3
+Kc2 $19) 1... d3+ (1... Qf4 2. Kd3 $1 Qe3+ 3. Kc4 Qc3+ 4. Kb5 Qb3+ 5. Kc5 $1
+Qb6+ 6. Kc4 c6 7. Ra8 $1 Bxa8 8. Qxd4 Qb5+ 9. Kc3 Qb2+ 10. Kc4 $11) 2. Ke3 d2
+3. Qxd6 cxd6 4. Bg4 $1 (4. Rf7 $2 d1=Q 5. Rc7+ Kb2 6. Rxb7+ Kc3 7. Rc7+ Kb4 8.
+Kf4 Qe1 9. Kg5 Qe2 10. Rb7+ Kc5 $19) 4... hxg4 5. Rf1+ d1=Q 6. Rxd1+ Kxd1 7. h4
+(7. hxg4 $2 Bc6 8. g5 Be8 $19) 7... Bc6 8. h5 Be8 9. h6 Bg6 10. e5 dxe5 11. h7
+Bxh7 {stalemate.} *
+
+[Event "5th hm. Kekely 50 JT"]
+[Site "?"]
+[Date "2009.12.19"]
+[Round "?"]
+[White "L.Salai jr. (Slovakia)"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2R1b3/3n4/p6p/1k2p3/6K1/6p1/8/7B w - - 0 1"]
+[PlyCount "21"]
+[EventDate "2009.??.??"]
+
+1. Bc6+ Ka5 2. Kh3 $1 (2. Kxg3 $2 Kb6 $11) (2. Rxe8 $2 Nf6+) (2. Kf3 $2 Bh5+)
+2... g2 3. Kxg2 Kb6 4. Kg3 $1 a5 (4... h5 5. Kh4 e4 6. Kg5 e3 7. Bd5 $1 Bg6 8.
+Rc6+ $18) (4... e4 5. Kf4 e3 6. Kxe3 h5 7. Kf4 h4 8. Kg5 h3 9. Bd5 $1 Bh5 10.
+Rc6+ Kb5 11. Kxh5 $18) 5. Kf2 $1 (5. Ba4 $2 Nf6 6. Bxe8 Kb7 7. Rd8 Kc7 $11)
+5... h5 6. Ba4 $1 (6. Ke3 $2 a4 $11) 6... Nf6 7. Bxe8 Kb7 8. Rd8 Kc7 9. Ra8 Kb7
+10. Bc6+ Kxc6 11. Ra6+ $18 *
+
+[Event "6th hm. Kekely 50 JT"]
+[Site "?"]
+[Date "2009.12.19"]
+[Round "?"]
+[White "G.Amann (Austria)"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5N2/2q5/7p/4PP1k/7P/2b2pK1/1r1R3Q/6N1 w - - 0 1"]
+[PlyCount "14"]
+[EventDate "2009.??.??"]
+
+1. Kh3 $1 (1. Nd7 $2 Bxe5+ 2. Kh3 Qc4 3. Qg3 Qf1+ $19) (1. Rxb2 $2 Bxe5+ $19)
+1... Rxd2 (1... Qc4 2. Qg3 Qf1+ 3. Rg2) 2. Ne2 $1 (2. Qg3 $2 Rh2+ 3. Qxh2 Qc4
+$1 4. Qf2 Qg4+ 5. Kh2 Bd4 $19) 2... Rxe2 3. Qf4 (3. Qg3 $2 Rh2+) 3... Rh2+ $1
+4. Kxh2 (4. Qxh2 $2 Qc4) 4... Bxe5 5. Kh3 Bxf4 6. Nd7 Bg5 7. Nf6+ Bxf6 {
+stalemate.} *
+
+[Event "1st comm. Kekely 50 JT"]
+[Site "?"]
+[Date "2009.12.19"]
+[Round "?"]
+[White "M.Hlinka (SK) & J.Polasek (CZ)"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4k3/P4r2/p7/p2P4/1p3K2/7R/1P3n2/4b3 w - - 0 1"]
+[PlyCount "24"]
+[EventDate "2009.??.??"]
+
+1. Ke3 (1. Ke5 $2 Nd3+) 1... Ng4+ (1... Rxa7 2. Rh8+ Kd7 3. Rh7+ Kd6 4. Rxa7
+Kxd5 5. Ke2 Kc4 6. Kxe1 Nd3+ 7. Kd2 Nxb2 8. Kc2 Nd3 9. Rxa6 $11) (1... Re7+ 2.
+Kd4 Re4+ 3. Kc5 Nxh3 4. a8=Q+) (1... Nd1+ 2. Ke2 Rxa7 3. Rh8+ Kd7 4. Rh7+) 2.
+Ke2 Re7+ 3. Kd1 $1 (3. Kf1 $2 Rxa7 4. Rh8+ Kd7 5. Rh7+ Kd6 6. Rxa7 Bh4 $19)
+3... Nf2+ 4. Kc2 Rc7+ 5. Kb3 (5. Kb1 $2 Rxa7) 5... Rxa7 6. Rh8+ Kd7 7. Rh7+ Kd6
+(7... Kd8 8. Rxa7 Nd3 9. Rg7 $1 Bf2 10. d6 Ne5 11. Rh7 $1 Bd4 12. Rg7 Bc5 13.
+Ka4 Bb6 14. Kb3 Bd4 15. Rh7 Nd7 16. Ka4 Bxb2 17. Kxa5 b3 18. Kb4 $11) 8. Rxa7
+Nd3 9. Rxa6+ Kxd5 10. Rxa5+ Nc5+ 11. Ka2 b3+ 12. Ka3 Bxa5 {stalemate} *
+
+[Event "2nd comm. Kekely 50 JT"]
+[Site "?"]
+[Date "2009.12.19"]
+[Round "?"]
+[White "D.Keith (France)"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/1N6/3p4/2p2n2/2bP2K1/6p1/4P3/3B4 w - - 0 1"]
+[PlyCount "21"]
+
+1. Kh3 Bd5 (1... cxd4 2. Bc2 Bd5 3. Na5 Ne3 4. Bb3 Bxb3 5. Nxb3 Nf5 6. Nd2 Kg7
+7. Nf3 Kf6 8. Kg4 $11) (1... g2 2. Kh2 Bd5 3. Nxd6 Nxd6 4. dxc5) 2. Nxd6 Nxd6
+3. dxc5 (3. Kxg3 $2 Nf5+ 4. Kf4 Nxd4 5. Ke5 Bf7 6. Kd6 c4 7. Kc5 Nf5 $19) 3...
+Nf5 (3... g2 4. Kh2 Nf5 5. Bc2 $1 Ne3 6. Ba4 Nf1+ 7. Kg1 Ng3 8. Bb5 $11) 4. e4
+Bxe4 5. c6 Bxc6 (5... g2 6. c7 $1 g1=Q 7. c8=Q+ Kh7 8. Qc7+ Kg6 9. Bh5+ $1 $11)
+6. Bf3 Bb5 (6... Bxf3 {stalemate}) 7. Be4 Bf1+ 8. Kg4 Bd3 $1 9. Bg2 Kg7 10. Bh3
+Kf6 11. Kf3 $11 *
+
+[Event "3rd comm. Kekely 50 JT"]
+[Site "?"]
+[Date "2009.12.19"]
+[Round "?"]
+[White "A.Jasik (Polen)"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2b5/2p2rPk/1P1Pp3/2PB2P1/1K6/2R3p1/5nr1/6b1 w - - 0 1"]
+[PlyCount "16"]
+[EventDate "2009.??.??"]
+
+1. g6+ (1. Bxg2 $2 Rf4+ 2. Kb3 Kxg7 3. d7 Bxd7 4. b7 Rf8 $19) 1... Kxg7 2. gxf7
+Nd3+ (2... exd5 3. b7 $1 Nd3+ 4. Rxd3 Bxc5+ 5. Kxc5 cxd6+ 6. Kd4 Bxb7 {main})
+3. Rxd3 Bxc5+ 4. Kxc5 cxd6+ (4... cxb6+ 5. Kb4 $1 exd5 6. d7 Bxd7 7. Rxg3+ Rxg3
+8. f8=Q+ Kxf8 {stalemate}) 5. Kd4 exd5 6. b7 Bxb7 7. Rxg3+ Rxg3 8. f8=Q+ Kxf8 {
+stalemate.} *
+
+[Event "4th comm. Kekely 50 JT"]
+[Site "?"]
+[Date "2009.12.19"]
+[Round "?"]
+[White "J.Mikitovics (Hungary)"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2k5/4n2R/8/3p4/3K4/1p1p2n1/P7/8 w - - 0 1"]
+[PlyCount "25"]
+[EventDate "2009.??.??"]
+
+1. Rh2 (1. Rh8+ $2 Kb7 2. Rh2 Ne2+ 3. Kxd3 Nc1+ 4. Kc3 bxa2 $19) (1. Kxd3 $2
+bxa2) 1... bxa2 (1... Ne2+ 2. Kxd3 bxa2 3. Rh8+ Kb7 4. Rh1 Nc6 5. Ra1 Nf4+ 6.
+Kc3 $11) 2. Rxa2 Ne2+ 3. Ke5 $1 (3. Ke3 $2 Nc6 $1 4. Ra8+ Kb7 5. Rg8 Nb4 6. Rg4
+d4+ $19) 3... Nc3 4. Rd2 Nc6+ 5. Ke6 {(Kf5)} (5. Kf4 $2 Ne2+ 6. Ke3 Ne5 $19)
+5... Nb4 6. Ke5 $2 Kd7 7. Kd4 Ne4 8. Rxd3 $1 Kd6 $1 (8... Nxd3 9. Kxd5 $11) 9.
+Rd1 $1 Nc2+ 10. Kd3 Nf2+ 11. Kxc2 Nxd1 12. Kxd1 Ke5 13. Ke1 $1 $11 *
+
+[Event "5th comm. Kekely 50 JT"]
+[Site "?"]
+[Date "2009.12.19"]
+[Round "?"]
+[White "J.Polasek (Czech R.)"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1k6/8/8/5p2/2K3p1/6Pp/3r1NR1/8 w - - 0 1"]
+[PlyCount "15"]
+
+1. Rh2 f4 $1 (1... Kc7 2. Nxg4 Rg2 3. Rxh3 fxg4 4. Rh6 $11) 2. Nxh3 $1 (2. gxf4
+$2 Rxf2) 2... fxg3 3. Rh1 $1 Rd1 $1 4. Rxd1 gxh3 5. Kd5 $1 (5. Kc5 $2 Kc7) 5...
+g2 6. Kc6 h2 7. Rb1+ Kc8 8. Ra1 {etc.} *
+
+[Event "6th comm. Kekely 50 JT"]
+[Site "?"]
+[Date "2009.12.19"]
+[Round "?"]
+[White "J.Mikitovics (Hungary)"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/2K3p1/8/4p3/8/p3Bp2/1k6/R7 w - - 0 1"]
+[PlyCount "23"]
+[EventDate "2009.??.??"]
+
+1. Rf1 $1 (1. Rh1 {/c1/d1/e1/g1?} a2 $19) 1... a2 2. Bc1+ (2. Rf2+ $2 Kb1 3.
+Rf1+ Kb2 4. Bc1+ {loss of time}) 2... Kc2 (2... Ka1 3. Ba3#) 3. Ba3 $1 (3. Bg5
+$2 e4 $19) 3... Kd3 (3... e4 4. Bc5 Kd3 5. Rd1+ $1 Ke2 6. Ra1 $1 e3 7. Rxa2+
+Kd3 8. Ra3+ $18) 4. Bc5 $1 (4. Bd6 $2 Ke2 5. Ra1 f2 6. Rxa2+ Kf3 $11) 4... f2
+$1 5. Ra1 $1 (5. Bxf2 $2 Ke2 $11) 5... Kc3 6. Rh1 $1 (6. Rf1 $2 Kd3 $1 7. Kd6
+e4 8. Ra1 (8. Bxf2 Ke2 $11) 8... e3 $11) 6... Kb2 (6... f1=Q 7. Rxf1 Kb2 8. Bd6
+$18) 7. Bd6 Kc2 8. Kc6 $1 (8. Bxe5 $2 Kd2 9. Bd4 Ke2 $11) 8... Kd3 (8... e4 9.
+Bc5) (8... g5 9. Kd5 Kd3 10. Bc5) 9. Bc5 (9. Bxe5 $2 a1=Q 10. Rxa1 Ke2 11. Ra2+
+Kf3 $11) 9... Ke2 10. Bxf2 Kxf2 11. Kd5 $1 g5 12. Ke4 $18 *
+
+[Event "7th comm. Kekely 50 JT"]
+[Site "?"]
+[Date "2009.12.19"]
+[Round "?"]
+[White "I.Akobia (Georgia)"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/5R2/3b4/7N/5P2/1p1p4/8/1k2K3 w - - 0 1"]
+[PlyCount "23"]
+[EventDate "2009.??.??"]
+
+1. Kd2 $1 (1. Rd7 $2 Bb4+ 2. Kd1 Ka2 3. Rb7 (3. Ra7+ Ba3 4. Ng3 b2 $11) 3...
+Ba3 4. f5 (4. Ng3 b2 $11) 4... b2 $11) (1. Nf6 $2 Kc2 2. Ne4 Bb4+ 3. Kf2 d2 $11
+) 1... b2 2. Ra7 (2. Rb7 $2 Ka2 $11) 2... Bxf4+ $1 3. Kd1 (3. Kxd3 $2 Kc1 $11)
+(3. Nxf4 $2 {stalemate}) 3... Be3 4. Ra6 $1 (4. Ra8 $2 Ba7 $1 5. Nf4 (5. Rxa7
+d2 $11) 5... Ka2 6. Rxa7+ Kb3 7. Rb7+ Ka2 $11) (4. Ra5 $2 Bc1 5. Nf6 d2 6. Ke2
+Kc2 7. Rc5+ Kb3 8. Rb5+ Kc2 9. Rc5+ Kb3 $11) (4. Ra4 $2 Bc1 5. Nf6 (5. Ng3 d2
+6. Ne2 {stalemate}) 5... d2 6. Ke2 Kc2 7. Rc4+ Kb3 $11) 4... Bc1 5. Nf6 d2 6.
+Ke2 (6. Nd5 $2 {stalemate}) 6... Kc2 7. Rc6+ Kb3 8. Nd5 $1 (8. Ne4 $2 b1=Q 9.
+Rb6+ Kc2 10. Rc6+ Kb3 11. Rb6+ Kc2 $11) 8... b1=N $1 (8... b1=Q 9. Rb6+ Ka2 10.
+Nc3+ $18) 9. Rb6+ Ka2 (9... Kc4 10. Ne3+ $18) 10. Kd1 $1 (10. Ne3 $2 Nc3+ $11)
+(10. Rb7 $2 Ba3 11. Kd1 Bc1 12. Rb8 Ba3 13. Kc2 Bc1 14. Ne3) 10... Ka1 (10...
+Ba3 11. Kc2 Bc1 12. Ne3 Na3+ 13. Kc3 Nb1+ 14. Kd3 Na3 15. Nd1 Nb1 16. Rb7 Ka1
+17. Ra7+ Ba3 (17... Na3 18. Nc3 Kb2 19. Rb7+ $18) 18. Kc2 Ka2 19. Ra8 Ka1 20.
+Kb3 $18) 11. Ne3 (11. Ra6+ $2 Kb2 $11) 11... Ka2 (11... Na3 12. Ke2 Bb2 13. Nd1
+$18) 12. Kc2 $18 (12. Rb8 $2 Nc3+ 13. Kc2 d1=Q+ $11) *
+
+[Event "8th comm. Kekely 50 JT"]
+[Site "?"]
+[Date "2009.12.19"]
+[Round "?"]
+[White "Y.Afek (IL&NL)"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3K4/8/7p/5n2/P7/k6P/2n5/8 w - - 0 1"]
+[PlyCount "14"]
+
+1. a5 Ka4 $1 (1... Nb4 2. Ke8 h5 3. Kf7 h4 4. Kg6 Ne3 5. Kg5 Ng2 6. Kg4 Ka4 7.
+Kf3 $11) (1... Ncd4 2. Kd7 Ng3 3. a6 Nb5 4. Ke6 Kb4 (4... Nc7+ 5. Kf6 $11) 5.
+Ke5 Kc5 6. Kf4 Kd4 7. Kxg3 $11) (1... h5 2. Kd7 Nb4 3. Ke6 $11) 2. a6 Nb4 $1 (
+2... Ncd4 3. Ke8 Nc6 4. Kf7 Ng3 5. Kg6 h5 6. Kg5 $11) 3. Ke8 $1 (3. Kd7 $2 Nxa6
+$19) 3... Nxa6 4. Kf7 Ng3 5. Kg6 h5 6. Kg5 Nc5 7. Kh4 Nce4 {stalemate.} *
+
+[Event "sp. comm. Kekely 50 JT"]
+[Site "?"]
+[Date "2009.12.19"]
+[Round "?"]
+[White "J.Mikitovics (Hungary), correction "]
+[Black "after Koranyi&Szentgyorgyi"]
+[Result "*"]
+[SetUp "1"]
+[FEN "R3K3/4PpPp/N3q2k/p2N3p/7P/8/3P2n1/8 b - - 0 1"]
+[PlyCount "22"]
+[EventDate "2009.??.??"]
+
+1... Qc6+ (1... Kxg7 2. Nac7 Qc6+ 3. Kd8 Qd6+ 4. Kc8 $18) 2. Kf8 Qxa8+ 3. Nb8
+$1 (3. e8=Q $2 Qxe8+ 4. Kxe8 Kxg7 5. Ne3 Nxh4 6. d4 Nf3 7. d5 h4 8. Ng4 h5 $11)
+3... Qxb8+ (3... Nxh4 4. e8=Q Ng6+ 5. Kg8 Qxd5 6. Qe3+ $18) 4. Kxf7 Nf4 5. e8=N
+$1 (5. e8=Q $2 Qb7+ $1 6. Ne7 Qb3+ 7. Kf8 Ne6+ 8. Kg8 Nxg7+ 9. Qf7 Qb8+ 10. Qf8
+Qxf8+ 11. Kxf8 Ne6+ 12. Kf7 Ng5+ $11) 5... Qxe8+ (5... Qb7+ 6. Nec7 Qb8 7. Ne7
+Qb3+ 8. Ncd5 Qb7 9. g8=N#) 6. Kxe8 (6. Kf6 $2 Qe6#) 6... Nxd5 (6... Kxg7 7.
+Nxf4 $18) 7. Kf7 (7. Kf8 $2 Ne7 8. d4 a4 9. d5 a3 10. d6 Ng6+ 11. Kf7 Ne5+ 12.
+Kf6 Nd7+ 13. Kf7 Ne5+ 14. Kf6 Nd7+ $11) 7... Ne7 8. d4 a4 9. d5 a3 10. d6 a2
+11. dxe7 a1=Q 12. g8=N# *
+
+[Event "Losinsky, 1982. 1st prize"]
+[Site "?"]
+[Date "2008.09.29"]
+[Round "?"]
+[White "A. Koranyi & J. Szentgyorgyi"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "5K2/3NP2p/6Pk/3N3p/7P/q7/6n1/8 w - - 0 1"]
+[PlyCount "19"]
+[EventDate "2008.??.??"]
+
+1. g7 Qa8+ 2. Nb8 Qxb8+ (2... Nxh4 3. g8=N+ Kg5 4. e8=Q Ng6+ 5. Kg7 Qxd5 6. Nd7
+Qd6 7. Qd8+) 3. Kf7 Nf4 4. e8=N {incorrect move ->} Qxe8+ $2 (4... Qb7+ $2) ({
+correct move ->} 4... Qa7+ $3 5. Nec7 Qg1 $1 $11) 5. Kxe8 Nxd5 6. Kf8 Nf6 7.
+Kf7 Ng8 8. Kxg8 Kg6 9. Kh8 Kh6 10. g8=N+ 1-0
+

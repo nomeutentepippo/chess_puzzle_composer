@@ -1,0 +1,158 @@
+﻿[Event "Rusinek JT50_1stPr"]
+[Site "?"]
+[Date "2002.??.??"]
+[Round "?"]
+[White "Vysokosov"]
+[Black "\[+1313.15h5a1\]"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "8/4Q3/2p2P1p/7K/2np4/3pp3/8/k3Br2 w - - 0 1"]
+[PlyCount "15"]
+[EventDate "2002.??.??"]
+
+1. Qa7 Kb1 2. Qxd4 d2+ (2... Ne5 3. Qxe5 Rxe1 4. f7 d2+ 5. Qe4+ Kb2+ 6. f8=Q
+d1=Q+ 7. Kg6) 3. Bxd2 Rf5 4. Kg6 (4. Kg4 Rg5+ 5. Kf4 exd2 6. f7 Ne5 7. Qxd2
+Ng6+ 8. Ke4 Re5+ $11) 4... Rxf6+ 5. Kg7 (5. Kxf6 exd2 {VZ} 6. Kg6 (6. Ke6 h5)
+6... Ne5+ 7. Kxh6 Kc2) (5. Qxf6 exd2 6. Qd4 Ne5+ {with Kc2}) 5... exd2 6. Kxf6
+c5 7. Qe4+ $1 (7. Qd3+ Kb2 {zugzwang} 8. Qd5 Kc3 9. Kg6 Ne3 10. Qxc5+ Kd3 $11)
+7... Kb2 8. Qd3 (8. Qd3 Ka1 9. Qc2 h5 10. Kg5) 1-0
+
+[Event "Rusinek JT50_2ndPr"]
+[Site "?"]
+[Date "2002.??.??"]
+[Round "?"]
+[White "C.Costef, Y.Afek"]
+[Black "\[+0051.23g4b8\]"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "1k6/pb5B/P7/3P4/4p1K1/1p6/8/2N1B3 b - - 0 1"]
+[PlyCount "14"]
+[EventDate "2002.??.??"]
+
+1... Bc8 $1 (1... b2 2. Bg3 (2. Nd3 Bc8) 2... Ka8 3. axb7+ (3. Nd3 Bc8) 3...
+Kxb7 4. Nd3 b1=Q+ 5. Bxe4 {white should win} Kc8 6. d6 Qd1+ 7. Kf4 Kd7 8. Ke5
+Qa1+ 9. Kf5 Qa5+ 10. Be5 Qb6 11. Kg6 Ke8 12. Bf5 Qg1+ 13. Kf6 Qb6 14. Nf4 {wins
+}) 2. Kh4 b2 3. Bg3 Ka8 4. Bxe4 (4. Nd3 b1=Q 5. Bxe4 Bf5 6. Bxf5 Qxd3) 4...
+bxc1=R (4... bxc1=Q 5. d6+ Kb8 6. d7+ Qc7 7. d8=R $1 (7. d8=Q $2 Qxg3+ 8. Kxg3
+{pat})) 5. d6+ Kb8 6. d7+ Rc7 7. d8=N $1 (7. d8=B Bxa6 $11 8. Bdxc7+ Kc8 9. Bb8
+Kd7 10. Bxa7 Ke6) 7... Bxa6 8. Ne6 1-0
+
+[Event "Rusinek JT50_3rdPr"]
+[Site "?"]
+[Date "2002.??.??"]
+[Round "?"]
+[White "Roxlau"]
+[Black "\[+0130.10a3f7\]"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "8/5k1b/1R5P/8/8/K7/8/8 w - - 0 1"]
+[PlyCount "15"]
+[EventDate "2002.??.??"]
+
+1. Kb2 $1 (1. Kb4 Be4 $1 2. Kc3 Kg8 $11) (1. Kb3 Be4 2. Rb4 Bd5+ $11) 1... Kg8
+(1... Bf5 2. Rb5 Bh7 3. Rg5) (1... Be4 2. Rb4 Bf5 3. Rf4 Kg6 4. h7) 2. Rb8+ Kf7
+3. Kc3 Kg6 4. Rb6+ Kg5 5. Kd4 Bg6 6. Ke5 Kxh6 7. Kf6 Kh5 8. Rb5+ 1-0
+
+[Event "Rusinek JT50_1sthm"]
+[Site "?"]
+[Date "2002.??.??"]
+[Round "?"]
+[White "Matous, M+PolasekJ"]
+[Black "\[h8d5\]"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "7K/6N1/3P4/3k4/8/5q2/8/6Q1 w - - 0 1"]
+[PlyCount "9"]
+[EventDate "2002.??.??"]
+
+1. d7+ Qh3 2. Nh5 Qxh5 3. Kg8 $1 Qh4 4. Qd1 $1 (4. Qg6+ $2 Qd8+ 5. Qe8+ Qg5+ 6.
+Kf7+ Qf4+ 7. Kg7+) 4... Ke6 5. d8=R $1 (5. d8=Q $2 Qg5+ $1 6. Kh7 Qh5+ 7. Kg7
+Qg5+ {perpetual stalemate}) 1-0
+
+[Event "Rusinek JT50_2ndhm"]
+[Site "?"]
+[Date "2002.??.??"]
+[Round "?"]
+[White "Minerva, E."]
+[Black "\[+1007.02d3d1\]"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "8/8/8/1n6/8/3K4/2pN1pQ1/3k1n2 b - - 0 1"]
+[PlyCount "14"]
+[EventDate "2002.??.??"]
+
+1... c1=N 2. Ke4 Nxd2+ 3. Ke3 f1=N+ 4. Kf2 Nd3+ 5. Kg1 Ne3 6. Qh3 Ke2 7. Qh2+
+Kd1 8. Qh3 $11 1/2-1/2
+
+[Event "Rusinek JT50_3rdhm"]
+[Site "?"]
+[Date "2002.??.??"]
+[Round "?"]
+[White "Jasik, A."]
+[Black "\[+0453.11g5f8\]"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "5kn1/5B2/3r4/6K1/2R5/b1B5/4P2p/8 w - - 0 1"]
+[PlyCount "14"]
+[EventDate "2002.??.??"]
+
+1. Rh4 Rh6 2. Rxh6 (2. Bd5 Be7) 2... Bc1 (2... Be7 3. Kg6 Nxh6 4. Bd5) 3. e3+
+$1 (3. Kg6 Ne7+ 4. Kf6# (4. Kh7+ Bxh6 5. Bh5+ h1=Q 6. Bg7 Bxg7) 4... Bxh6 5.
+Bb4 Bg7+ (5... Bg5+) 6. Ke6 Bb2 7. Bxe7 Kg7) 3... Bxe3 4. Kg6 Ne7+ 5. Kh7+ Bxh6
+6. Bh5+ h1=Q 7. Bg7 Bxg7 1/2-1/2
+
+[Event "Rusinek JT50, comm - cooked"]
+[Site "?"]
+[Date "2002.??.??"]
+[Round "?"]
+[White "Bondar, I+BartoszW"]
+[Black "\[+0008.01h2h4\]"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "8/8/8/8/7k/4n2N/4p2K/n6N w - - 0 1"]
+[PlyCount "16"]
+[EventDate "2002.??.??"]
+
+{Cooked?} 1. Ng1 e1=N (1... Ng4 2. Kg2) 2. Nf2 Nf1 3. Kh1 Ng3+ 4. Kh2 Nac2 5.
+Nd1 Nf1+ 6. Kh1 Nd4 7. Ne3 (7. Nc3 {Polasek} Ng3+ 8. Kh2 Kg4 (8... Ndf5 9. Nge2
+) (8... Ngf5 9. Nge2) 9. Nd5 $1 {Not mentioned by Rusinek} (9. Nd1 Ndf5 10. Nh3
+(10. Nf2+ Kh4 11. Ngh3 Nf1+ 12. Kg1 Nd2 13. Nf4 Ndf3+ 14. Kf1 Ng3#) 10... Nf3+
+11. Kg2 N5h4+ 12. Kf2 Kxh3) (9. Nce2 Nf1+ 10. Kh1 Nf5) (9. Nb1 Ne4 10. Na3 Nd2)
+9... Ndf5 (9... Nf1+ 10. Kh1 Nd2 11. Ne3+) 10. Nf6+ Kh4 (10... Kg5 11. Nd5 (11.
+Nh7+ Kg6 12. Nf8+ Kf7 13. Nd7) 11... Kh4 12. Nh3) 11. Nh3 Ne3 (11... Nd4 12.
+Ng5) (11... Ne2 12. Ne4 Ne3 13. Nhf2 Nf3+ 14. Kh1 Nf4 15. Nc3 $11) 12. Ng5 $11)
+7... Nxe3 8. Nf3 Ndxf3 1/2-1/2
+
+[Event "Rusinek JT50, comm."]
+[Site "?"]
+[Date "2002.??.??"]
+[Round "?"]
+[White "Bondar, I."]
+[Black "\[+1017.18e4a6\]"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "8/1p2p2n/k1p3pp/pn4P1/3pK3/1QB5/2N3p1/8 w - - 0 1"]
+[PlyCount "12"]
+[EventDate "2002.??.??"]
+
+1. Nb4 Ka7 2. Nxc6+ (2. Bxd4+ Nxd4 3. Qa2 Nxg5 4. Kd3 Nge6) 2... bxc6 3. Bxd4+
+Nxd4 4. Qe3 Nxg5 5. Kxd4 g1=Q (5... g1=B 6. Ke5+ Bxe3 {pat} (6... Kb7 7. Qd3
+Bh2+ (7... Kc7 8. Qxg6) 8. Kd4 e5+ 9. Kc4 e4 10. Qd7+ Kb6 11. Qd4+ Ka6 12. Qf6
+$11)) 6. Kc4+ Qxe3 {pat} 1/2-1/2
+
+[Event "Rusinek JT50, comm"]
+[Site "?"]
+[Date "2002.??.??"]
+[Round "?"]
+[White "Josten, G."]
+[Black "\[+0026.11f7a8\]"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "kn6/P3pK2/8/8/4n3/8/7B/1B6 b - - 0 1"]
+[PlyCount "16"]
+[EventDate "2002.??.??"]
+
+1... Nd6 2. Kxe7+ Nc8+ 3. Kd8+ Nxa7 4. Be4 Nac6+ 5. Kc7 Ka7 6. Bd6 Ka6 7. Bd3+
+Ka5 (7... Ka7 8. Bc5+ Ka8 9. Bf2 Nb4 10. Be4+ N4c6 11. Bf3) 8. Bc4 Ka4 9. Kb6
+1-0
+

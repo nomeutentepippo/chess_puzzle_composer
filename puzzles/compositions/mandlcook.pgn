@@ -1,0 +1,1057 @@
+﻿[Event "Tidskrift för Schack#1520 4.p @2"]
+[Site "?"]
+[Date "1970.??.??"]
+[Round "?"]
+[White "Mandler, A."]
+[Black "S000 JB cooked"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "k1K5/6N1/8/8/2pp4/8/P7/8 w - - 0 1"]
+[PlyCount "11"]
+[EventDate "1970.??.??"]
+[Source "ChessBase"]
+
+{[%mdl 1]} 1. Ne8 $1 d3 $1 (1... c3 2. Nc7+ Ka7 3. Nb5+ Kb6 4. Nxd4) 2. a3 $1 (
+2. Nc7+ $2 Ka7 3. Nd5 Ka6 4. Kc7 (4. Nc3 $1 {[%mdl 8192] HvdH gives this dual}
+Kb6 5. a3 $1 (5. a4 $2 Ka5) 5... Kc5 6. Nb1 Kd4 7. a4 $1 c3 (7... Kc5 8. a5 Kb5
+9. Na3+) 8. Nxc3 Kxc3 9. a5 d2 10. a6 d1=Q 11. a7) 4... Ka5) 2... d2 3. Nc7+
+Ka7 4. Nb5+ Kb6 5. Nc3 Kc6 6. Kd8 1/2-1/2
+
+[Event "Práce"]
+[Site "?"]
+[Date "1955.??.??"]
+[Round "?"]
+[White "Mandler, A."]
+[Black "S320 JB cooked"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "1K6/4p3/5p2/8/4k3/2P1P3/3P4/8 w - - 0 1"]
+[PlyCount "15"]
+[EventDate "1955.??.??"]
+[Source "ChessBase"]
+
+{[%mdl 1]} 1. c4 f5 2. Ka7 $3 (2. c5 $1 {[%mdl 8192]} Kd5 3. d4 e5 4. Kb7 f4 5.
+exf4 exf4 6. c6 f3 7. c7 f2 8. c8=Q f1=Q 9. Qd7+) (2. Kb7 e5 3. c5 f4 4. c6 f3
+5. c7 f2 6. c8=Q f1=Q) 2... e5 3. c5 f4 4. c6 f3 5. c7 f2 6. c8=Q f1=Q 7. Qb7+
+Kf5 (7... Kd3 8. Qb5+) 8. Qf7+ 1-0
+
+[Event "Tidskrift för Schack"]
+[Site "?"]
+[Date "1962.??.??"]
+[Round "?"]
+[White "Mandler, A."]
+[Black "S325 JB cooked"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "5K2/p7/8/1P6/7p/k1P4P/2P5/8 w - - 0 1"]
+[PlyCount "21"]
+[EventDate "1962.??.??"]
+[Source "ChessBase"]
+
+{[%mdl 1]} 1. Ke7 Ka4 2. b6 (2. Kd6 $5 {[%mdl 8192] JohnB} Kxb5 3. Kd5 Kb6 (
+3... a5 4. c4+ Kb4 5. c5 a4 6. c6 a3 7. c7 a2 8. c8=Q a1=Q 9. Qc5+ Ka4 10. Qa7+
+) 4. c4 Kc7 5. c5 Kd7 {Fritz, best move?!} (5... a6 6. c6 a5 7. Kc5 a4 8. Kb4
+Kxc6 9. Kxa4 Kc5 10. Kb3) 6. c6+ Kc7 7. Kc5 Kd8 8. Kd6 Kc8 9. c3 Kd8 10. c7+
+Kc8 11. Kc6 a5 12. Kb5 Kxc7 13. Kxa5 Kc6 14. Kb4) 2... axb6 3. Kd6 Ka3 4. Kc6
+Kb2 5. c4 Kc3 6. Kb5 Kd4 7. c5 $1 (7. Kb4 $2 Ke4 8. c5 bxc5+ 9. Kxc5 Kf4 10.
+Kd4 Kg3 11. Ke3 Kxh3 12. Kf3 Kh2) 7... bxc5 8. c4 Ke4 9. Kxc5 Kf4 10. Kd4 Kg3
+11. c5 1-0
+
+[Event "FIDE-revue#430a {tw}"]
+[Site "?"]
+[Date "1958.??.??"]
+[Round "?"]
+[White "Mandler, A."]
+[Black "S366 JB cooked"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "5K2/3p4/1p6/3p1k2/8/8/8/3R4 w - - 0 1"]
+[PlyCount "3"]
+[EventDate "1958.??.??"]
+[Source "ChessBase"]
+
+1. Ke7 (1. Rxd5+ {[%mdl 8194] JB, Tablebase. The whole twin pair collapses.}
+Ke6 2. Rb5 $2 (2. Rd1 $3 d5 3. Re1+ Kd6 4. Kf7 b5 5. Rb1 Kc5 6. Ke6) (2. Rg5 $3
+) 2... d5 3. Rxb6+ Ke5 4. Ke7 d4 5. Rd6 Ke4) 1... Ke4 2. Kxd7 1-0
+
+[Event "FIDE-revue#430b {tw}"]
+[Site "?"]
+[Date "1958.??.??"]
+[Round "?"]
+[White "Mandler, A."]
+[Black "S366 JB cooked"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "5K2/1p1p4/8/3p1k2/8/8/8/3R4 w - - 0 1"]
+[PlyCount "17"]
+[EventDate "1958.??.??"]
+[Source "ChessBase"]
+
+1. Rxd5+ Ke6 2. Rb5 d5 3. Rxb7 Ke5 4. Ke7 d4 5. Rd7 Ke4 6. Kd6 d3 7. Kc5 Ke3 8.
+Kc4 d2 9. Kc3 1-0
+
+[Event "Ceskoslovensky Sach#025 3.p"]
+[Site "?"]
+[Date "1958.??.??"]
+[Round "?"]
+[White "Mandler, A."]
+[Black "S369 JB cooked"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "4KR2/2p5/p1p5/8/p7/2p5/7k/8 b - - 0 1"]
+[PlyCount "30"]
+[EventDate "1958.??.??"]
+[Source "ChessBase"]
+
+{[%mdl 1]} 1... a3 (1... Kg2 $3 2. Rf5 (2. Rf4 $2 c5 3. Rxa4 (3. Kd7 a3 4. Ra4
+Kf3) (3. Rc4 a3 4. Rxc3 a2 5. Rc1 (5. Ra3 Kf2) 5... c4) 3... Kf3 4. Rc4 Ke3 5.
+Rxc3+ Kd4) 2... a3 3. Ra5 c2 (3... Kf3 4. Rxa3 Ke4 5. Rxc3 Kd5 6. Kd7 c5 7.
+Kxc7) 4. Rc5 a2 (4... Kf3 $3 {[%mdl 8192] JB} 5. Rxc2 Ke4 6. Kd7 (6. Ra2 Kd5 7.
+Rxa3 c5) (6. Rxc6 a2 7. Rxa6 c5 8. Rxa2 c4 9. Ra3 Kd4 10. Kd7 c3 11. Ra7 c2 12.
+Rc7 Kd3 13. Rc5 Kd2) 6... Kd3 7. Rc1 (7. Rxc6 a2 8. Rxa6 c5) 7... c5 8. Kc6 (8.
+Rxc5 a2 9. Ra5 c5 10. Rxa2 c4) 8... c4 9. Kc5 c3 10. Kb4 c2 11. Kb3 a5 12. Kxa3
+Kc3 13. Rh1 a4 14. Rh3+ Kd2 15. Rh2+ Kd1 16. Rh1+ Kd2 17. Kb2 a3+) 5. Rxc2+ Kf3
+6. Rxa2 Ke4 7. Rc2 Kd5 8. Kd7 c5 9. Kxc7) (1... Kg3 2. Rf1 (2. Rf5 $2 a3 3. Ra5
+Kf4 4. Rxa3 Ke5 5. Rxc3 Kd6) 2... a3 (2... c5 3. Kd7 $1) 3. Kd7 a2 4. Kxc6 Kg2
+5. Ra1 $1 (5. Rc1 $2 Kf2 6. Kc5 Ke2 7. Kc4 Kd2) 5... Kf3 6. Kc5 Ke3 7. Kc4) (
+1... c5 2. Rf3 $1 (2. Kd7 $2 Kg2 3. Rf4 a3 4. Ra4 Kf3 5. Rxa3 Ke3) (2. Rf2+ $2
+Kg3 3. Rc2 Kf4) (2. Rf4 $2 a3 3. Ra4 c2 4. Rc4 a2 5. Rxc2+ Kg3 6. Rxa2 Kf4) (2.
+Rf5 $2 a3 3. Rxc5 a2 4. Ra5 Kg3 5. Rxa2 Kf4) 2... a3 3. Rxc3 a2 4. Ra3 $1 (4.
+Rc2+ $2 Kg3 5. Rxa2 Kf4 6. Rc2 Ke5 7. Rxc5+ Kd6) 4... Kg2 5. Rxa2+ Kf3 6. Rc2)
+(1... Kg1 2. Rf3 $1 (2. Rf5 $2 a3 3. Ra5 c2 4. Rc5 a2 5. Rxc2 a1=Q) 2... c2 3.
+Rc3 a3 4. Rxc2) 2. Rf3 (2. Rf2+ $2 Kg3 3. Ra2 (3. Rc2 Kf4 4. Rxc3 a2 5. Rc1 c5
+6. Kd7 Ke3) 3... Kf4 4. Rxa3 Ke5 5. Rxc3 Kd6) 2... a2 (2... c2 3. Rc3) 3. Rf2+
+Kg3 4. Rxa2 Kf3 (4... c5 5. Ra5 (5. Rc2 $2 Kf4 6. Rxc3 Ke5 7. Kd7 (7. Rxc5+ Kd6
+) 7... Kd4 8. Rc1 c4 9. Kc6 c3 $1 (9... Kd3 $2 10. Kc5)) 5... c4 6. Ra4 Kf4 7.
+Rxc4+ Ke5 8. Kd7 $1 Kd5 9. Rxc3 c5 10. Kc7 c4 11. Kb6 Kd4 12. Rc1) (4... Kf4 5.
+Re2 c5 6. Kd7 Kf3 7. Re1 c4 8. Kc6 Kf2 9. Re4) 5. Rc2 Ke4 6. Rxc3 Kd5 7. Kd7 c5
+8. Kxc7 c4 9. Kb6 Kd4 10. Rc1 c3 11. Ka5 Kd3 12. Kb4 a5+ 13. Kb3 a4+ 14. Ka2 c2
+15. Kb2 a3+ 16. Kb3 1-0
+
+[Event "Ceskoslovensky Sach"]
+[Site "?"]
+[Date "1961.??.??"]
+[Round "?"]
+[White "Mandler, A."]
+[Black "S375 JB cooked"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "1k6/6p1/6P1/6K1/6R1/2r5/8/8 w - - 0 1"]
+[PlyCount "15"]
+[EventDate "1961.??.??"]
+[Source "ChessBase"]
+
+1. Rf4 $1 Rg3+ 2. Kh5 Rc3 (2... Ra3 3. Rf8+ Kc7 4. Rf7+ Kd6 5. Rxg7) 3. Rf7 $1
+(3. Kg4 {[%mdl 8194] Dual JB} Rc6 (3... Rc8 4. Rf7 Rg8) 4. Rf8+ Rc8 5. Rf7 Rg8)
+3... Rc7 4. Kg5 Kc8 5. Kf5 Rc5+ 6. Kf4 $1 (6. Ke6 Rc6+ 7. Kf5 Rc5+) 6... Rc7 7.
+Ke5 Rc5+ 8. Kd6 1-0
+
+[Event "Sachové Umenie#208"]
+[Site "?"]
+[Date "1950.??.??"]
+[Round "?"]
+[White "Mandler, A."]
+[Black "S376 JB cooked"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "1k6/6p1/6P1/6K1/6R1/r7/8/8 w - - 0 1"]
+[PlyCount "11"]
+[EventDate "1950.??.??"]
+[Source "ChessBase"]
+
+1. Re4 $1 Ra1 {[%mdl 8192]} ({FEG:} 1... Rg3+ $1 {[%mdl 8194]} 2. Kf5 (2. Kh5
+Rc3 {wins a tempo comparing to another study where wRis on f4} 3. Re7 Rc7 4.
+Rf7 Kc8 5. Kg5 Kd8 6. Rf1 Rc5+ 7. Kg4 Ke7 8. Rf7+ Ke6) 2... Kc7 3. Re7+ Kd8 4.
+Rxg7 Ke8 $11) 2. Re7 $1 Rg1+ 3. Kf5 Rf1+ 4. Ke5 $1 Re1+ 5. Kd6 Rd1+ 6. Ke6 1-0
+
+[Event "Ceskoslovensky sach 2hm twin"]
+[Site "?"]
+[Date "1954.??.??"]
+[Round "?"]
+[White "Mandler, A."]
+[Black "S377 JB cooked"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "5R2/2r3p1/6P1/8/6K1/8/5k2/8 b - - 0 1"]
+[PlyCount "5"]
+[EventDate "2003.01.01"]
+[Source "ChessBase"]
+
+1... Ke3 (1... Kg2 $2 2. Rf7 Rc4+ 3. Kf5 Rc5+ 4. Kf4 $1 (4. Ke4 Rg5 5. Rxg7 Kg3
+) 4... Rc4+ 5. Ke5 Rc5+ 6. Kd6) 2. Rf7 (2. Rf3+ $3 {[%mdl 8194] JB cooked} Ke4
+(2... Kd2 3. Rf7 Rc4+ 4. Kf5 Rc5+ 5. Ke4) 3. Rf7 Rc4 4. Rxg7) 2... Rc4+ 3. Kg3
+Ke4 1/2-1/2
+
+[Event "Ceskoslovensky sach 2hm twin"]
+[Site "?"]
+[Date "1954.??.??"]
+[Round "?"]
+[White "Mandler, A."]
+[Black "S377 JB cooked"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "5R2/1r4p1/6P1/8/6K1/8/5k2/8 b - - 0 1"]
+[PlyCount "9"]
+[EventDate "2003.01.01"]
+[Source "ChessBase"]
+
+1... Kg2 (1... Ke3 $2 2. Rf7 Rb4+ 3. Kg3 Ke4 4. Rf4+) 2. Rf7 Rb4+ 3. Kf5 Rb5+
+4. Kf4 Rb4+ 5. Ke5 Rb5+ 1/2-1/2
+
+[Event "Práce 2.p"]
+[Site "?"]
+[Date "1952.??.??"]
+[Round "?"]
+[White "Mandler, A."]
+[Black "S378 JB cooked"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "7R/2r3p1/6P1/4K3/8/3k4/8/8 w - - 0 1"]
+[PlyCount "19"]
+[EventDate "1952.??.??"]
+[Source "ChessBase"]
+
+1. Re8 $1 (1. Rf8 $2 Rc6 2. Kf5 Ke3 3. Rf7 Rc5+ 4. Kg4 Rc4+ 5. Kg3 Ke4 6. Rf4+
+Kd5) 1... Ra7 {[%mdl 8192]} ({FEG:} 1... Rc5+ {[%mdl 8194]} 2. Ke6 Ke4 $1 $11)
+2. Rf8 $1 {point, see 1.Rf8?} Re7+ 3. Kd5 Ke3 4. Rf7 Re8 5. Kd6 Rc8 6. Kd7 Ra8
+7. Ke6 Ke4 8. Rb7 Rf8 9. Rxg7 Kf4 10. Rf7+ 1-0
+
+[Event "FIDE-revue#055"]
+[Site "?"]
+[Date "1954.??.??"]
+[Round "?"]
+[White "Mandler, A."]
+[Black "S379 JB cooked"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "8/2r3p1/6P1/8/3KR3/8/3k4/8 w - - 0 1"]
+[PlyCount "21"]
+[EventDate "1954.??.??"]
+[Source "ChessBase"]
+
+1. Kd5 Ra7 2. Ke6 Rc7 3. Kf5 Kd3 4. Re8 Ra7 {[%mdl 8192]} ({FEG:} 4... Rc5+ $1
+{[%mdl 8194]} 5. Re5 Rc7 $11) 5. Rf8 $1 {see the previsous study} Rc7 6. Rf7
+Rc5+ 7. Kf4 Rc4+ 8. Kf3 Kd4 9. Rf4+ Kd5 10. Rxc4 Kxc4 11. Ke4 1-0
+
+[Event "Ceskoslovensky Sach#03"]
+[Site "?"]
+[Date "1957.??.??"]
+[Round "?"]
+[White "Mandler, A."]
+[Black "S380 JB cooked"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "8/1r4p1/6P1/8/4R3/1k2K3/8/8 w - - 0 1"]
+[PlyCount "9"]
+[EventDate "1957.??.??"]
+[Source "ChessBase"]
+
+1. Kf4 Kc3 2. Kg5 (2. Ke5 $2 Kd3 3. Rf4 Rb6 $11) 2... Rc7 (2... Kd3 3. Rf4 Ke3
+(3... Rc7 $2 4. Rf7 Rc5+ 5. Kf4 Rc4+ 6. Kf3 Kd4 7. Rf4+ Kd5 8. Rxc4 Kxc4 9. Ke4
+$18) 4. Rf7 Rb5+ $18) (2... Rd7 3. Kf5 Kd3 4. Re8 Rd5+ 5. Ke6 Ke4 6. Rf8 $18)
+3. Kf5 Kd3 {Compare Mandler, A FIDE review # 55, 1954} (3... Ra7 4. Ke6 Kd3 5.
+Rf4 Ke3 (5... Rc7 6. Rf7 Rc6+ 7. Kf5 Rc5+ 8. Kf4 Rc4+ 9. Kf3 $18) 6. Rf7 $18)
+4. Re8 Ra7 {[%mdl 8192]} ({FEG:} 4... Rc5+ $11 {[%mdl 8194]}) 5. Rf8 1-0
+
+[Event "Ceskoslovensky sach"]
+[Site "?"]
+[Date "1955.??.??"]
+[Round "?"]
+[White "Manlder, A."]
+[Black "S381 JB cooked"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "6R1/1r4p1/6P1/8/8/6K1/8/2k5 b - - 0 1"]
+[PlyCount "25"]
+[EventDate "2003.01.01"]
+[Source "ChessBase"]
+
+1... Kd2 2. Kf4 Rb4+ (2... Rc7 $1 {[%mdl 8194] Mandler 0-1, JB draw} 3. Rf8 Rc6
+$3 4. Kf5 Ke3 5. Rf7 Rc5+) 3. Kf5 Rb5+ 4. Ke6 Rb6+ 5. Kf7 Rb7+ 6. Kf8 Ke3 7.
+Rxg7 Rb8+ 8. Kf7 Kf4 9. Rg8 Rb7+ 10. Kf6 Rb6+ 11. Kg7 Kg5 12. Kh7 Kh5 13. g7 $2
+Rh6# 1/2-1/2
+
+[Event "FIDE-revue"]
+[Site "?"]
+[Date "1956.??.??"]
+[Round "?"]
+[White "Mandler, A."]
+[Black "S383 JB cooked"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "6R1/1r4p1/6P1/8/8/4K3/2k5/8 w - - 0 1"]
+[PlyCount "5"]
+[EventDate "1956.??.??"]
+[Source "ChessBase"]
+
+1. Kf4 $1 (1. Ke4 $2 Re7+ 2. Kf5 Kd3 3. Rf8 Kd4 4. Rf7 Re5+ 5. Kg4 Re4+ 6. Kf3
+Re3+ 7. Kf2 Re6 8. Rxg7 Ke5) (1. Rc8+ $1 {[%mdl 8194] JB} Kd1 2. Kf4 Ke2 3. Rf8
+Rb4+ 4. Kg5 Rb5+ 5. Rf5 Rb8 6. Rf7 Rg8 7. Kf4) 1... Re7 2. Rf8 Kd3 3. Rf7 1-0
+
+[Event "Deutsche Schachzei-tung#491"]
+[Site "?"]
+[Date "1962.??.??"]
+[Round "?"]
+[White "Mandler, A."]
+[Black "S385 JB cooked"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "8/2r3p1/4R1P1/1k6/5K2/8/8/8 w - - 0 1"]
+[PlyCount "21"]
+[EventDate "1962.??.??"]
+[Source "ChessBase"]
+
+1. Kf5 $1 (1. Ke5 $2 Kc5 $1) (1. Ke4 $2 Rc1 $1 (1... Kc4 $2 2. Re5 Ra7 3. Re8
+Kc5 4. Ke5 Ra6 5. Rc8+) (1... Kc5 $2 2. Ke5)) 1... Kc5 2. Ke5 $1 Ra7 3. Re8 Ra6
+4. Rc8+ $1 Kb5 5. Kf5 Rf6+ 6. Kg5 Rc6 7. Rf8 {White move Rf7? Rc5+ draws, but
+balck to move} (7. Rb8+ $1 {[%mdl 8194] JB dual} Ka6 8. Rf8) 7... Kb6 (7... Kc5
+8. Rf7) 8. Kf5 Kb5 9. Rg8 $1 Rc7 10. Ke6 Kc6 11. Re8 1-0
+
+[Event "Prace"]
+[Site "?"]
+[Date "1952.??.??"]
+[Round "?"]
+[White "Mandler, A."]
+[Black "S386 JB cooked"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "r7/6p1/k5P1/6R1/5K2/8/8/8 b - - 0 1"]
+[PlyCount "3"]
+[EventDate "2003.01.05"]
+[Source "ChessBase"]
+
+1... Rc8 $3 (1... Kb6 $2 2. Re5 (2. Rf5 $2 Rc8 3. Rf7 Rc4+) 2... Rf8+ 3. Kg5
+Rc8 4. Re6+ Kb7 5. Kf5) (1... Kb7 $2 2. Rf5 (2. Re5 $2 Rc8 3. Re7+ Rc7) 2...
+Rc8 3. Rf7+) 2. Rf5 (2. Re5 Kb7) 2... Kb6 {sorry duals} (2... Rc6 $1 {[%mdl
+8194]}) (2... Rc4+ $1 3. Kg5 Kb6) 1/2-1/2
+
+[Event "Deutsche Schachzei-tung#488"]
+[Site "?"]
+[Date "1962.??.??"]
+[Round "?"]
+[White "Mandler, A."]
+[Black "S392 JB cooked"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "4k3/8/3RP1P1/4r3/8/7K/8/8 w - - 0 1"]
+[PlyCount "41"]
+[EventDate "1962.??.??"]
+[Source "ChessBase"]
+
+1. Rd7 $1 (1. Kg4 $2 {[%mdl 8202] This move wins, too, MB.} Kf8 $1) (1. g7 $2
+Rg5 2. Rd7 Rg3+ 3. Kxg3) 1... Rg5 (1... Rxe6 2. g7 Rh6+ 3. Kg4 Rg6+ 4. Kf5) 2.
+Rg7 $1 (2. g7 $2 Rg3+ 3. Kxg3) 2... Rg1 (2... Kf8 3. Rf7+ Kg8 (3... Ke8 4. g7)
+4. e7) 3. Kh4 Rh1+ (3... Rg2 4. Rg8+ Ke7 5. Kh5 Rh2+ (5... Kf6 6. Rf8+) 6. Kg5
+Rh1 7. Ra8 Kxe6 8. g7) 4. Kg4 $1 (4. Kg3 $2 Re1 5. Rg8+ Ke7 6. g7 Rg1+ 7. Kf4
+Kxe6) 4... Rg1+ (4... Re1 5. Rg8+ Ke7 6. Kg5) 5. Kh3 $3 (5. Kf3 $2 Rf1+ 6. Kg2
+(6. Ke2 Rf6) 6... Rf6 7. e7 Rf5) (5. Kf4 Rf1+ 6. Ke3 Re1+) 5... Kd8 (5... Re1
+6. Ra7) (5... Rh1+ 6. Kg2 Rh5 7. Kf3 Rg5 8. Kf4 Rg1 9. Rg8+) 6. Kh4 (6. Rd7+ $2
+Ke8 7. g7 Rg3+ 8. Kxg3) 6... Rh1+ 7. Kg3 $1 Rg1+ (7... Re1 8. Rd7+ Ke8 9. Kf4
+Rxe6 10. g7) (7... Ke8 8. Kg2 Rh5 9. Kf3 Rg5 10. Kf4 Rg1 11. Rg8+) 8. Kf2 Rg5
+9. Rd7+ Ke8 10. g7 Rg2+ 11. Ke3 Re2+ 12. Kd4 Rd2+ 13. Kc5 Rc2+ 14. Kb6 Rb2+ 15.
+Ka7 Ra2+ 16. Kb8 Ra8+ 17. Kc7 Rc8+ 18. Kd6 Rc6+ 19. Ke5 Rxe6+ 20. Kf5 $1 Kxd7
+21. g8=Q 1-0
+
+[Event "Národní Listy 1.p"]
+[Site "?"]
+[Date "1929.??.??"]
+[Round "?"]
+[White "Mandler, A."]
+[Black "S393 JB cooked"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "2k5/1r4p1/3RP1P1/8/2K5/8/8/8 w - - 0 1"]
+[PlyCount "53"]
+[EventDate "1929.??.??"]
+[Source "ChessBase"]
+
+1. Kd4 (1. Kc5 $2 Ra7 2. Rd2 Ra5+ $1 (2... Re7 $2 3. Kd6 Kd8 4. Rf2 Rd7+ 5. Ke5
+Rd1 6. Rf8+ Ke7 7. Rf7+ Ke8 8. Rxg7 Re1+)) (1. Kd5 $2 Ra7 2. Ke5 Ra5+ 3. Rd5
+Rxd5+ 4. Kxd5 Kc7 5. Kc5 Kd8 6. Kd6 Ke8 7. e7) (1. Rd5 $2 Re7 2. Rd6 Ra7) 1...
+Rb4+ 2. Kc5 Rb7 3. Rd5 (3. Rd1 $1 {[%mdl 8194] JB} Ra7 4. Rf1) 3... Re7 (3...
+Ra7 4. Kd4 Ra4+ 5. Ke5 Ra7 6. Kf5 $1 Rc7 7. Rd4 Ra7 8. Kf4 (8. Ke4 {JB dual}
+Ra6 9. e7 (9. Ke5 $1 {JB}) 9... Re6+) 8... Rb7 9. Ke5 Ra7 10. Rd5 (10. Kf4)) 4.
+Kd6 Kd8 5. Rf5 Rd7+ 6. Ke5 Rd1 7. Rf8+ Ke7 8. Rf7+ Ke8 9. Rxg7 Re1+ 10. Kf5
+Rf1+ 11. Kg4 Rg1+ 12. Kh3 Kd8 13. Kh4 Rh1+ 14. Kg3 Rg1+ (14... Ke8 15. Kg2) 15.
+Kf2 Rg5 16. Rd7+ Ke8 17. g7 Rg2+ 18. Ke3 Re2+ 19. Kd4 Rd2+ 20. Kc5 Rc2+ 21. Kb6
+Rb2+ 22. Ka7 Ra2+ 23. Kb8 Ra8+ 24. Kc7 Rc8+ 25. Kd6 Rc6+ 26. Ke5 Rxe6+ 27. Kf5
+1-0
+
+[Event "Ceskoslovensky sach twin"]
+[Site "?"]
+[Date "1952.??.??"]
+[Round "?"]
+[White "Mandler, A."]
+[Black "S396 JB cooked"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "1k6/6p1/R3P1P1/8/8/7K/1r6/8 b - - 0 1"]
+[PlyCount "7"]
+[EventDate "2003.01.01"]
+[Source "ChessBase"]
+
+1... Rb1 $3 (1... Kc7 $2 2. Ra7+ Kd6) (1... Rb7 {[%mdl 8194]}) 2. Rd6 (2. e7
+Re1 3. Rf6 Kc7 4. e8=Q Rxe8 5. Rf7+ Kd6 6. Rxg7 Ke6 7. Rf7 Rg8) (2. Kg4 Kc7 $1
+(2... Kb7 $2) 3. e7 Re1 4. Rf6) 2... Kc7 3. Rd7+ Kc6 4. Rxg7 Rg1 1/2-1/2
+
+[Event "Ceskoslovensky sach twin"]
+[Site "?"]
+[Date "1950.??.??"]
+[Round "?"]
+[White "Mandler, A."]
+[Black "S396 JB cooked "]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "1k6/6p1/R3P1P1/8/7K/8/1r6/8 b - - 0 1"]
+[PlyCount "5"]
+[EventDate "2003.01.01"]
+[Source "ChessBase"]
+
+1... Kc7 $3 (1... Rg2 $2 2. e7 (2. Rd6 $2) 2... Re2 3. Rf6 Rxe7 4. Rf7 Rc7 5.
+Kg4) (1... Rb7 $3 {[%mdl 8194]}) 2. Ra7+ Kd6 3. Rxg7 Rg2 1/2-1/2
+
+[Event "Ceskoslovensky sach"]
+[Site "?"]
+[Date "1950.??.??"]
+[Round "?"]
+[White "Mandler, A."]
+[Black "S405 JB cooked"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "1k6/r5p1/2R1P1P1/8/8/7K/8/8 b - - 0 1"]
+[PlyCount "13"]
+[EventDate "2003.01.01"]
+[Source "ChessBase"]
+
+1... Kb7 (1... Re7 $3 {[%mdl 8194] JB}) 2. Rc3 (2. Rc4 Ra6 3. Rd4 Kc6 4. Rd7
+Ra1) 2... Ra4 (2... Ra6 $2 3. Rd3 Kc6 4. e7) 3. Kg3 Re4 4. Rd3 Kc6 5. Rd7 Re1
+6. Rxg7 Rg1+ 7. Kf4 Kd6 1/2-1/2
+
+[Event "Turnajovy Bulletin {tw}"]
+[Site "?"]
+[Date "1954.??.??"]
+[Round "?"]
+[White "Mandler, A."]
+[Black "S411 JB cooked"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "R7/3K4/7P/8/6r1/7k/7P/8 w - - 0 1"]
+[PlyCount "3"]
+[EventDate "1954.??.??"]
+[Source "ChessBase"]
+
+{[%mdl 1]} 1. Ra7 $3 (1. Ke7 Rg6 2. Rh8 Ra6) (1. Ra5 {[%mdl 8192] JB, MB} Kh4 (
+1... Rh4 2. Ra3+ Kxh2 3. Ra6) (1... Rg6 2. Rh5+ Kg4 3. h7) 2. Ke8 Rb4 3. Rd5)
+1... Rh4 2. Ra6 1-0
+
+[Event "Turnajovy Bulletin {tw}"]
+[Site "?"]
+[Date "1954.??.??"]
+[Round "?"]
+[White "Mandler, A."]
+[Black "S411 JB cooked"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "R7/3K4/7P/6r1/8/7k/7P/8 w - - 0 1"]
+[PlyCount "7"]
+[EventDate "1954.??.??"]
+[Source "ChessBase"]
+
+1. Ra6 $1 Kg4 2. Ke8 Rb5 3. Rd6 Rh5 4. Kf7 1-0
+
+[Event "Prace"]
+[Site "?"]
+[Date "1955.??.??"]
+[Round "?"]
+[White "Mandler, A."]
+[Black "S415 JB cooked"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "8/8/8/K4pP1/5R2/1k6/3r4/8 w - - 0 1"]
+[PlyCount "9"]
+[EventDate "2003.01.05"]
+[Source "ChessBase"]
+
+1. Kb6 (1. Kb5 $2 Rd6 $1 2. Rxf5 (2. Kc5 Rg6 3. Rxf5 Kc3) (2. Rf3+ Kc2 3. Kc5
+Rg6 4. Rxf5 Kc3) 2... Rg6) 1... Rd6+ 2. Kb5 {zugzwang} Re6 (2... Kc3 $3 {
+[%mdl 8194]} 3. Kc5 Ra6 4. Rf3+ Kd2 5. Kd4 Ra5) 3. Rf3+ Kc2 4. Kc4 Kd2 5. Kd4
+1-0
+
+[Event "Dedrle MT 2.p {tt}"]
+[Site "?"]
+[Date "1959.??.??"]
+[Round "?"]
+[White "Mandler, A."]
+[Black "S416 JB cooked"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "2R5/8/2P5/7p/K3k3/8/1r6/8 w - - 0 1"]
+[PlyCount "21"]
+[EventDate "1959.??.??"]
+[Source "ChessBase"]
+
+1. Rh8 h4 (1... Rc2 $3 {[%mdl 8194] JB. MB} 2. Kb5 Ke5 $1 3. Rh6 h4 4. Kb6 Rb2+
+5. Kc7 Rb4) 2. Ka5 $1 (2. c7 $2 Rc2 3. c8=Q Rxc8 4. Rxc8 Kf3) 2... Ke5 (2...
+Kd5 3. c7 Rc2 4. c8=Q Rxc8 5. Rxc8) 3. c7 Rc2 4. Kb6 (4. c8=Q $2 Rxc8 5. Rxc8
+Kf4) 4... Rb2+ 5. Kc6 Rc2+ 6. Kd7 Rd2+ 7. Ke8 Rc2 8. Rh5+ Ke6 9. Kd8 Rd2+ 10.
+Kc8 Rd4 11. Kb7 1-0
+
+[Event "Themes-64#0385 3.hm"]
+[Site "?"]
+[Date "1958.??.??"]
+[Round "?"]
+[White "Mandler, A."]
+[Black "S418 JB cooked"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "8/p2R4/3KP3/8/p3r3/4k3/8/8 w - - 0 1"]
+[PlyCount "15"]
+[EventDate "1958.??.??"]
+[Source "ChessBase"]
+
+1. e7 (1. Rxa7 $1 {[%mdl 8202] MB, more info}) 1... Kd3 2. Rc7 Rd4+ 3. Ke6 Re4+
+4. Kd7 Rd4+ 5. Kc8 Re4 6. Kd8 a5 7. Rc5 Kd4 8. Rc1 1-0
+
+[Event "Sbornik Shakhmatnik Etjudov"]
+[Site "?"]
+[Date "1970.??.??"]
+[Round "?"]
+[White "Mandler, A."]
+[Black "S419 JB cooked"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "8/8/4K3/P3R3/8/3kp3/r7/8 w - - 0 1"]
+[PlyCount "19"]
+[EventDate "1970.??.??"]
+[Source "ChessBase"]
+
+1. Kd6 Rc2 (1... e2 2. Rd5+ Kc2 3. Re5 Kd1 4. Kc6) 2. Rd5+ (2. a6 $2 Ra2) 2...
+Ke4 (2... Ke2 3. Rc5) 3. Re5+ Kf4 (3... Kf3 4. Rf5+) 4. Re7 $1 (4. Re8 $2 Kf3
+5. a6 Ra2) 4... Ra2 (4... Kf3 5. a6 e2 (5... Ra2 6. a7) 6. a7 Rc8 (6... Ra2 7.
+Rf7+ Ke3 8. Kc5) 7. Rf7+ Ke3 8. Rc7 Ra8 9. Kc6) 5. Rf7+ (5. Kc5 $2 Rxa5+ 6. Kd4
+Ra3) 5... Ke4 6. Re7+ Kd3 ({FEG:} 6... Kd4 7. Re5 Ra1 8. Rd5+ Ke4 9. Re5+ Kf4
+10. Ke6 Rd1 11. a6 Ra1 $19) 7. Re5 e2 {[%mdl 8202]} ({FEG:} 7... Kd4 8. Rh5 Ke4
+9. Rh4+ Kd3 10. Rh5 Ra1 11. Rd5+ Ke4 12. Re5+ Kf4 13. Ke6 Rd1 14. Rf5+ Kg3 15.
+Re5 Kf2 16. Rf5+ Ke1 $19) 8. Rd5+ Kc2 9. Re5 Kd1 10. Kc6 1/2-1/2
+
+[Event "Themes-64#0386 3.hm"]
+[Site "?"]
+[Date "1958.??.??"]
+[Round "?"]
+[White "Mandler, A."]
+[Black "S421 JB cooked"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "3R4/p2pP3/3K4/8/4r3/p7/4k3/8 w - - 0 1"]
+[PlyCount "15"]
+[EventDate "1958.??.??"]
+[Source "ChessBase"]
+
+1. Rxd7 (1. e8=Q $2 Rxe8 2. Rxe8+ Kd2) (1. Ra8 $2 Rxe7 2. Kxe7 d5) 1... Kd2 (
+1... a5 2. Ra7 Rd4+ (2... a4 3. Rxa4) 3. Ke5 (3. Kc7 $2 Re4 4. Kd8 Rd4+ 5. Rd7
+Re4 (5... Rxd7+ $2 6. Kxd7 a2 7. e8=Q+ Kd2 8. Qe5) 6. Rd5 a4 7. Ra5 Kd2) 3...
+Rd3 4. Rxa5 Kd2 5. Ra8 Kc2 6. Kf4) 2. Rxa7 (2. Rc7 $2 Re3) 2... Rd4+ 3. Ke5 (3.
+Kc5 $2 Re4) 3... Rd3 4. Ra8 Kc2 (4... Re3+ 5. Kd6 Rd3+ 6. Kc5 Re3 (6... Rc3+ 7.
+Kb4) 7. e8=Q Rxe8 8. Rxe8) 5. Kf4 (5. Ke4 {[%mdl 8194] JB dual} Kd2 (5... Rd1
+6. Rxa3 Re1+ 7. Re3) 6. Rd8) 5... Rd4+ 6. Kf5 Rd5+ 7. Kf6 Rd6+ 8. Kf7 1-0
+
+[Event "Práce 3.hm"]
+[Site "?"]
+[Date "1951.??.??"]
+[Round "?"]
+[White "Mandler, A."]
+[Black "S423 JB cooked"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "8/8/3R4/1k3K2/8/1p2p3/1P2P1r1/8 w - - 0 1"]
+[PlyCount "13"]
+[EventDate "1951.??.??"]
+[Source "ChessBase"]
+
+1. Ke5 (1. Rd3 $2 Rxe2 2. Rxb3+ Kc4 3. Rc3+ (3. Ra3 $1 {[%mdl 8194] JB} Rf2+ 4.
+Ke4 e2 5. Re3) 3... Kd4) (1. Ke4 $2 Rxe2 2. Rd5+ Kc6 3. Rd3 (3. Rd8 $1 {
+[%mdl 8194]} Rxb2 4. Kxe3 {Tablebase draw}) 3... Rxb2 4. Rxe3 Kc5 5. Kd3 Kb4)
+1... Rxe2 2. Rd5+ Kc6 3. Rd6+ Kc7 4. Rd3 Rxb2 5. Rxe3 Kc6 (5... Rb1 6. Kd4) 6.
+Kd4 Rd2+ 7. Kc3 1/2-1/2
+
+[Event "Ajedrez {tw}"]
+[Site "?"]
+[Date "1959.??.??"]
+[Round "?"]
+[White "Mandler, A."]
+[Black "S427 JB cooked"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "7r/1Kp4P/6RP/8/8/7k/8/8 w - - 0 1"]
+[PlyCount "9"]
+[EventDate "1959.??.??"]
+[Source "ChessBase"]
+
+1. Kc6 $3 (1. Kxc7 $2 Rxh7+ 2. Kd6 Kh4 3. Ke6 Kh5 4. Rg1 Ra7 5. Rg7 Ra6+ $11)
+1... Rxh7 2. Kd5 Kh4 3. Ke6 Kh5 {[%mdl 8192]} ({FEG:} 3... c5 $11 {[%mdl 8194]}
+) 4. Rg1 Rxh6+ (4... Kxh6 5. Kf6 $18) 5. Kf5 1-0
+
+[Event "Ajedrez {tw}"]
+[Site "?"]
+[Date "1959.??.??"]
+[Round "?"]
+[White "Mandler, A."]
+[Black "S427 JB cooked"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "7r/1K5P/2p3RP/8/8/7k/8/8 w - - 0 1"]
+[PlyCount "9"]
+[EventDate "1959.??.??"]
+[Source "ChessBase"]
+
+1. Kc7 $3 (1. Kxc6 $2 Kh4 2. Kd6 Kh5 3. Rg1 Kxh6 4. Ke6 Ra8 $1 5. Rg8 Ra6+ $11)
+1... Kh4 (1... Rxh7+ 2. Kd6 Kh4 3. Ke6 $1 (3. Ke5 $2 Kh5 ({FEG:} 3... c5 $1 $11
+{[%mdl 8194]}) 4. Rg1 Ra7 5. Rg7 ({FEG:} 5. Kf6 $1 $18) 5... Ra5+ $11) 3... Kh5
+({FEG:} 3... c5 $1 $11) 4. Rg1 Rxh6+ (4... Kxh6 5. Kf6 $18) 5. Kf5 $18) 2. Kd6
+Kh5 {[%mdl 8192]} ({FEG:} 2... Rxh7 $11) 3. Rg1 Kxh6 4. Ke6 Rxh7 (4... Kxh7 5.
+Kf7 $18) 5. Kf6 1-0
+
+[Event "Ajedrez"]
+[Site "?"]
+[Date "1958.??.??"]
+[Round "?"]
+[White "Mandler, A."]
+[Black "S429 JB cooked"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "r7/3K2p1/PR6/5P2/k6p/8/8/8 w - - 0 1"]
+[PlyCount "15"]
+[EventDate "1958.??.??"]
+[Source "ChessBase"]
+
+1. f6 {[%mdl 1]} gxf6 2. Kc6 Ra7 (2... h3 3. Kb7 h2 (3... Rh8 4. Rb1 Ka5 5. a7
+Rh7+ 6. Kc6 Rxa7 7. Ra1+ Kb4 8. Rxa7 Kc4 9. Ra4+ Kd3 10. Kd5) 4. Rb1 Rh8 (4...
+Re8 $3 {[%mdl 8192] at least with more counter play} 5. a7 Re7+ 6. Kb6 Re6+ 7.
+Kc5 Re5+ 8. Kc6 Re8 9. Rh1 Kb4 10. Rxh2 {MB confirms a draw} Re6+ 11. Kd5 Ra6
+12. Rh7 f5 13. Rb7+ Kc3 14. Ke5 Ra5+ 15. Kd6 f4 16. Kc7 f3 17. Kb8 Kd2) 5. a7
+Rh7+ 6. Kb6 Rh8 7. Rh1) 3. Kc5 Ka5 (3... h3 4. Rb1 h2 5. Kb6 Re7 6. a7 Re6+ 7.
+Kc5 Ra6 (7... Re5+ 8. Kd6 Ra5 9. Ra1+ Kb4 10. Rxa5) 8. Ra1+ Kb3 9. Rxa6) 4. Rb1
+Rc7+ 5. Kd6 Rc8 (5... Ra7 6. Kc6 Rxa6+ 7. Kc5) 6. Kd7 Ra8 7. Kc6 Rxa6+ 8. Kc5
+1-0
+
+[Event "Ceskoslovensky Sach#15 1.p"]
+[Site "?"]
+[Date "1957.??.??"]
+[Round "?"]
+[White "Mandler, A."]
+[Black "S431 JB cooked"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "r3k3/4p2p/ppP5/1p3P2/2PRK3/2P5/2P5/8 w q - 0 1"]
+[PlyCount "11"]
+[EventDate "1957.??.??"]
+[Source "ChessBase"]
+
+{[%mdl 1]} 1. f6 {EV - the study seems to be OK} (1. Rd7 $2 Rc8 2. Kd5 Rd8 3.
+Rxd8+ Kxd8 4. Ke6 a5 $1 (4... h5 5. c7+ Kxc7 6. Kxe7 h4 7. f6 h3 8. f7 h2 9.
+f8=Q h1=Q 10. Qd8+ Kb7 11. Qd5+)) (1. Kd5 Rd8+ 2. Ke6 Rc8 {and the e7 pawn
+saves Black. So we try to remove it...}) 1... exf6 (1... Rc8 2. cxb5 axb5 3.
+Kd5 exf6 (3... Rd8+ 4. Ke6) 4. Kd6) 2. c5 $1 (2. Kd5 $2 O-O-O+ $1 (2... Rd8+ $2
+3. Ke6 Rc8 4. Kd6 {the point of first move} Rd8+ 5. Kc7) 3. Ke6 Kc7) 2... bxc5
+3. Rd7 Rc8 (3... a5 4. Rc7 $3 (4. Kd5 Rd8) (4. Rxh7 O-O-O) 4... a4 5. Kd5 a3 6.
+Rxh7 O-O-O+ 7. Kxc5) (3... b4 4. Rc7 $3 bxc3 5. Kd5 Rd8+ 6. Kxc5 Rd1 7. Rxh7
+Kd8 8. c7+ Kc8 9. Kc6) (3... h5 $5 {[%mdl 8192] unclear, JB} 4. Rc7 h4 5. Kd5
+h3 6. Rh7 O-O-O+ 7. Kxc5 Re8 8. Kb6) 4. Rb7 {guarding b6} Rxc6 (4... Rd8 5.
+Rxh7 Rd1 6. c7) (4... f5+ $5 {[%mdl 8192] unclear, JB clearing the 6th line
+for bR} 5. Kd5 $1 f4 6. Rxh7 f3 7. Rh3 f2 8. Re3+ Kd8 9. Rf3 Ke7 10. Rxf2 c4 (
+10... Rh8 11. Kxc5) 11. Re2+ Kf6 12. Kd6) 5. Kd5 {trapping the rook} Rc8 6.
+Rxh7 1-0
+
+[Event "Práce 3.hm"]
+[Site "?"]
+[Date "1965.??.??"]
+[Round "?"]
+[White "Mandler, A."]
+[Black "S505 JB cooked"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "8/2p5/6p1/2p5/5P2/2p5/5PNk/1K6 w - - 0 1"]
+[PlyCount "17"]
+[EventDate "1965.??.??"]
+[Source "ChessBase"]
+
+{[%mdl 1]} 1. Nh4 Kh3 2. f5 $1 (2. Nxg6 {Try (Mandler) or cook (JB)?} Kg4 3.
+Kc2 c4 $3 {Mandlers point} (3... Kf5 4. Ne5 c4 (4... Kxf4 5. Nd3+ Kf3 6. Kxc3)
+5. Nxc4 Kxf4 6. Ne3 Kf3 7. Nd1) 4. Kxc3 Kf5 5. Nh4+ $3 {[%mdl 8192] JB and
+Fritz} Kxf4 6. Kd2 $1 c3+ (6... Kg4 7. Ng2 Kf3 8. Ke1 $3 {very nice} c3 9. Ne3)
+7. Ke2 $1 c2 8. Ng2+ $3 Ke4 (8... Kg5 9. Kd2 Kg4 10. Ne1) 9. f3+ Kd4 10. Kd2)
+2... gxf5 3. Ng6 $1 (3. Nxf5 $2 Kg2 $1 (3... Kg4 $2 4. Ng3 Kf3 5. Nh1 Kg2 6. f4
+)) 3... Kg4 (3... f4 4. f3) 4. f4 Kf3 5. Kc2 Ke4 6. Kxc3 Kd5 7. Kd3 (7. Nf8 $2
+c4 $1 (7... Ke4 $2 8. Ne6) (7... c6 $2 8. Kd3) 8. Ng6 c6 $1 9. Nh4 Ke4 10. Ng2
+Kf3) 7... c4+ (7... c6 8. Ne7+) 8. Ke3 $1 (8. Kc3 $2 c6 9. Nf8 Kc5 (9... Ke4 $2
+10. Ne6 Kd5 11. Ng5)) 8... c6 (8... c5 9. Ne5) (8... Kc5 9. Ne7) (8... Kd6 9.
+Kd4) 9. Ne7+ 1-0
+
+[Event "Tidskrift för Schack#1254 3.hm"]
+[Site "?"]
+[Date "1965.??.??"]
+[Round "?"]
+[White "Mandler, A."]
+[Black "S509 JB cooked"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "7n/1p6/3p1p2/5P2/2P1PNkb/5nBb/2P3B1/4N2K w - - 0 1"]
+[PlyCount "25"]
+[EventDate "1965.??.??"]
+[Source "ChessBase"]
+
+1. Bxh4 {[%mdl 1]} (1. Bxh3+ Kxg3 2. Nxf3 Kxf3 (2... Kxf4 3. Nxh4 Kg3 4. Ng6)
+3. Ng6 Kg3 4. Bg2 Nf7) (1. Nxf3 $1 {[%mdl 8192] JB cook} Bxg2+ 2. Kxg2 Bxg3 {
+Mandler} 3. Nd5 Be5 (3... Bh4 4. Nxh4 Kxh4 5. Nxf6) 4. Nxe5+ fxe5 {White is
+much better}) 1... Bxg2+ (1... Nxh4 2. Nxh3 Kg3 3. Bf1) 2. Nexg2 Nxh4 (2... Nd2
+3. Bxf6 Nf7 4. Nd5 Nxe4 5. Nge3+ Kf3 6. Bg7) 3. Nxh4 Kxf4 (3... Nf7 4. Nhg2 Ng5
+(4... Kf3 5. Nd5 Kxe4 6. Nge3) 5. Nd5 Nxe4 6. Nge3+) 4. Ng6+ Kxe4 5. Nxh8 Kxf5
+6. Nf7 Ke4 7. c5 $3 (7. Nxd6+ Kd4 8. Kg2 Kc5 9. Ne4+ Kxc4 10. Kf3 f5) 7... Kd5
+(7... dxc5 $3 {[%mdl 8192] JB cook} 8. c4 b5 $1 (8... Kd4 9. Nd6 Kc3 10. Kg2
+Kb4 11. Kf3 b5 12. cxb5 Ka5 13. Ke4) 9. Nd6+ $1 (9. cxb5 Kd5 10. Nd8 c4 11. b6
+c3) 9... Kd4 (9... Ke5 $3 {JB} 10. Nxb5 f5 11. Kg2 Ke4 12. Kf2 f4 13. Ke2 (13.
+Na3 f3 14. Nc2 Kd3 15. Ne3 Ke4 16. Nd5 Kd4 17. Nb6 Ke4 18. Nc8 Kd4 19. Nd6 Ke5
+20. Nb5 Ke4) 13... f3+ 14. Kf2 Kf4) 10. cxb5 Kd5 11. Nc4) 8. cxd6 Ke6 9. Nd8+
+Kxd6 10. Nxb7+ Kd5 11. Na5 Kd4 12. Nb3+ Kc3 13. Na1 1-0
+
+[Event "Svobodne Slovo#19"]
+[Site "?"]
+[Date "1947.??.??"]
+[Round "?"]
+[White "Mandler, A."]
+[Black "S510 JB cooked"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "5K2/4P2r/2P5/5N1b/8/5k2/7b/8 w - - 0 1"]
+[PlyCount "19"]
+[EventDate "1947.??.??"]
+[Source "ChessBase"]
+
+1. Kg8 Ke4 (1... Bg6 2. e8=Q Bxe8 3. Kxh7 Ke4 4. Ne7 Bd6 5. Nc8 Bc5 {[%mdl
+8194]}) 2. Ng7 $1 (2. Kxh7 Kxf5 3. Kh6 Bg6 4. Kg7 Bd6 5. Kf8 Kf6 6. c7 Bxe7+)
+2... Bg6 3. c7 Bxc7 4. e8=Q+ Bxe8 5. Nxe8 Re7 6. Kf8 Bd8 7. Nd6+ Kd5 8. Nf7 Rd7
+9. Ke8 Re7+ 10. Kf8 1/2-1/2
+
+[Event "FIDE-revue"]
+[Site "?"]
+[Date "1964.??.??"]
+[Round "?"]
+[White "Mandler, A."]
+[Black "S512 JB cooked"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "8/8/4b3/3p4/B2P2p1/2P5/PP1k4/7K w - - 0 1"]
+[PlyCount "15"]
+[EventDate "1964.??.??"]
+[Source "ChessBase"]
+
+{See tries - wK is in check here and wB has to guard important c2 square} 1.
+Kh2 $3 {[%mdl 1]} (1. b4 $2 Kxc3 2. b5 Kxd4 3. b6 Bc8 4. Bc6 Kc4 5. b7 Bxb7 6.
+Bxb7 d4) (1. Bc6 $2 Kc2 2. b4 (2. c4 dxc4 3. d5 Bc8 (3... Bf5 $1 4. a4 Kxb2 5.
+a5 c3 6. Ba4 Be4+) 4. d6 (4. a4 Kxb2 5. a5 c3 6. Ba4 Bb7) 4... Kxb2 5. a4 c3 6.
+Be4 Bb7 $1 (6... c2 $2 7. Bxc2 Kxc2 8. a5)) 2... Kxc3 3. b5 Kxd4 4. b6 Bc8 5.
+b7 Bxb7 6. Bxb7 Kc4 7. Kg2 d4 8. Kg3 (8. Bc8 $3 {[%mdl 8192] JB dual} Kb4 (8...
+d3 9. Bxg4 Kc3 10. Kf2 Kc2 11. Ke3 d2 12. a4) 9. Bxg4 Ka3 10. Be6 d3 11. Kf2
+Kb2 12. Ke1 Kc1 13. Bb3 d2+ 14. Ke2) 8... d3 9. Kxg4 d2 10. Bf3 Kb4) (1. Kg2 $2
+Kc1 2. b4 Kb2 3. b5 (3. Bc6 Kxa2 $1 (3... Kxc3 4. b5 Kxd4 5. b6 Bc8 6. b7 Bxb7
+7. Bxb7 Kc3 8. Kg3 d4 9. Kxg4) 4. b5 Kb3 5. b6 Bc8 6. b7 (6. Kf2 $3 {[%mdl
+8192] JB cook2} Kxc3 (6... Kc4 7. b7 Bxb7 8. Bxb7 g3+ 9. Ke3 g2 10. Bxd5+ Kxd5
+11. Kf2) (6... g3+ 7. Ke3 Kc4 (7... g2 8. Bxd5+) (7... Kxc3 8. Bxd5) 8. b7 Bxb7
+9. Bxb7 g2 10. Bxd5+ Kxd5 11. Kf2) 7. Ke3 Kc4 8. b7 Bxb7 9. Bxb7 g3 10. Ba6+)
+6... Bxb7 7. Bxb7 Kxc3) 3... Bc8 $1 (3... Kxc3 4. b6 Bc8 5. Bc6 Kxd4 6. b7 Bxb7
+7. Bxb7 Kc4 8. Kg3 d4 9. Kxg4 d3 10. Kf3 Kc3 11. Bd5) 4. c4 (4. b6 Bb7) 4...
+dxc4 5. d5 Ka3 6. Bc2 (6. b6 Kxa4 7. d6 c3 8. d7 Bxd7 9. b7 Bc6+) 6... Kb4 7.
+a4 Kc5 8. Be4 c3 9. Kg3 Bb7) (1. c4 $2 Kd3 2. c5 Kxd4) 1... Kc1 (1... Bc8 2.
+Bc6 (2. Bb3 $2 Bb7 (2... Be6 3. a4 (3. Kg3 Kc1 4. Kf4 Kxb2 5. Bd1 Kxc3 6. Ke5
+g3 7. Bf3 Bh3 8. Kxd5 g2 9. Bxg2 Bxg2+ 10. Kc5 Kb2 11. a4 Kb3 12. a5 Ka4 13. a6
+(13. Kb6 Kb4) 13... Ka5 14. a7 Ka6) 3... Kc1 4. a5 Kxb2 5. a6 Bc8 6. a7 Bb7 7.
+c4 Kxb3) 3. a4 (3. c4 $2 dxc4 4. Bxc4 Kc2 5. b3 (5. d5 $2 Kxb2 6. a4 Kc3 7. a5
+Kxc4 8. d6 Bc6 $1 9. a6 Kc5) 5... Kc3 6. d5) 3... Kc1 4. a5 Kxb2) 2... Kc2 3.
+Bxd5 (3. b4 $2 Kxc3 4. Bxd5 (4. b5 Kxd4 5. b6 Kc4) 4... Kxd4 5. Bf7 Bd7 6. a4
+Kc3) 3... Kxb2 4. Bf7 (4. Bb3 $2 Kxc3 5. d5 Kb4) 4... Kxc3 5. d5 Kd4 6. Be6) (
+1... Bf5 2. Bc6 Kc2 3. b4 $1 (3. Bxd5 $2 Kxb2 4. Bf7 Kxc3 5. d5 Kd4 6. Be6 Ke5
+7. Bxf5 Kxf5) 3... Kxc3 4. b5 Kxd4 5. b6 Bc8 6. b7 Bxb7 7. Bxb7 Kc4 8. Kg3 d4
+9. Kxg4) 2. b4 Kb2 3. Bc6 $1 (3. b5 $2 Bc8 $1 4. b6 (4. c4 dxc4 5. d5 Ka3 6.
+Bc2 Kb4 7. a4 Kc5 8. Be4 c3) 4... Bb7) 3... Kxa2 $5 (3... Kxc3 4. b5 Bc8 5. b6
+Kxd4 6. b7 Bxb7 7. Bxb7 Kc4 8. Kg3 d4 9. Kxg4 d3 10. Kf3 Kc3 11. Bd5 Kc2 12.
+Bb3+ Kc1 13. Ke3 d2 14. a4) 4. b5 Kb3 5. b6 Bc8 6. Bxd5+ (6. b7 $2 Bxb7 7. Bxb7
+Kxc3) 6... Kxc3 7. Be6 Bb7 8. d5 1-0
+
+[Event "Slovensky Narod 1.hm"]
+[Site "?"]
+[Date "1926.??.??"]
+[Round "?"]
+[White "Mandler, A."]
+[Black "S517 JB cooked"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "8/8/1K1k1r2/8/1N2bP2/4B3/1n6/8 w - - 0 1"]
+[PlyCount "8"]
+[EventDate "1926.??.??"]
+[Source "ChessBase"]
+
+1. Bd4 Na4+ (1... Nc4+ 2. Kb5 Na3+ 3. Ka4) (1... Rxf4 $3 {[%mdl 8194] JB cook}
+2. Bxb2 Bg6 {wins, ken thompson}) 2. Ka5 Rxf4 3. Be5+ $1 (3. Kxa4 $2 Bc6+ 4.
+Nxc6 Kxc6) 3... Kxe5 4. Nd3+ $1 Bxd3 1/2-1/2
+
+[Event "Tidskrift för Schack"]
+[Site "?"]
+[Date "1966.??.??"]
+[Round "?"]
+[White "Mandler, A."]
+[Black "S521 JB cooked"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "7n/1p3p2/3B1K2/P5Pp/N2N2pb/5p2/p7/k6b w - - 0 1"]
+[PlyCount "13"]
+[EventDate "1966.??.??"]
+[Source "ChessBase"]
+
+1. a6 bxa6 (1... f2 2. Nc2+ Kb1 3. Na3+ Kc1 4. Bf4+ Kd1 5. Nc3+ Ke1 6. Nc2+ Kf1
+7. Ne3+ Ke1 8. Nc2+) 2. Bf4 {with threat Nc2-a3} Kb1 3. Nc3+ Kb2 4. Nd1+ Ka3 5.
+Bd6+ Ka4 6. Nb2+ (6. Nc3+ {[%mdl 8192] JB and mate} Ka5 7. Bc5 {so the echo
+construction fails}) 6... Ka5 7. Nc4+ 1/2-1/2
+
+[Event "Prager Presse"]
+[Site "?"]
+[Date "1929.??.??"]
+[Round "?"]
+[White "Mandler, A."]
+[Black "S522 JB cooked"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "8/8/8/k7/P1K5/2p5/2b5/5R2 w - - 0 1"]
+[PlyCount "5"]
+[EventDate "1929.??.??"]
+[Source "ChessBase"]
+
+1. Rg1 Bh7 (1... Bxa4 2. Ra1 c2 3. Kc5 c1=Q+ 4. Rxc1) (1... Be4 2. Kxc3 Kxa4 (
+2... Bc6 $5 {JB main line not mentioned} 3. Kc4 Bd7 4. Re1 Bc6 5. Re7 Bf3 6.
+Ra7+ Kb6 7. Rf7 Bd1 8. Kb4) 3. Rg4) 2. Rg5+ Kxa4 3. Rg7 1-0
+
+[Event "Prager Presse"]
+[Site "?"]
+[Date "1929.??.??"]
+[Round "?"]
+[White "Mandler, A."]
+[Black "S529 JB cooked"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "8/8/7k/3K4/4p2b/5p2/4n3/3R3R w - - 0 1"]
+[PlyCount "7"]
+[EventDate "1929.??.??"]
+[Source "ChessBase"]
+
+1. Kxe4 (1. Rxh4+ Kg5 2. Rhh1 $3 (2. Rdh1 Ng3 3. R4h2 Nxh1 4. Kxe4 Ng3+) 2...
+Nc3+ 3. Kd4 Nxd1 4. Rxd1 {[%mdl 8194] JB and tablebase}) 1... Ng3+ 2. Ke3 $1
+Nxh1 3. Rxh1 Kg5 (3... Kh5 4. Kf4 f2 5. Kf5 f1=Q+ 6. Rxf1) 4. Kxf3 1-0
+
+[Event "Národní Osvobození {tw}"]
+[Site "?"]
+[Date "1932.??.??"]
+[Round "?"]
+[White "Mandler, A."]
+[Black "S530 JB cooked"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "8/8/b7/7k/7n/8/5Kn1/3RR3 w - - 0 1"]
+[PlyCount "9"]
+[EventDate "1932.??.??"]
+[Source "ChessBase"]
+
+1. Re6 (1. Rd6 $2 Bb7 2. Re5+ Kg4 3. Rd4+ Nf4 4. Re7 Nf5) 1... Bb7 2. Re5+ Kg4
+3. Rd4+ Nf4 (3... Kh3 4. Rg5 Ba8 5. Rg3+ Kh2 6. Rd8 Bc6 7. Rh8) 4. Re7 Bc6 5.
+Rg7+ 1-0
+
+[Event "Národní Osvobození {tw}"]
+[Site "?"]
+[Date "1932.??.??"]
+[Round "?"]
+[White "Mandler, A."]
+[Black "S530 JB cooked"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "8/8/b7/7k/7n/8/5Kn1/2RR4 w - - 0 1"]
+[PlyCount "9"]
+[EventDate "1932.??.??"]
+[Source "ChessBase"]
+
+1. Rc6 (1. Rd6 $2 Bb7 2. Rc5+ Kg4 3. Rd4+ Nf4 4. Rc7 Nf5) (1. Rd5+ $2 Kg4 2.
+Rc6 Nf4) 1... Bb7 2. Rd5+ Kg4 3. Rc4+ Nf4 (3... Kh3 4. Rg5 Ba8 5. Rg3+ Kh2 6.
+Rc8 Bb7 (6... Nf4 $3 {[%mdl 8193] JB cook} 7. Rxa8 (7. Rh8 Nh3+) (7. Rg4 Nh3+
+8. Ke3 Ng2+ 9. Kd4 Bf3) 7... Nh3+) 7. Rh8) 4. Rd7 Ba8 5. Rg7+ 1-0
+
+[Event "Národní Osvobození {tw}"]
+[Site "?"]
+[Date "1932.??.??"]
+[Round "?"]
+[White "Mandler, A."]
+[Black "S532 JB cooked"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "8/8/6R1/2R4n/8/5Knk/8/4b3 w - - 0 1"]
+[PlyCount "15"]
+[EventDate "1932.??.??"]
+[Source "ChessBase"]
+
+1. Rgg5 (1. Rh6 $2 Kh4 2. Rd6 (2. Rc4+ $1 {[%mdl 8193] JB cook} Kg5 3. Ra6 Nf6
+(3... Ng7 4. Rg4+) (3... Bd2 4. Rg4+ Kf5 5. Rd4 Bf4 6. Rd5+ Be5 7. Raa5) 4. Rc1
+Bd2 5. Rc5+ Nf5 6. Ra2 Nd7 7. Rd5) 2... Ne4 $1 3. Kxe4 Bb4) 1... Kh4 (1... Nf6
+2. Rc8 $1 (2. Rc1 $2 Nfe4 3. Rg8 Nd2+) 2... Ngh5 3. Rc1) 2. Rg4+ (2. Rgd5 $1 {
+JB cooked}) 2... Kh3 3. Rd4 Nf6 (3... Kh2 4. Rh4+ Kg1 5. Rc1 Kf1 6. Rh2) 4. Rd1
+Nfe4 (4... Bb4 5. Rg5) 5. Re5 Nf2 6. Rdxe1 Nd3 7. Rh1+ Nxh1 8. Rh5# 1-0
+
+[Event "Národní Osvobození {tw}"]
+[Site "?"]
+[Date "1932.??.??"]
+[Round "?"]
+[White "Mandler, A."]
+[Black "S533 JB cooked"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "8/8/6R1/3R3n/8/5Knk/8/4b3 w - - 0 1"]
+[PlyCount "9"]
+[EventDate "1932.??.??"]
+[Source "ChessBase"]
+
+1. Rh6 Kh4 2. Rc6 Kh3 3. Rc1 Bb4 (3... Nf4 $3 {[%mdl 8193] JB cook} 4. Kxf4 (4.
+Rd8 Ng2 5. Rh8+ Nh4+ {check}) 4... Ne2+ 5. Kf3 Nxc1 {Tablebase draw}) 4. Rh1+
+Nxh1 5. Rxh5# 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "1951.??.??"]
+[Round "?"]
+[White "Mandler S344b (JDB after JT)"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "k7/4R3/8/n2K4/8/8/8/8 w - - 0 1"]
+[PlyCount "7"]
+[EventDate "1951.??.??"]
+[Source "ChessBase"]
+
+1. Kc5 (1. Kd6 $2 Kb8 2. Re5 ({**} 2. Rc7 {wins (JT) **}) 2... Nc4+) ({**} 1.
+Rc7 {(JT) **}) 1... Kb8 2. Kb6 Nc4+ 3. Kb5 Nd6+ 4. Kc6 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "1933.??.??"]
+[Round "?"]
+[White "Mandler S346b (JDB after JT)"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "8/k4n2/8/8/2K5/2R5/8/8 w - - 0 1"]
+[PlyCount "7"]
+[EventDate "1933.??.??"]
+[Source "ChessBase"]
+
+1. Kd5 $1 (1. Rg3 $2 Nd6+ 2. Kd5 (2. Kc5 Ne4+) 2... Nc8 ({**} 2... Nb5 {
+does draw (JT) **}) 3. Kc6 Ne7+ 4. Kd7 Nd5 {**} 5. Rb3 {wins (JT) **}) 1... Kb7
+2. Ke6 Ng5+ 3. Kd7 $1 Kb6 4. Re3 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "1952.??.??"]
+[Round "?"]
+[White "Mandler S410 (JDB after EN)"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "8/7R/5rk1/3P4/8/3K4/8/8 w - - 0 1"]
+[PlyCount "9"]
+[EventDate "1952.??.??"]
+[Source "ChessBase"]
+
+{** Rescue available: move bRf6 to f1 (JDB) **} 1. Re7 ({**} 1. Rc7 {(EN) **})
+1... Rf4 2. Kc3 $1 (2. d6 $2 Rf6 3. d7 Rd6+ 4. Kc4 Kf6) 2... Ra4 (2... Kf6 3.
+d6 Ra4 4. Re8) 3. d6 Ra6 4. d7 Rd6 5. Re6+ 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "1953.??.??"]
+[Round "?"]
+[White "Mandler S411, v (JDB after EN)"]
+[Black "?"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "7K/8/8/8/7R/7p/2k5/7r w - - 0 1"]
+[PlyCount "13"]
+[EventDate "1953.??.??"]
+[Source "ChessBase"]
+
+{** The version in Studie has bR on c3, but it still appears unsound (JDB) **} 
+1. Ra4 ({**} 1. Kg7 {(EN) **}) ({**} 1. Kh7 {(EN) **}) 1... Kb2 (1... Rb1 2.
+Rh4 {**} Rb3 {(EN) **}) 2. Re4 Rc1 3. Rh4 Rc3 4. Kg7 (4. Kh7 $2 Rg3) 4... Kc2
+5. Kg6 Kd2 6. Kg5 Ke2 7. Kg4 1/2-1/2
+
+[Event "?"]
+[Site "?"]
+[Date "1932.??.??"]
+[Round "?"]
+[White "Mandler S468 (JDB after EN)"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "1n6/8/8/2R5/8/p7/3K4/k7 w - - 0 1"]
+[PlyCount "13"]
+[EventDate "1932.??.??"]
+[Source "ChessBase"]
+
+1. Kc3 (1. Kc2 $2 Ka2) 1... Nd7 (1... Ka2 2. Rc7 Na6 ({**} 2... Kb1 {(EN) **})
+3. Rc6) (1... Kb1 2. Rb5+ Kc1 3. Ra5 {**} Kd1 {(EN) **}) 2. Rd5 (2. Rc7 $2 Ne5)
+2... Nf6 3. Rf5 Ne4+ 4. Kb3 Nd2+ 5. Kc2 Nc4 6. Kc3 Nd6 7. Rd5 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "1932.??.??"]
+[Round "?"]
+[White "Mandler S474 (JDB after EN)"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "8/8/n7/6R1/8/p7/k1K5/8 w - - 0 1"]
+[PlyCount "11"]
+[EventDate "1932.??.??"]
+[Source "ChessBase"]
+
+1. Kc3 ({**} 1. Rb5 Nc7 2. Re5 {(EN) **}) 1... Nb8 2. Rg2+ Kb1 3. Kb3 Kc1 4.
+Rc2+ Kb1 5. Rd2 Kc1 6. Rd6 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "1932.??.??"]
+[Round "?"]
+[White "Mandler S475 (JDB after EN)"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "8/8/8/n7/8/p1K5/6R1/k7 w - - 0 1"]
+[PlyCount "5"]
+[EventDate "1932.??.??"]
+[Source "ChessBase"]
+
+1. Kb4 (1. Rd2 $2 Nc6 $1 2. Kb3 Na5+ {**} 3. Kc2 {(EN) **}) 1... Nc6+ 2. Kxa3
+Kb1 3. Kb3 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "1929.??.??"]
+[Round "?"]
+[White "Mandler S523 (JDB after EN)"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "8/8/k7/8/P5b1/8/3K4/3R4 w - - 0 1"]
+[PlyCount "9"]
+[EventDate "1929.??.??"]
+[Source "ChessBase"]
+
+1. Re1 $1 (1. Ra1 Ka5 2. Kc3 Bd7 3. Kc4 Be6+ 4. Kc5 Bb3 5. Rb1 (5. Re1 $1) 5...
+Be6) 1... Bd7 2. Kd3 $1 (2. Ra1 $1) 2... Bxa4 (2... Ka5 3. Kc4 Bc6 4. Re7 Bf3
+5. Kb3 Bd1+ 6. Ka3 Bxa4 (6... Bf3 7. Re5+) 7. Ra7+) ({**} 2... Kb6 {prevents
+an y immediate win of the bishop (Braberman, Shakhmaty v SSSR 1966, quoted in
+the 1978 English edition of Averbakh), though EN confirms the eventual win **})
+3. Ra1 Kb5 4. Kc3 Ka5 5. Kc4 1-0
+

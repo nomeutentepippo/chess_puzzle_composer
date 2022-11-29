@@ -1,0 +1,421 @@
+﻿[Event "Macek_90 \[1st Pr\]"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "Kondratev, V."]
+[Black "\[+4013.13a3e7\]"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "8/4k1B1/8/3p4/2qp4/K6Q/1npP4/8 w KQkq - 0 1"]
+[PlyCount "20"]
+[EventDate "1999.??.??"]
+
+1. Qh4 (1. Qh7 Qd3) 1... Kd7 2. Qg4+ (2. Bxd4 c1=Q#) (2. Qh3+ Kc7 3. Be5+ Kb6
+4. Bxd4+ (4. Qe6+ Ka5 5. Bc7+ Qxc7 6. Qxd5+ Ka6) 4... Qxd4 5. Qb3+ Kc5 6. Qxb2
+Qd3 7. Ka2 Qc4+) 2... Kc7 (2... Kd6 3. Qg6+ (3. Bf8+ Kc7 4. Qf4+ Kb7 5. Qf7+
+Ka6 6. Qe6+ Ka5 7. Be7 Na4 8. Bd8+ Kb5 9. Qe8+ Qc6 10. Qe2+ d3 11. Qxd3+ Qc4) (
+3. Be5+ Kxe5) 3... Kc7 4. Be5+ (4. Qf7+ Kb6) 4... Kb7 5. Qg7+ Ka6 6. Bxd4 Na4 (
+6... Qxd4 7. Qxd4 Nc4 8. Qxc4+ dxc4 9. Kb2) 7. Qa7+ Kb5 8. Qb7+ Ka5 9. Qa7+ Qa6
+10. Qc7+ Nb6 11. Kb2) 3. Be5+ Kb6 4. Bxd4+ Ka5 5. Bc3+ Qxc3 6. dxc3 Nc4 7. Ka2
+(7. Qxc4 $2 dxc4 8. Kb2 Ka4 9. Kxc2 Ka3) 7... c1=Q 8. Qxc4 Qd2+ 9. Ka3 Qc1+ 10.
+Ka2 dxc4 {pat} 1/2-1/2
+
+[Event "Macek_90  \[2nd Pr\]"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "SulcJ_VlasakE"]
+[Black "\[+0404.11h2g8\]"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "6k1/2R2N1r/8/1P3p1n/8/8/7K/8 w KQkq - 0 1"]
+[PlyCount "9"]
+[EventDate "1999.??.??"]
+
+1. b6 Nf6 (1... Nf4 2. Kg1 Ne2+ 3. Kf1 Rh2 4. b7 Ng3+ 5. Kg1 Rb2 6. Ne5) 2. Kg1
+$3 (2. Kg3 f4+ $1 3. Kf2 Rh2+ $1 4. Ke1 (4. Kf3 Rh3+ 5. Kg2 Rb3 6. b7 (6. Nh6
+Kh8 7. b7 f3+) 6... f3+ 7. Kh3 f2+ 8. Kg2 Ng4) (4. Kg1 Rb2 5. b7 f3 6. Nh6 Kh8
+7. Nf5 Ng4 8. Rc8+ Kh7 9. b8=Q Rg2+ 10. Kf1 Nh2+ $11) 4... f3 (4... Nd5 {
+also possible} 5. b7 Rb2 6. Nh6 Kh8 7. Rd7 (7. Rf7 Ne3) 7... Nf6) 5. b7 Re2+ $1
+(5... Rb2 6. Nh6 Kf8 7. Nf5 (7. Rc8+ Kg7) 7... Ne8 8. Rd7) 6. Kf1 (6. Kd1 Rb2
+7. Nh6 Kh8 8. Nf5 f2 9. Ng3 Nd5 10. Rc8+ Kg7 11. b8=Q Ne3+ 12. Kc1 Rxb8 13.
+Rxb8 f1=Q+ 14. Nxf1 Nxf1 15. Rb3 Kg6 $1 16. Rh3 Kg5 $1 $11) 6... Rb2 7. Nh6 Kh8
+8. Nf5 Ng4 9. Rc8+ Kh7 10. b8=Q Nh2+) (2. Kg2 Rxf7 3. b7 Rf8 4. Kf3 f4 {
+zugzwang}) 2... Rxf7 3. b7 Rf8 (3... Nd7 4. Rxd7 Rxd7 5. b8=Q+ $18 {CD}) 4. Kg2
+$1 (4. Kf2 Ne4+ 5. Ke3 Nd6 6. Rc8+ Rxc8) (4. Kf1 f4 5. Kg1 f3 6. Kf1 f2) 4...
+f4 5. Kf3 {mutual zugzwang} 1-0
+
+[Event "tb08"]
+[Site "?"]
+[Date "1922.??.??"]
+[Round "?"]
+[White "Mattison, H."]
+[Black "\[+0403.21e2a7\]"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "8/kP6/2n3P1/r5p1/8/3R4/4K3/8 w - - 0 1"]
+[PlyCount "13"]
+[EventDate "1922.??.??"]
+
+1. b8=Q+ (1. g7 Re5) 1... Kxb8 (1... Nxb8 2. g7 Re5 3. Re3) 2. g7 Re5 (2... Ne7
+3. Re3) 3. Kf1 $3 (3. Kf2 $2 Re8 4. Rf3 Rc8 5. Rf7 Ne5 6. Rf8 Ng4+ 7. Kg3 Nh6
+$11) 3... Re8 4. Rf3 $1 Rc8 $1 (4... Ne7 5. Re3) 5. Rf7 $3 {a vyhraje, napr.}
+g4 6. Kg1 {nebo} (6. Kg2 g3 7. Kxg3 Nd4 8. Rf8) 6... g3 7. Kg2 1-0
+
+[Event "Macek_90 \[1st spec Pr\]"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "Golubev, A."]
+[Black "\[+3341.22h4b8\]"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "1k6/1p1P4/8/1P2p3/r1Nb3K/6B1/2q5/8 w KQkq - 0 1"]
+[PlyCount "16"]
+[EventDate "1999.??.??"]
+
+1. Bxe5 Bxe5 (1... Ka7 2. Bxd4+ b6 3. d8=Q Qxc4 4. Qxb6+ Ka8 5. Qd8+ Kb7 6.
+Qd7+ Qc7 7. Qd5+ Kc8 8. Qf5+ Qd7 $2 9. Qc2+) 2. d8=Q+ Ka7 3. Qb6+ Ka8 4. Qd8+
+Bb8 5. Qa5+ Rxa5 6. Nb6+ Ka7 7. Nc8+ Qxc8 8. b6+ Ka6 {pat} 1/2-1/2
+
+[Event "2.p tl10"]
+[Site "?"]
+[Date "1972.??.??"]
+[Round "?"]
+[White "Olimpiev, B."]
+[Black "\[=0331.33b3a8\]"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "krNb4/1p2p3/5P1P/1P6/8/1K4p1/8/8 w - - 0 1"]
+[PlyCount "14"]
+[EventDate "1972.??.??"]
+
+1. h7 g2 2. fxe7 (2. h8=Q# $2 g1=Q+ 3. fxe7+ Qd1+ 4. Kb4 Rxc8) 2... Bxe7 (2...
+g1=Q+ 3. exd8=Q# Qb1+ 4. Ka3 Qc1+ 5. Kb3 Rxc8 6. h8=Q+) 3. h8=Q+ g1=Q+ 4. Qa1
+Qxa1+ 5. Nb6 Ka7 6. Nc8+ Rxc8 7. b6+ Kb8 1/2-1/2
+
+[Event "Macek_90 \[1st spec hm\]"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "BondarI_KolesnikovJ"]
+[Black "\[+1007.23f3e1\]"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "1Q6/1P1n4/5n2/P3N3/8/5K2/4ppp1/4k3 w KQkq - 0 1"]
+[PlyCount "31"]
+[EventDate "1999.??.??"]
+
+1. Nd3+ Kf1+ 2. Qg3 e1=N+ (2... g1=N 3. Ke3 e1=Q+ 4. Nxe1 fxe1=Q+ 5. Qxe1+ Kxe1
+{atd}) 3. Nxe1 (3. Ke3 Nc2+ 4. Kd2 Ne4+ 5. Kxc2 Nxg3) 3... g1=N (3... g1=Q+ 4.
+Qh3+ Kxe1+ 5. Qe6+ Kd2+ 6. Qe3+) 4. Ke3 (4. Kf4 Ne2+ (4... fxe1=Q 5. Qxe1+ Kxe1
+6. Kf5 $11) (4... Nh5+ 5. Ke3 Nxg3 6. Nd3 Nf5+ (6... Nb8 7. Nxf2) 7. Kf4 Nd4 8.
+a6 Nc6) 5. Kf3 fxe1=N+ 6. Qxe1+ Kxe1 7. a6 Nd4+ 8. Kf4 Nc6 9. Kf5 Ne8 10. Ke6
+Ndb8 11. a7 Nxa7 12. Ke7 Nc7 $19) 4... fxe1=Q+ 5. Qxe1+ Kxe1 6. a6 $1 (6. Kd4
+Nb8 7. Kc5 Nf3 8. Kd6 (8. Kb5 Nd5 9. Kc5 Nc7 10. Kb6 Nca6) 8... Ne8+) 6... Nd5+
+7. Ke4 $1 (7. Kd4 Nb4 8. a7 Nc6+) 7... Nc7 (7... N5b6 8. Kf5) 8. a7 Nc5+ 9. Ke5
+$1 (9. Kd4 $2 Nxb7 10. a8=Q Ne2+ $1 11. Kc4 Nxa8 12. Kb5 Nd8) 9... Nxb7 10.
+a8=Q $1 Nxa8 (10... Nf3+ 11. Kf4) 11. Kd5 Nd8 12. Kd6 Nf3 13. Kd7 Nb7 14. Kc6
+Na5+ 15. Kb5 Nb3 16. Kc6 $11 1/2-1/2
+
+[Event "sp.p wu03"]
+[Site "?"]
+[Date "1963.??.??"]
+[Round "?"]
+[White "Gorgiev, T."]
+[Black "\[=0117.11e5g4\]"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "n7/8/3RN3/1P2K3/6k1/1n6/4p2B/8 w - - 0 1"]
+[PlyCount "31"]
+[EventDate "1963.??.??"]
+
+1. Bg3 Kxg3 2. Rd3+ Kf2+ 3. Re3 Kxe3 4. Nf4 e1=N (4... Nb6 5. Nxe2 Kxe2+ 6. Kd6
+Na5 7. Kc5 Nac4 $11) 5. b6 Na5 (5... Nc5 6. Kd6) 6. b7 (6. Kd6 $11 {to je
+vedlejsi reseni} Kxf4 (6... Nc2 7. b7 Nxb7+ 8. Kc6) 7. b7 Nxb7+ 8. Kc6) 6...
+Nxb7 7. Kd5 Kxf4 8. Kc6 Nd8+ 9. Kd7 Nf7 10. Kc6 Nd8+ 11. Kd7 Nb7 12. Kc6 Na5+
+13. Kb5 Nb3 14. Kc6 Na5+ 15. Kb5 Nb7 16. Kc6 1/2-1/2
+
+[Event "td25#2378"]
+[Site "?"]
+[Date "1991.??.??"]
+[Round "?"]
+[White "Randviir, J."]
+[Black "\[=0007.01e7e2\]"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "7n/4K3/8/7n/4N3/3p4/4k3/8 w - - 0 1"]
+[PlyCount "15"]
+[EventDate "1991.??.??"]
+
+1. Nc5+ (1. Nc3+ $2 Ke3 2. Nd1+ Kd4 3. Nb2 d2+ 4. Kd6 Kc3 5. Nd1+ Kc2 6. Ne3+
+Kc1 7. Ke5 Ng3) 1... d2+ 2. Ne4 d1=N+ 3. Ng3+ $3 (3. Ke6 Nf4+ (3... Ng6 $11 4.
+Kf5 Nf8 5. Kg5 Ng7 6. Kf6 Nge6 7. Kf7+) 4. Kf6 (4. Kf5 Ke3 5. Ng5 Nhg6 6. Ne6
+Ne7+)) 3... Nxg3 4. Kf6 Nh5+ 5. Kg5 Ng7 6. Kf6 Ne8+ 7. Ke7+ Nc7 8. Kf6 1/2-1/2
+
+[Event "Macek_90 \[2nd spec hm\]"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "Manveljan, A."]
+[Black "\[+0133.31a5a7\]"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "8/kP6/7R/KPP5/4n3/8/1p6/6b1 w KQkq - 0 1"]
+[PlyCount "15"]
+[EventDate "1999.??.??"]
+
+1. Rb6 Bh2 2. c6 Nc5 3. b8=Q+ Bxb8 4. Ra6 Nxa6 5. b6 Ka8 6. Kxa6 b1=Q (6... Bh2
+7. c7 Bxc7 8. bxc7 b1=Q 9. c8=Q+ Qb8 10. Qc6+) 7. b7+ Qxb7+ 8. cxb7# 1-0
+
+[Event "tk40"]
+[Site "?"]
+[Date "1977.??.??"]
+[Round "?"]
+[White "Pogosjants, E."]
+[Black "\[+0130.22h5h7\]"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "6b1/6pk/5PR1/6PK/8/8/6p1/8 w - - 0 1"]
+[PlyCount "9"]
+[EventDate "1977.??.??"]
+
+1. Rh6 gxh6 2. g6 Kh8 3. Kxh6 g1=Q (3... Be6 4. f7 Bxf7 5. gxf7 g1=Q 6. f8=Q+
+Qg8 7. Qf6+ (7. Qe7 $2 Qe6+ $1 8. Qxe6) 7... Qg7+ 8. Qxg7#) 4. g7+ Qxg7+ 5.
+fxg7# 1-0
+
+[Event "Macek_90 \[3rd spec hm\]"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "Matous, M."]
+[Black "\[+4130.03g2e5\]"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/1p1q4/1Q2b1p1/4k2p/8/8/2R3K1/8 w KQkq - 0 1"]
+[PlyCount "39"]
+[EventDate "1999.??.??"]
+
+1. Qb2 Kf5 (1... Kd6 2. Qb4+ Ke5 3. Qc3+ Qd4 4. Re2+ Kd5 5. Rd2) 2. Rf2+ Kg5 3.
+Qc1+ Kh4 4. Rf4+ (4. Qe1 Qd5 5. Rf3+ Kg5 6. Qe3+ Kh4) 4... Bg4 5. Qe1+ Kg5 6.
+Qe3 Kh4 (6... Qd5 7. Rf3+ Kh4 8. Qe7+ Qg5 9. Qe1#) 7. Rxg4+ Qxg4 8. Kh2 b6 9.
+Qe7+ Qg5 10. Qe4+ Qg4 11. Qe3 b5 12. Qe7+ Qg5 13. Qe4+ Qg4 14. Qe3 b4 15. Qe7+
+Qg5 16. Qxb4+ Qg4 17. Qe7+ Qg5 18. Qe4+ Qg4 19. Qe3 Qg5 20. Qh3# *
+
+[Event "o000"]
+[Site "?"]
+[Date "1947.??.??"]
+[Round "?"]
+[White "Petrov, D."]
+[Black "\[+4011.03a1b3\]"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "1qNQ4/2p3p1/1p6/8/1B6/1k6/8/K7 w - - 0 1"]
+[PlyCount "33"]
+[EventDate "1947.??.??"]
+
+1. Ba5 $1 bxa5 (1... Qa8 2. Qd3 Ka4 3. Qc4+ Kxa5 4. Qa2+) (1... Qb7 2. Qd3 Ka4
+3. Bd2) 2. Qd3 Ka4 3. Ka2 $1 Qb7 $1 4. Qc4+ $1 (4. Qc2+ $2 Kb5 5. Qb3+ Ka6)
+4... Qb4 5. Nb6+ $3 cxb6 6. Qd3 $3 g6 7. Qd7+ Qb5 8. Qd4+ Qb4 9. Qd3 $3 g5 10.
+Qd7+ Qb5 11. Qd4+ Qb4 12. Qd3 g4 13. Qd7+ Qb5 14. Qxg4+ Qb4 15. Qd7+ Qb5 16.
+Qd4+ Qb4 17. Qd3 1-0
+
+[Event "Macek_90 \[1st hm\]"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "Kralin, N."]
+[Black "\[+0353.11b6b8\]"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "1k2Bn2/8/1Kp1P3/5r2/b7/B7/8/8 w KQkq - 0 1"]
+[PlyCount "17"]
+[EventDate "1999.??.??"]
+
+1. e7 (1. Bxf8 $2 {sorry not a try} Rxf8 (1... Rb5 $1 {the second way} 2. Ka6
+Kc7 3. Bg6 (3. Bg7 Bb3) 3... Re5 (3... Rb8 $1 $19 {Polasek} 4. Ka5 (4. Ka7 Bc2
+$1 5. Bf7 (5. Bxc2 Rxf8) 5... Rb5 6. Ka6 Bd3) 4... Rxf8 5. Kxa4 (5. e7 Ra8+ 6.
+Kb4 c5+) 5... Kd6 6. Kb4 (6. Bf7 Rb8 7. Ka3 c5 8. Ka4 Ke7 (8... c4 $2 9. e7 c3
+10. e8=Q Rxe8 11. Kb3 Re3 12. Kc2 $11)) 6... Rb8+ $1 (6... Kxe6 7. Kc5 Kd7 8.
+Be4 Rf6 9. Kb6 $11) 7. Kc4 Kxe6 $19 8. Kc5 Kd7 $19 {CD}) 4. Bh6 $1 Bb5+ 5. Ka7
+Rxe6 6. Bf4+ Kd8 7. Bg5+ Kc7 8. Bf4+ $11) 2. Bd7+ Rf6 3. e7+ (3. Ka5 $5 {
+also not sufficient} Kc7 (3... Bb3 $2 4. e7 Bf7 5. Kb6) 4. Kxa4 Kd6 5. Kb4 Rf4+
+6. Kc3 Rf3+ (6... c5 7. Kd3 c4+ (7... Rd4+ 8. Kc3 Re4) 8. Kc3 Re4 9. Kb4) 7.
+Kd4 Rh3 8. Kc4 Re3 9. Kd4 Re1 10. Kd3 Kd5 11. Kd2 Re5 12. Kd3 c5 13. Kc3 Re3+
+14. Kd2 Kd4 15. Kc2 (15. Bc8 Re5 16. Kc2 c4 17. Kd2 c3+ 18. Kc2 Re2+ 19. Kc1 c2
+20. Kb2 Kd3 21. Ba6+ Kd2) 15... c4 16. Kd2 c3+ $6 17. Kc2 Re2+ (17... Kc4 18.
+e7 Rxe7 19. Bg4 Rh7 20. Bf5 Rh2+ 21. Kc1 $11) 18. Kc1 (18. Kd1 c2+) (18. Kb3
+Rb2+ 19. Ka3 Rb8 20. Ba4 Kd3) 18... Kc4 19. e7 Rxe7 20. Bf5 Re1+ 21. Kc2 Re2+
+22. Kd1 Rf2 23. Bc2 Rf1+ 24. Ke2 Rc1) 3... c5 4. Ka5 Ra6+ $1 (4... Bxd7 $2 5.
+e8=Q Bxe8 {stalemate})) 1... Rb5 (1... Ne6 2. Bd6 Kc8 3. Bf7 Ng7 4. Be6+ Nxe6
+5. e8=Q+ Nd8 6. Bc5) 2. Ka6 (2. Kxc6 Rf5+ (2... Rb1+ 3. Kd6 Rd1+ 4. Ke5 Nd7+)
+3. Kd6 Bxe8 4. exf8=Q+ Rxf8) 2... Ne6 3. Bd6 Nc7+ 4. Bxc7 Kxc7 5. Bxc6 (5. Bf7
+c5 (5... Rb4 6. Ka5 c5) 6. e8=Q Rb6+ 7. Ka5 Bxe8) 5... Rb6+ 6. Ka5 $1 Bxc6 7.
+e8=N+ $1 Kb7 8. Nd6+ Kc7 9. Ne8+ $11 1/2-1/2
+
+[Event "3.p jm03"]
+[Site "?"]
+[Date "1967.??.??"]
+[Round "?"]
+[White "Kakovin, A."]
+[Black "\[=0313.21a3a6\]"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "8/1p6/k1P1BP1n/2r5/8/K7/8/8 w - - 0 1"]
+[PlyCount "16"]
+[EventDate "1967.??.??"]
+
+1. f7+ (1. cxb7 Ka7 $1 (1... Kxb7 2. f7) 2. f7 Rc3) 1... Nxf7 (1... Ra5 2. Kb4
+Rb5+) 2. cxb7 Ra5 3. Kb4 Rb5+ 4. Ka4 Nd6 5. Bc4 Nxc4 6. b8=N (6. b8=Q+ $2 Nb2+)
+6... Kb6 7. Nd7+ Kc6 8. Nb8+ Rxb8 1/2-1/2
+
+[Event "Macek_90 \[2nd hm\]"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "Kekely, L."]
+[Black "\[+3110.24a2h5\]"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/4p1P1/1Bpp1P2/7k/8/2p4q/K7/3R4 w KQkq - 0 1"]
+[PlyCount "57"]
+[EventDate "1999.??.??"]
+
+1. g8=Q+ Qh2 2. Kb3 Qb2+ 3. Kc4 Qa2+ (3... Qe2+ 4. Kxc3 Qxd1 5. Qf7+ Kg4 6.
+Qe6+) 4. Kxc3 Qxg8 5. Rh1 Kg6 6. Rg1+ Kf7 7. Rxg8 Kxg8 8. fxe7 Kf7 9. Bd8 c5
+10. Kc4 Ke8 11. Kd5 (11. Kb5 Kd7 12. Kc4 Ke8) 11... Kd7 12. Ke4 Ke8 13. Kf4 (
+13. Kf5 {small dual} Kf7 14. Kf4 $1 c4 15. Ke4 $1) 13... Kf7 14. Kf5 c4 15. Ke4
+$1 (15. Kf4 $2 {bad author's solution} c3 $1 (15... Ke8 16. Ke4 Kd7 17. Kf5 c3
+18. Kf6 c2 19. Kf7 c1=Q 20. e8=Q+ Kc8 21. Bg5+) 16. Ke3 d5 $11) 15... Ke8 (
+15... d5+ 16. Ke5 $1) 16. Ke3 $1 (16. Kd4 $2 d5 {zugzwang}) 16... d5 17. Kd4 {
+mutual zugywang} Kf7 (17... Kd7 18. Ke5 c3 19. Kf6 c2 20. Kf7 c1=Q 21. e8=Q+
+Kc8 (21... Kd6 22. Qe7+ Kc6 23. Qc7+) 22. Bg5+) 18. Ke5 $1 (18. Kc5 {dual})
+18... c3 19. Kd6 c2 20. Kd7 c1=Q 21. e8=Q+ {wins, the rest is not study} Kg7
+22. Qe7+ (22. Qe5+) 22... Kg8 (22... Kg6 23. Qe6+ (23. Qf6+) 23... Kh5 24. Qf5+
+Kh6 {see main}) 23. Qe6+ Kg7 24. Qf6+ Kh7 25. Qf5+ Kh6 26. Bc7 (26. Be7 Kg7 27.
+Bd6 (27. Bf6+ Kh6 28. Be5) 27... Qe1 (27... Qd1 28. Be5+ Kh6 29. Bf4+ Kg7 30.
+Ke7 Qe2+ 31. Be5+ Kh6 32. Kf8) 28. Qg5+ Kh7 29. Be5) 26... Qe1 (26... Qc4 {
+shows the threat} 27. Bf4+ Kg7 28. Qg5+ Kf7 29. Qh5+ Kg7 30. Be5+) 27. Bf4+ Kg7
+28. Qg5+ Kf7 29. Be5 (29. Qh5+ Kf6 30. Bg5+) *
+
+[Event "Macek_90 \[3rd hm\]"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "Hlinka_Husak, M_K."]
+[Black "\[+1344.13e4g5\]"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "8/b7/p2r4/6k1/Q3K3/1p1n4/p4NP1/3B4 w KQkq - 0 1"]
+[PlyCount "25"]
+[EventDate "1999.??.??"]
+
+1. Qa5 (1. Kf3+ Rf6+ (1... Bxf2) 2. Ke2 Nc1+ 3. Ke1+ Bxf2+ 4. Kd2 Rd6+ 5. Kxc1
+Be3+ 6. Kb2 Rxd1 7. Qa5 Kg4) (1. Nh3 Kf6 2. Kf3 Bd4) 1... Nc5 (1... Kf6 2. Ng4+
+Ke7 3. Bxb3) 2. Kf3 (2. Ke5 Nb7 3. Ne4 Kh6 4. Qa3 Bd4+ 5. Kf4 a1=Q) (2. Ke3 Bb6
+3. Qa3 b2 4. Qxa2 Na4+ 5. Kf3 Rf6+ 6. Ke2 Nc3+) 2... Bb6 (2... Rf6+ 3. Ke2 Bb6
+(3... Kg6 4. Ng4)) 3. Qa3 Rf6+ 4. Ke2 (4. Ke3 b2 5. Nh3 Kh6 6. Qxa2 Nb3+ 7. Ke4
+b1=Q+ 8. Qxb1 Nd2+ 9. Ke5 Bd4+ 10. Kxd4 Nxb1 $19) 4... Rxf2+ 5. Kxf2 a1=Q (5...
+b2 6. Qxa2) 6. Qxa1 b2 7. Qa2 $1 (7. Qb1 Ne4+ 8. Ke1 Ba5+ 9. Ke2 Nc3+) (7. Qa3
+Ne4+ 8. Ke1 b1=Q 9. Qe7+ Kf4 10. Qh4+ Ke3 11. Qh3+ Kd4 12. Qd7+ Kc3 13. Qc6+
+Bc5) 7... b1=Q (7... Ne4+) 8. Qxb1 (8. Qd2 Kg6 9. Bc2+ Ne4+ 10. Ke2 Qb5+ 11.
+Qd3 Kf6 12. Qxb5 Nc3+ 13. Kd2 Nxb5) 8... Ne4+ 9. Ke1 $1 (9. Ke2 Nc3+ 10. Kd3
+Nxb1) 9... Ba5+ 10. Ke2 Nc3+ 11. Kf3 Nxb1 12. Be2 Nd2+ 13. Ke3 $11 1/2-1/2
+
+[Event "Macek_90 \[4th hm\]"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "Ejlazjan, E."]
+[Black "\[+0132.01c3e2\]"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "7R/3N4/8/8/8/b1K2p2/4k3/4N3 b KQkq - 0 1"]
+[PlyCount "12"]
+[EventDate "1999.??.??"]
+
+{three main lines} 1... Bb2 (1... Kxe1 2. Ne5 f2+ 3. Nd3+ (3. Nf3+ $2 Ke2+ $1
+4. Nd4+ Ke1+ 5. Re8+ (5. Nc2+ Ke2+ 6. Re8+ Kf3+ 7. Ne3 Bc5 8. Nf1 Kg2) 5...
+Kd1+ 6. Nf5 f1=Q+ 7. Ne3+ Ke2+) 3... Kf1+ 4. Rh7 $1 (4. Rh6 $2 Bc1 5. Rf6 (5.
+Re6 Bg5+ 6. Rg6 Be3) 5... Be3+ 6. Kc2 Ke2) (4. Rh5 Bc1 5. Kc2 (5. Kd4 Kg2) 5...
+Be3 6. Kd1 Kg2) (4. Rh4 Bc1 5. Kc2 Be3 6. Kd1 Kg2 7. Rg4+ Kh3) (4. Rg8 Ke2+ 5.
+Rg2 Bc5 6. Nxc5 Kf3+) (4. Ra8 Bc5 5. Kd2 Kg2 6. Rg8+ Kf3 7. Ne5+ Ke4) (4. Kd2
+Kg2 5. Rg8+ Kf3) 4... Ke2+ (4... Bd6 5. Rf7 Bc5 (5... Bg3+ 6. Kd2 Bh4 7. Ke3
+Bg5+ 8. Kf3 Bh4 9. Rg7) 6. Kd2 Bd4 7. Kd1 (7. Nb4 Bc3+) 7... Bb6 8. Ne5 Bd4 9.
+Nc4 Bc3 10. Ne3+) (4... Bc1 5. Kd4 Bg5 6. Rh2) 5. Rh2 Bc5 6. Nxc5 Ke1+ (6...
+Ke3+ 7. Rh1 Ke2+ 8. Ne4 f1=Q+ 9. Ng3+) (6... Kf3+ 7. Ne4 f1=Q+ 8. Nd2+ Kg3 9.
+Nxf1+) 7. Nd3+) (1... f2+ 2. Re8 Kd1+ 3. Nc2 Bc1 4. Rf8 Ke2+ 5. Nd4+ (5. Nc5 $2
+Bb2+ $1 6. Kxb2 f1=Q 7. Nd4+ Ke1) 5... Kf1+ 6. Nf3 Kg2+ 7. Nh2 Ba3+ 8. Rf6 Bd6
+9. Ng4 f1=Q+ 10. Ne3+) 2. Kxb2 f2 3. Re8 Kd2 4. Ne5 $1 (4. Nf3+ Kd1 5. Nh2 f1=Q
+6. Nxf1 {stalemate}) 4... f1=Q 5. Nc4+ Qxc4 (5... Kd1 6. Ne3+) 6. Nf3+ Kd1 (
+6... Kd3 7. Ne5+) 7. Re1# 1-0
+
+[Event "Macek_90 \[5th hm\]"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "Gonzales, M."]
+[Black "\[+0016.23c7d3\]"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "8/2K3p1/2p5/1P3Pn1/3p4/3k4/1n3B2/8 w KQkq - 0 1"]
+[PlyCount "12"]
+[EventDate "1999.??.??"]
+
+1. b6 Na4 (1... Ne4 2. b7 Nc5 3. Kxc6 Nxb7 4. Kd5 Nc4 5. Bxd4 Ne3+ 6. Bxe3 Kxe3
+7. f6 gxf6 8. Ke6) 2. b7 (2. Kxc6 Nxb6 3. Kxb6 Ke4) 2... Nc5 3. Kxc6 (3. b8=N
+Nf3 4. Nxc6 Ne4 5. Bxd4 Nxd4 6. Ne5 (6. Nd8 Ng5 7. Kd6 Ke4) 6... Ke3 7. f6 Nxf6
+) 3... Nxb7 (3... Na6 4. Kb6 Ne4 5. Kxa6 Nc5+ 6. Kb6 Nxb7 7. Kxb7 Ke4 8. Kc6 d3
+9. Be1 Kxf5 10. Kd5 $11) 4. Kd5 (4. Kxb7 Ke4) 4... Nf3 5. f6 (5. Bxd4 Nxd4 6.
+f6 g5 7. f7+ Ne6 8. Kxe6 Nd8+) 5... gxf6 6. Bxd4 Nxd4 {pat} (6... f5 7. Bb6 Nd2
+8. Ke5 Nd6 9. Kxd6 Nc4+ (9... f4 10. Ke5 f3 11. Kf4 Ke2 12. Ba7 $11) 10. Ke6
+$11 f4) 1/2-1/2
+
+[Event "Macek_90"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "Bunka, V."]
+[Black "?"]
+[Result "1-0"]
+[Annotator "comm"]
+[SetUp "1"]
+[FEN "R7/P5pr/8/8/5K2/n6k/8/8 w - - 0 1"]
+[PlyCount "13"]
+[EventDate "1999.??.??"]
+
+1. Rf8+ (1. Kg5 Nb5) 1... g5 2. Kf3 g4+ 3. Kf2 g3+ 4. Kf3 g2 5. a8=Q+ g1=Q 6.
+Qc8+ Kh2 7. Qc7+ 1-0
+
+[Event "Macek_90"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "Kudelic, E."]
+[Black "\[+0340.32a3c6\]"]
+[Result "1/2-1/2"]
+[Annotator "comm"]
+[SetUp "1"]
+[FEN "8/8/2k1P1P1/P1p5/5r2/K1p5/8/1b1B4 w KQkq - 0 1"]
+[PlyCount "14"]
+[EventDate "1999.??.??"]
+
+1. g7 (1. e7 Bxg6) 1... Bh7 2. e7 Kd7 3. a6 Rf6 4. a7 (4. Ba4+ Kxe7 5. a7 c2 6.
+Bxc2 Ra6 7. Kb2 Bg8) 4... Ra6 5. Ba4+ Kxe7 6. g8=Q Bxg8 7. a8=Q Rxa8 1/2-1/2
+
+[Event "Macek_90"]
+[Site "?"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "Kudelic, E."]
+[Black "\[+3110.22f2g8\]"]
+[Result "1-0"]
+[Annotator "comm"]
+[SetUp "1"]
+[FEN "6k1/5p2/R5PP/2Bq2p1/8/8/5K2/8 w KQkq - 0 1"]
+[PlyCount "11"]
+[EventDate "1999.??.??"]
+
+1. h7 Kg7 (1... Kh8 2. Ra8+ Qxa8 3. Bd4+) 2. Bf8+ Kh8 3. g7+ Kxh7 4. Rh6+ Kxh6
+5. g8=N+ Kg6 (5... Kh5 6. Nf6+) 6. Ne7+ 1-0
+

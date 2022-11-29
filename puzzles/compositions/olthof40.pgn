@@ -1,0 +1,326 @@
+﻿[Event "Olthof40_1stPr"]
+[Site "?"]
+[Date "2000.??.??"]
+[Round "?"]
+[White "Pervakov, O."]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "R7/Pk6/3p4/PK1p2p1/2N1rq2/8/6B1/8 w - - 0 1"]
+[PlyCount "23"]
+[EventDate "2000.??.??"]
+
+1. Rh8+ $1 (1. Bxe4 dxe4 2. Rd8+ Kxa7 3. Rd7+ Kb8 4. a6 Qf5 5. Kc6 Qc5#) (1.
+Rg8+ $2 {To clear solution.} Kxa7 2. Rg7+ Kb8 3. a6 Re7+ $1 4. Rg8+ Kc7 5. Nb6
+Qf5 6. Rc8+ (6. Nxd5+ Kd7 7. a7 Qd3) 6... Qxc8 7. Nxc8 Kxc8) 1... Kxa7 2. Rh7+
+Kb8 (2... Re7+ 3. Rxe7+ Kb8 4. Nb6 Qc1+ 5. Re8+ Kb7 6. Bxd5+) (2... Ka8 3. Nb6+
+Kb8 4. Rh8+ Kb7 5. a6+ Kc7 6. Rc8#) 3. a6 Re7+ (3... dxc4 4. a7+ Ka8 5. Ka6 $1
+Qf6 $5 (5... Qe5 6. Rh8+) 6. Rh8+ $3 Qxh8 7. Bxe4+ d5 8. Bxd5#) (3... Qf2+ $5
+4. Rb7+ $1 (4. a7+ Qxa7+) 4... Kc8 (4... Ka8 5. Nb6+ Qxb6+ 6. Rxb6) 5. Nxd6+
+Kd8 6. Bxe4 dxe4 7. a7 Qb2 8. Kc6 Qc3+ (8... Qc2+ 9. Kd5 Qd3+ 10. Ke6 Qh3+ 11.
+Nf5) 9. Kd5 Qd2+ 10. Ke6 Qa2+ 11. Kf6 Qa1+ 12. Kg6 Qa6 13. Rb8+ Kc7 14. a8=Q
+Qxd6+ 15. Kxg5 Qe5+ 16. Kg4 Qg7+ 17. Kf4) 4. Rh8+ Kc7 (4... Ka7 5. Bxd5 Qxc4 6.
+Bxc4 Re5+ 7. Kb4) 5. Nb6 Qf5 (5... Qb4+ 6. Kxb4 Kxb6 7. Bf1 Rf7 8. Bb5 Rf4+ 9.
+Kc3 Kxb5 10. a7) 6. Nxd5+ Kd7 7. Bh3 g4 8. Bxg4 Re6+ 9. Rd8+ (9. Rh7+ Qxh7 10.
+Nf6+ Kc7 11. Nxh7 Re5+ 12. Kc4 Re4+) 9... Kxd8 10. Bxf5 Re5+ 11. Kc6 Rxf5 12.
+a7 1-0
+
+[Event "Olthof40_2ndPr"]
+[Site "?"]
+[Date "2000.??.??"]
+[Round "?"]
+[White "Ulrichsen, J."]
+[Black "?"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "8/8/8/7k/3p4/3b1R2/2p2K2/8 w - - 0 1"]
+[PlyCount "22"]
+[EventDate "2000.??.??"]
+
+1. Rh3 Kg4 2. Rh1 Kf4 (2... Kf5 3. Rh5+ Ke4 4. Rc5 Kf4 5. Ke1 Ke3 6. Rc3 Ke4 7.
+Rc8 Kf3 8. Kd2) 3. Ra1 $3 (3. Rh4+ $5 Ke5 4. Rh5+ Kd6 (4... Ke4 5. Rc5) (4...
+Bf5 5. Rh1 Ke4 (5... d3 6. Ke3) 6. Ke2) 5. Rh1 Kd5 6. Rc1 Kc4) (3. Re1 $2 Bf1
+$3 {and White has not Ke1.} 4. Rxf1 d3 5. Ke1+ Ke3) (3. Rg1 $2 Bf1 $3) (3. Rc1
+$6 Ke4 {mutual zugzwang. The wR has to release Pc2 and so bB is free for
+operations.} 4. Ra1 (4. Re1+ Kd5 5. Ra1 Kc4 6. Ke1 Kc3) (4. Ke1 Ke3 5. Ra1 Bc4
+6. Ra3+ d3 7. Rc3 c1=Q+ 8. Rxc1 d2+) 4... Bc4 5. Ke1 (5. Rc1 Kd3) 5... Ke3 6.
+Ra3+ d3 7. Rc3 c1=Q+ 8. Rxc1 d2+ 9. Kd1 Bb3+ 10. Rc2 Bxc2+ 11. Kxc2 Ke2) 3...
+Ke4 4. Rc1 $1 {Black to move!} Kf4 5. Ra1 Bf1 $5 (5... Bc4 6. Rc1 $1 (6. Ke1 $2
+Ke3 7. Ra3+ (7. Rc1 Kd3 8. Ra1 Kc3) 7... d3 8. Rc3 c1=Q+ 9. Rxc1 d2+ 10. Kd1
+Bb3+ 11. Rc2 Bxc2+ 12. Kxc2 Ke2) 6... d3 (6... Bd3 7. Ra1) 7. Ke1 Ke3 8. Rxc2)
+6. Ke1 $1 (6. Rxf1 d3 7. Ke1+ Ke3) (6. Rc1 $2 d3 7. Ke1 Ke3) 6... Ke3 7. Ra3+
+d3 (7... Bd3 8. Rc3 $1 (8. Ra1 $2 Bc4 9. Ra3+ d3) 8... dxc3) 8. Rc3 {Mutual
+zugzwang No. 2} c1=Q+ 9. Rxc1 d2+ 10. Kd1 Kd3 (10... Be2+ 11. Kc2) 11. Rc3+
+Kxc3 1/2-1/2
+
+[Event "Olthof40_3rdPr"]
+[Site "?"]
+[Date "2000.??.??"]
+[Round "?"]
+[White "Afek, Y."]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "k1K5/1N4p1/6pN/8/1p6/p7/P7/B1b5 w - - 0 1"]
+[PlyCount "25"]
+[EventDate "2000.??.??"]
+
+1. Ng4 (1. Bxg7 b3 2. axb3 Bb2 3. Ng4 Bxg7 4. Nd6+ a2 5. Nf2 a1=Q+) 1... b3 (
+1... Bb2 2. Na5 Ka7 (2... Bxa1 3. Nc6 b3 4. Ne3 Bf6 5. Nd5 Bd8 6. Kxd8 Kb7 7.
+Na5+ Ka6 8. Nxb3 Kb5 9. Kc7 Kc4 10. Kc6 Kd3 11. Nf4+ Kc2 12. Ne2 Kb2 13. Nec1
+g5 14. Kd5) 3. Nb3 (3. Kc7 {Authors line is not clear} Bxa1 4. Kc6 Kb8 (4...
+Ka6 5. Nb3 Bc3 6. Nc5+ Ka5 7. Ne3 b3 8. Nxb3+ Kb4 9. Nc2+ Kc4 10. Nxa3+ Kd3 11.
+Nc5+ Ke3 12. Kd5 g5 13. Nc4+ Kf3 14. Ne4 Bf6 15. a4 Bd8 16. Nxg5+ Bxg5 17. a5
+Bh4 18. a6 Bf2 19. Kc6 Ba7 20. Kb7) 5. Kb5 Bc3 6. Nc6+ Kb7 7. Nxb4 Bb2 8. Nd5)
+3... Kb6 4. Ne3 Kc6 5. Kd8 Bxa1 6. Nxa1 Kd6 7. Nac2 $1 Ke5 8. Nxb4 Kd4 9. Nbc2+
+Kd3 10. Nxa3 Kxe3 11. Nc2+ Kd2 12. a4 g5 13. a5 g4 14. a6 g3 15. Ne3 Kxe3 16.
+a7 g2 17. a8=Q g1=Q 18. Qa7+) 2. axb3 Bb2 3. Na5 $1 (3. Nd8 Ka7 $1 (3... Bxa1
+4. Nc6 {See main line}) 4. Nc6+ (4. Ne5 Bxa1 5. Nc4 Bb2 (5... a2 6. Nc6+ Ka6 7.
+Nb4+ Kb5 8. Nxa2) 6. Nc6+ Ka6 7. Kc7 Kb5) 4... Kb6 5. Nce5 Bxa1 6. Nc4+ Kb5 7.
+Nxa3+ Kb4) 3... Bxa1 (3... Ka7 4. Nc4 Bxa1 5. Nxa3 Kb6 6. Kd7 Kc5 7. Nc2 Bc3 8.
+Ke6) 4. Nc6 $1 (4. Ne3 Ka7) 4... Bf6 (4... Bc3+ 5. Ne3 a2 6. Nd5 Ba5+ 7. b4 Bd8
+(7... a1=Q+ 8. bxa5 Qxa5+ 9. Nxa5) 8. Kxd8+ a1=Q 9. Kc7 (9. Kc8 Qa6+ 10. Kc7
+Qb7+ 11. Kd6 Qxb4+ 12. Ncxb4) 9... Qg1 10. Nb6 Qxb6+ 11. Kxb6) 5. Ne3 a2 6. Nd5
+Bd8 7. Nxd8 (7. Kxd8+ Kb7) 7... a1=Q+ (7... Ka7 8. Nc6+ Ka6 9. Ncb4+ Kb5 10.
+Nxa2) 8. Nc6 Qa6 9. Kc7 Qb7+ 10. Kd6 Qxb3 (10... g5 11. Nc7+ Qxc7+ 12. Kxc7 g4
+13. b4 g3 14. b5 g2 15. b6 g1=Q 16. b7) 11. Nc7+ Kb7 12. Na5+ Kb6 13. Nxb3 1-0
+
+[Event "Olthof40_hm unclear"]
+[Site "?"]
+[Date "2000.??.??"]
+[Round "?"]
+[White "Fleck, J."]
+[Black "?"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "8/1r1P3P/7b/8/2p5/2K5/7p/k7 w - - 0 1"]
+[PlyCount "18"]
+[EventDate "2000.??.??"]
+
+1. h8=Q+ (1. d8=Q+ Bg7 2. Kxc4 h1=Q) 1... Bg7 $1 {Else wQ mates from a8} 2.
+Qxg7 h1=Q+ 3. Kxc4 (3. d8=Q+ Qc1+ 4. Kd4 Rxg7) 3... Ka2 4. Qg8 (4. Qf7 $5 Qc1+
+5. Kd5 $3 (5. Kd3+ Kb1) (5. Kd4+ Ka1) 5... Qc7 (5... Qd2+ 6. Ke6 Qd4 7. Ke7+
+Kb2 8. Qf5) 6. Kd4+ {unclear}) 4... Rxd7 5. Qe6 $3 (5. Kc3+ Ka1) 5... Rd2 (5...
+Ra7 6. Kb4+ Kb2 7. Qb3+ Kc1 8. Qe3+) (5... Rb7 6. Kc3+ Kb1 7. Qg6+ Ka2 8. Qa6+)
+(5... Qd1 6. Kc3+ Ka3 7. Qa6+ Qa4 8. Qd6+) (5... Qb7 6. Kc5+ Ka3 (6... Kb1 7.
+Qe1+ Kc2 8. Qc3+ Kd1 9. Qa1+ Ke2 10. Qe5+ Kf2 11. Qf5+ Kg3 12. Qg5+ Kf3 13.
+Qf5+ Ke3 14. Qh3+ Kd2 15. Qc3+) 7. Qa6+) 6. Kc3+ Qd5 7. Qa6+ Kb1 8. Qf1+ Rd1 9.
+Qb5+ Qxb5 1/2-1/2
+
+[Event "Olthof40_hm"]
+[Site "?"]
+[Date "2000.??.??"]
+[Round "?"]
+[White "Vlasák, E."]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "8/8/R3b3/8/8/1k1K4/1p6/1nR5 w - - 0 1"]
+[PlyCount "27"]
+[EventDate "2000.??.??"]
+
+1. Rb6 $1 (1. Rc5 Na3 2. Rc3 Kb4 3. Rb6+ Nb5 4. Kc2 b1=Q+ 5. Kxb1 Kxc3) 1...
+Ka2 2. Rf1 $1 {kryje f5} (2. Rc5 Na3) (2. Rg1 Bf5 3. Kd4 Na3 4. Rg2 Bc2) 2...
+Bc4 $1 (2... Na3 $5 3. Rf2 Bb3 4. Rb7 {nebo jiné-> tempo vì[#]í} (4. Kc3 Nb1+
+5. Kb4 Na3 6. Ra6 Ka1 7. Rf1+ $1 b1=Q 8. Rxb1+ Kxb1 9. Kxb3) 4... Ka1 $1 (4...
+Nb1 5. Ra7+ Na3 6. Kc3) 5. Rxb3 b1=Q+ 6. Rxb1+ Kxb1 (6... Nxb1 7. Kc4 Na3+ 8.
+Kb3) 7. Kc3 $1 {a vyhraje} Nb5+ 8. Kc4 Nd6+ 9. Kb3 Kc1 10. Rf4) (2... Bb3 $2 3.
+Rxb3) (2... Bg8 $2 3. Rf2 Bb3 4. Ra6+ Na3 5. Kc3) 3. Kxc4 Nd2+ $1 (3... Na3+ $5
+4. Kc3 b1=Q (4... b1=N+ 5. Kd4 {s technickou vyhrou}) 5. Rf2+ $1 (5. Rfxb1 {
+ale ne} Nxb1+ $11) (5. Rbxb1 Nxb1+ $11) 5... Ka1 6. Rxb1+ {a vyhraje} Kxb1 7.
+Rf5) 4. Kc3 b1=N+ (4... Nxf1 $2 5. Rxb2+ Ka3 (5... Ka1 6. Kb3 Ne3 7. Rh2) 6.
+Rb1) (4... b1=Q $2 5. Ra6#) 5. Kc2 Nxf1 (5... Na3+ $5 6. Kxd2 Nc4+ 7. Kc3 $1 {
+a vyhraje} (7. Kc2 $2 Nxb6 $11) 7... Nxb6 8. Rd1) 6. Rb2+ $1 (6. Rxb1 Ne3+)
+6... Ka3 7. Rxb1 Ne3+ 8. Kd3 $1 Nd5 9. Kc4 $1 {a vyhraje} Ne3+ 10. Kd4 Nf5+ 11.
+Ke4 Nd6+ 12. Kd5 Ka2 13. Rb8 Nf5 14. Re8 1-0
+
+[Event "Olthof40_hm"]
+[Site "?"]
+[Date "2000.??.??"]
+[Round "?"]
+[White "Dobrescu, E."]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "8/2N5/3k4/5p2/1b3K2/8/B2P3N/n7 w - - 0 1"]
+[PlyCount "39"]
+[EventDate "2000.??.??"]
+
+1. Nb5 Kc5 2. Nc3 Kd4 3. Nf3+ Kd3 4. Bb1+ (4. Nb1 Kc2 5. d4 Kb2 6. Be6 Kxb1)
+4... Nc2+ 5. Na2 $1 (5. Nd5 Bxd2+ 6. Kg3 Ba5) (5. Nb5 Bxd2+ 6. Kg3 Bc1 7. Nfd4
+Kc4 8. Bxc2 Bb2 9. Bb3+ Kc5) 5... Bxd2+ 6. Kg3 Ba5 $1 (6... Bh6 7. Ne1+ Kd2 8.
+Nxc2) (6... Be3 7. Ne1+ Ke2 8. Nxc2 f4+ 9. Kg4 f3 10. Nc3+ Kd3 11. Nd5) (6...
+f4+ 7. Kg4 Be3 8. Nb4+ Kc3 9. Nxc2 Kb2 10. Nxe3 Kxb1 11. Nc4) 7. Kg2 $3 (7.
+Ne5+ Ke4 8. Nc4 Bc7+) (7. Kf2 Bb6+ 8. Kg3 (8. Kg2 f4) 8... Bc7+ 9. Kg2 f4 10.
+Ne1+ Ke2 11. Nxc2 f3+ 12. Kh1 f2) 7... Bd2 8. Kf2 Be3+ 9. Kf1 Bd2 10. Kg2 f4
+11. Kf2 Be3+ 12. Kf1 Bd2 13. Kg2 Ba5 14. Ne5+ Kd2 15. Nc4+ Ke2 16. Bxc2 f3+ 17.
+Kh1 (17. Kh3 f2 18. Nc1+ Ke1 19. Nd3+ Ke2 20. Nxf2) (17. Kh2 Bc7+ 18. Kh1 f2
+19. Nc3+ Ke1 20. Bd3 f1=Q+ 21. Bxf1 Kxf1) 17... f2 18. Nc1+ Ke1 19. Nd3+ Ke2
+20. Nxf2 1-0
+
+[Event "Olthof40_hm"]
+[Site "?"]
+[Date "2000.??.??"]
+[Round "?"]
+[White "Elkies, N."]
+[Black "?"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "8/1p6/1pp1P3/8/8/2Nb4/3P4/5k1K w - - 0 1"]
+[PlyCount "24"]
+[EventDate "2000.??.??"]
+
+1. e7 (1. Na4 b5 2. Nc5 Bg6 3. Nxb7 Ke2+ 4. d4 (4. Na5 $1 Kxd2+ $1 (4... Be8 5.
+Nb3 Kd3 6. Kg2 Kc2 7. Nc5 Kxd2 8. Kf3 Kc3 9. Ke4) 5. Kh2 (5. Nxc6 Be4+) 5...
+Be8 6. Kg3 b4 7. Kf4 Kc3 8. Ke5 b3 9. Nxb3 Kxb3 10. Kd6 Kb4 11. Ke7 Bh5 12. Kd6
+Kb5 {van der Heijden}) 4... Ke3 5. Na5 Be8 6. Nb3 Ke4 7. Nc5+ Kxd4) 1... Bg6 2.
+d4 b5 3. d5 b4 (3... cxd5 4. Nxd5 Kf2+ 5. Kh2 Kf3 6. Kg1 Ke4 7. Nc3+ Ke5 8.
+Nxb5) 4. d6 $1 (4. dxc6 bxc6) (4. Nd1 cxd5 5. Ne3 Ke1 6. Nxd5 b3) 4... bxc3+ (
+4... Be8 5. Ne4 b6 (5... b3+ 6. Nd2) 6. d7+ Bxd7 7. Nf6+ b3+ 8. Nxd7 b2 9. e8=Q
+b1=Q+) 5. d7+ c2+ 6. e8=Q+ $1 (6. d8=Q+ c1=Q+ 7. Qf8+ Ke2+ 8. Kg2 Qe3) 6...
+c1=Q+ $5 (6... Bxe8 7. d8=Q+ $1 c1=Q+ 8. Qd2 {The same position see
+Neuenschwander 1990.} Qc4+ (8... Qa3+ 9. Qg2 Ke1 10. Qg3+) (8... Qb1+ 9. Qg2
+Ke1+ 10. Qg1+) (8... Qc5+ 9. Qd1 Kf2+ 10. Qg1+) 9. Qf4) 7. Qxg6+ (7. Qf8+ Ke2+
+8. Kh2 Qg5 $3 (8... Qe3 9. Qf6) 9. d8=Q Qe5+ 10. Kg2 Be4+ 11. Kh3 Bf5+ 12. Kg2
+Qe4+ 13. Kh2 Qf4+ 14. Kg2 Qg4+ 15. Kh2 Qh3+ 16. Kg1 Qg3+ 17. Kh1 Be4+) 7...
+Kf2+ 8. Kh2 Qf4+ 9. Kh3 Qe3+ 10. Kh4 $1 (10. Kg4 Qd4+) (10. Kh2 Qe5+ 11. Kh3
+Qh8+ 12. Kg4 Qd4+) 10... Qe7+ (10... Qd4+ 11. Qg4) 11. Qg5 Qxd7 12. Qf5+ Qxf5
+1/2-1/2
+
+[Event "Olthof40_hm"]
+[Site "?"]
+[Date "2000.??.??"]
+[Round "?"]
+[White "Rusinek, J."]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "3R2bk/5nn1/1B1P4/3P1P1p/6pK/8/8/8 w - - 0 1"]
+[PlyCount "15"]
+[EventDate "2000.??.??"]
+
+1. d7+ (1. Rd7 Nxf5 2. Kxh5 N7xd6) 1... Nxf5 (1... Nxd8 2. Bxd8 Nxf5 3. Kxh5
+Ng7+ 4. Kh4 Nf5+ (4... Be6 5. dxe6 Nxe6 6. Bf6+ Kh7 7. Kxg4 Kg6 8. Bg5 Kg7 9.
+Kf5 Kf7 (9... Nd4+ 10. Ke5 Nc6+ 11. Kd5) 10. Ke5) 5. Kxg4 Nh6+ 6. Kh4 Nf7 7.
+Bf6+ Kh7 8. Kh5) 2. Kxh5 Ng7+ 3. Kh4 $1 (3. Kg6 Nxd8 4. Bxd8 Bh7+ 5. Kf7# Bf5
+6. Bf6+ Bxd7 7. Bxg7 Kh7) (3. Kxg4 Nxd8 4. Bxd8 Bxd5) 3... Nf5+ 4. Kxg4 N5h6+
+5. Kh4 $1 (5. Kh5 Nxd8 6. Bxd8 Nf7 7. Bf6+ Kh7 {Mutual zugzwang} 8. d6 Nd8 9.
+Bxd8 Be6) 5... Nxd8 6. Bxd8 Nf7 7. Bf6+ Kh7 8. Kh5 1-0
+
+[Event "Olthof40_comm"]
+[Site "?"]
+[Date "2000.??.??"]
+[Round "?"]
+[White "Raican, P."]
+[Black "?"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "6k1/pp3p2/5PP1/K3p3/1R4p1/2p1pp2/2P2P2/4n3 w - - 0 1"]
+[PlyCount "10"]
+[EventDate "2000.??.??"]
+
+1. g7 b6 2. Ka6 $1 (2. Ka4 {Thematic try} exf2 (2... Nxc2 3. Rxg4 $1 (3. Rc4 $2
+b5+ 4. Kxb5 Na3+) 3... b5+ 4. Ka5) 3. Rc4 (3. Rxg4 f1=Q 4. Rh4 Qa6+ 5. Kb3 Qb5+
+6. Kxc3 Qc6+ 7. Kb3 Qxf6) 3... b5+ 4. Kxb5 f1=B $1) 2... exf2 3. Kxa7 f1=Q 4.
+Rxb6 Qf2 5. Ka8 Qxb6 (5... Kh7 $5 {The difficult side line.} 6. Rb8 Kg6 7.
+g8=Q+ Kxf6 8. Rb6+ Qxb6 9. Qxf7+ Kg5 10. Qf5+ Kh4 11. Qxg4+) 1/2-1/2
+
+[Event "Olthof40_comm"]
+[Site "?"]
+[Date "2000.??.??"]
+[Round "?"]
+[White "Mess, W."]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "kB6/rpR1P1p1/bp4Pq/1p6/1K6/4p2p/4P2P/8 w - - 0 1"]
+[PlyCount "31"]
+[EventDate "2000.??.??"]
+
+1. Rc8# (1. e8=Q Qf4 2. Kb3 Qb4+) 1... Qh8 2. Rf8+ Qxf8 3. exf8=B $1 Kxb8 4.
+Bxg7 Ra8 5. Bf8 Ka7 6. g7 Rxf8 7. gxf8=N $1 Kb8 8. Ne6 Kc8 9. Nf4 Kd7 10. Nxh3
+Ke6 11. Nf4+ Ke5 12. Ng2 {The study ends here.} Kd4 13. h3 $3 {unfortunately
+this authors idea is cooked} (13. h4 Ke4 14. h5 (14. Nxe3 $3 {wins, too} Kf4
+15. Ng2+ Kg4 16. e4 Kh5 17. e5 Kg6 18. Ne3 Kf7 19. h5 Ke6 20. h6 Kf7 21. e6+)
+14... Kf5 15. Nxe3+ Kg5) 13... Ke4 14. h4 Kd4 15. h5 Ke5 16. Nxe3 1-0
+
+[Event "Olthof40_comm"]
+[Site "?"]
+[Date "2000.??.??"]
+[Round "?"]
+[White "Paoli, E."]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "8/3p4/pP1p4/8/6p1/2K1P3/5Pb1/k7 w - - 0 1"]
+[PlyCount "29"]
+[EventDate "2000.??.??"]
+
+1. f4 Bd5 2. Kd2 g3 3. Ke2 a5 4. f5 a4 5. f6 (5. e4 g2 6. Kf2 Bxe4 7. f6 a3 8.
+f7+ a2 9. f8=Q+ Kb1 10. Qf4 g1=Q+ 11. Kxg1 a1=Q 12. Qxe4+ Ka2+ 13. Kf2 Qb2+)
+5... a3 6. f7+ Bxf7 7. b7 Kb2 8. b8=Q+ Kc2 9. Qc8+ Kb2 10. Kd2 g2 11. Qb7+ Bb3
+12. Qxg2 a2 13. Qg7+ Kb1 14. Qg1+ Kb2 15. Qc1# 1-0
+
+[Event "Olthof40_comm"]
+[Site "?"]
+[Date "2000.??.??"]
+[Round "?"]
+[White "Dobrescu, E."]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "4k3/8/4p2B/5p2/1P3P2/4KP2/5r1r/Q7 b - - 0 1"]
+[PlyCount "18"]
+[EventDate "2000.??.??"]
+
+1... Re2+ 2. Kd3 Rd2+ 3. Kc3 Ra2 4. Qg1 (4. Qb1 Ra3+ 5. Kd4 Rxh6) 4... Rag2 (
+4... Rxh6 5. Qg8+) 5. Qf1 Rc2+ (5... Rf2 6. Qb5+) 6. Kd3 Rcf2 7. Qd1 (7. Qe1
+Rxf3+ 8. Kd4 Rxh6) 7... Rxh6 8. Qa4+ Kf8 9. Qa8+ Kg7 10. Qa7+ 1-0
+
+[Event "Olthof40_comm"]
+[Site "?"]
+[Date "2000.??.??"]
+[Round "?"]
+[White "Vandecasteele, I."]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "4K2k/3P4/8/8/7N/8/5p2/8 w - - 0 1"]
+[PlyCount "25"]
+[EventDate "2000.??.??"]
+
+1. d8=Q+ f1=Q+ 2. Qd4 Kh7 3. Qe4+ Kh8 4. Qe5+ Kh7 5. Qh5+ Kg8 6. Qd5+ Kh7 7.
+Nf5 Qe1 8. Kf7 Qb1 9. Qd7 Qb6 10. Nd6 Qf2+ 11. Ke8+ Kg6 12. Qg4+ Kf6 13. Ne4+
+1-0
+
+[Event "EG"]
+[Site "?"]
+[Date "1982.??.??"]
+[Round "?"]
+[White "Olthof, R."]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "1r1nk2r/7p/1N1P1K2/8/5B2/8/8/8 w k - 0 1"]
+[PlyCount "21"]
+[EventDate "1982.??.??"]
+
+1. d7+ Kf8 2. Bh6+ (2. Nc8 $2 h5) (2. Nd5 $2 h5) (2. Bd6+ $2 Kg8) (2. Bxb8 $2
+h5 $1 (2... Nf7 $2 3. Bd6+ Kg8 4. Nd5 h5 5. Ne7+ Kh7 6. Kxf7 Rd8 7. Ke6 h4 (
+7... Kh6 8. Bf4+) 8. Nd5 h3 9. Ke7 Ra8 10. d8=Q Rxd8 11. Kxd8) (2... Nc6 3. Nd5
+h5 (3... Kg8 4. Ne7+) 4. Bd6+ Kg8 5. Kg6 $1 Rh6+ 6. Kxh6 Kf7 7. Bc7 $1 Ke6 8.
+Nb6 Ke7 9. Kxh5) (2... Kg8 3. Nd5 $1 (3. Ke7 $2 Nc6+ 4. Kd6 Nd8) 3... h5 4. Kg6
+Nf7 (4... Rh7 5. Nf6+) (4... Rh6+ 5. Kxh6 Kf7 6. Bc7 $1) 5. Nf6+ Kf8 6. Bd6+)
+3. Bd6+ (3. Nd5 Rh6) (3. Bf4 Rh7) (3. Bc7 Rh6) 3... Kg8 4. Bc7 (4. Nd5 Rh6 5.
+Ke7 Nc6+) (4. Bf4 Rh7) (4. Kg6 Nf7) 4... Kh7 5. Ke7 Nb7) 2... Kg8 3. Nc8 (3.
+Nd5 $2 Nc6) 3... Rxc8 (3... Nc6 4. d8=Q+ Nxd8 5. Ne7#) (3... Rb6 4. Nxb6 Nf7 5.
+Nc8) 4. dxc8=B (4. dxc8=Q $2) (4. dxc8=N $2 Nc6 5. Ke6 (5. Nd6 Ne5 6. Ke6 Nf7)
+5... Nd8+ 6. Ke7 Nf7) 4... Nf7 5. Bg7 (5. Be6 $2) 5... h5 (5... h6 6. Be6 Kh7
+7. Kxf7) (5... Nd8 6. Ba6 Nf7 7. Bc4) (5... Ng5 6. Bb7 Nf7 7. Bd5) 6. Be6 Rh6 (
+6... Rh7 7. Bxf7#) (6... Kh7 7. Kxf7) 7. Bxh6 Kh7 8. Bf8 Nh6 (8... Nh8 9. Bg7
+h4 (9... Ng6 10. Bf5) 10. Bh3 Kg8 11. Bf5 h3 (11... Nf7 12. Be6) 12. Bxh3 Kh7
+13. Be6) (8... Kg8 9. Bg7) (8... h4 9. Kxf7) 9. Kg5 Ng4 (9... Ng8 10. Bf5+ Kh8
+11. Kg6) 10. Bf7 (10. Kxh5 $2 Nf6+ 11. Kg5 Ne8) 10... Ne5 (10... Nh2 11. Kxh5
+Nf3 12. Bg6+ Kg8 13. Bd6) (10... Ne3 11. Bxh5) (10... Nf2 11. Bxh5) 11. Bxh5
+1-0
+

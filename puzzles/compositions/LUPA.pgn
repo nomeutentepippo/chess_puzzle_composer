@@ -1,0 +1,1503 @@
+﻿[Event "?"]
+[Site "?"]
+[Date "1995.??.??"]
+[Round "?"]
+[White "1.Jak jsme oklamali  e¿itele i"]
+[Black "?"]
+[Result "*"]
+[PlyCount "0"]
+[EventDate "1995.??.??"]
+
+ *
+
+[Event "Sachove umeni"]
+[Site "?"]
+[Date "1980.??.??"]
+[Round "?"]
+[White "Pletanek, J VlasakE"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/2p5/1P6/2n5/8/B4Kb1/8/3N1k2 w - - 0 1"]
+[PlyCount "9"]
+[EventDate "1980.??.??"]
+
+1. Bxc5 cxb6 2. Bd4 $3 Be1+ $1 3. Bxb6 {Zugzwang.} Bd2+ 4. Bf2 Bh6+ 5. Nc3 *
+
+[Event "?"]
+[Site "?"]
+[Date "1995.??.??"]
+[Round "?"]
+[White "2.Zisk nebo ztráta tempa?"]
+[Black "?"]
+[Result "*"]
+[PlyCount "0"]
+[EventDate "1995.??.??"]
+
+ *
+
+[Event "Sachove umeni,"]
+[Site "?"]
+[Date "1974.??.??"]
+[Round "?"]
+[White "Vlasak, E."]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/p1p5/2p5/2P5/1P6/PK6/8/4k3 w - - 0 1"]
+[PlyCount "15"]
+[EventDate "1974.??.??"]
+
+1. Kc4 a6 $1 2. Kb3 $3 {Switchback in pawn EG study!} Kd2 3. Ka4 Kc3 4. Ka5 Kb2
+$1 5. Kxa6 $1 Kxa3 6. b5 cxb5 7. Kxb5 Kb3 8. c6 *
+
+[Event "?"]
+[Site "?"]
+[Date "1995.??.??"]
+[Round "?"]
+[White "3.Zvlá¿tní tahy do rohu ¿achov"]
+[Black "?"]
+[Result "*"]
+[PlyCount "0"]
+[EventDate "1995.??.??"]
+
+ *
+
+[Event "Sachove umeni,"]
+[Site "?"]
+[Date "1983.??.??"]
+[Round "?"]
+[White "Vlasak, E."]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/5kB1/5p1P/5P2/7n/1p1p2R1/5p2/NN5K w - - 0 1"]
+[PlyCount "15"]
+[EventDate "1983.??.??"]
+
+1. Rg1 fxg1=Q+ 2. Kxg1 d2 $3 (2... Nxf5 3. Nxb3 Nxg7 4. h7 $18) 3. Nxd2 Nf3+ 4.
+Kh1 $3 (4. Kg2 Nxd2 5. Nxb3 Nxb3 6. Bh8 Nd4 7. h7 Nxf5 8. Bxf6 Nh4+ 9. Kh3 Ng6
+10. Bb2 Nh8 $11) 4... Nxd2 5. Nxb3 Nxb3 6. Bh8 $3 {Synthesis of 2 mysterious
+moves in the corner.} Nd4 7. h7 Nxf5 8. Bxf6 *
+
+[Event "Cs sach, comm"]
+[Site "?"]
+[Date "1985.??.??"]
+[Round "?"]
+[White "Mikeska, A VlasakE"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/1p6/1P2k3/2P1p3/5B2/5K2/2n5 w - - 0 1"]
+[PlyCount "13"]
+[EventDate "1985.??.??"]
+
+1. c5 $1 Nd3+ 2. Ke3 Nxc5 3. Bh1 $3 Kf5 4. Bg2 Ke5 5. Bh1 Kd5 6. Bg2 {Zugzwang.
+} Kc4 7. Bf1+ *
+
+[Event "çeskoslovenskÿ ¿ach"]
+[Site "?"]
+[Date "1992.??.??"]
+[Round "?"]
+[White "E.Vlasák, K.Husák"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5B2/4pr2/8/8/8/p4b2/p2K1R2/k7 w - - 0 1"]
+[PlyCount "11"]
+[EventDate "1992.??.??"]
+
+1. Kc2 $3 (1. Kc1 Rxf8) (1. Bxe7 Rxe7 2. Rxf3 Kb2) (1. Rxf3 Rxf3 2. Bxe7 Kb1) (
+1. Kc3 Bd1 $1 (1... Bd5 2. Rxf7 Bxf7 3. Kc2) 2. Rxf7 (2. Rd2 Rf3+ 3. Kc4 Rxf8)
+2... Kb1 3. Rf1 a1=Q+ 4. Kd3 Ka2) 1... Be4+ (1... Bd1+ 2. Kc1 Rh7 3. Rh2 Bh5 4.
+Bxe7) 2. Kc1 Rh7 {The interseting try, first see the main line} (2... Bf5 $5 3.
+Bxe7 (3. Bh6 e5) (3. Rxf5 Rxf5 4. Bg7 e5 5. Bh8 Rf1+ 6. Kc2 Re1 7. Bg7 Re4 8.
+Bh8 Rc4+) 3... Rxe7 4. Rxf5 Rc7+ 5. Kd2 Kb2 6. Rb5+ {In the twin position
+without Pa3 black wins.}) 3. Rh2 (3. Rf1 {sorry, unclear}) 3... Rf7 4. Rf2 Rxf2
+5. Bg7 Rf6 6. Bh8 $3 *
+
+[Event "?"]
+[Site "?"]
+[Date "1995.??.??"]
+[Round "?"]
+[White "4.Nezvyklÿ dvojí úder"]
+[Black "?"]
+[Result "*"]
+[PlyCount "0"]
+[EventDate "1995.??.??"]
+
+ *
+
+[Event "Bentûv jubilejní turnaj,"]
+[Site "?"]
+[Date "1989.??.??"]
+[Round "?"]
+[White "E.Vlasák, M.Hlinka"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4R3/N1r5/k4p2/3R1K1B/4r3/8/3n4/8 w - - 0 1"]
+[PlyCount "19"]
+[EventDate "1989.??.??"]
+
+1. Nb5 (1. Rxe4+ $2 Nxe4 2. Nb5 Rc5 $1 3. Kxe4 Kxb5 $11) 1... Rce7+ $1 (1...
+Rh7 2. Rxd2 Rxe8+ 3. Bxe8) (1... Rcc4 2. Rxd2 Rf4 3. Kg6 Kxb5 4. Be2) 2. Rxd2
+R4e5+ $1 3. Kxf6 R5e6+ 4. Kf5 $1 Re5+ 5. Kf4 Re4+ 6. Kg5 $1 R4e5+ 7. Kh4 Re4+
+8. Kh3 Re3+ 9. Kh2 {Çernÿ vyçerpal ¿achování a musí si nechat p edvést pointu.}
+Kxb5 10. Re2 $1 {Pochod krále byl jedinÿ, jinak by v podobné pozici çerné vêæe
+od¿achly.} *
+
+[Event "ùder"]
+[Site "?"]
+[Date "1989.??.??"]
+[Round "?"]
+[White "M.Hlinka, E.Vlasák"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/2p5/N3n1k1/8/6K1/1b4n1/N7/8 w - - 0 1"]
+[PlyCount "11"]
+[EventDate "1989.??.??"]
+
+1. Nc1 $1 (1. Nxc7+ $2 Nh5 $1 2. Nc1 Bd1) 1... Bc4 2. Nxc7+ Ne2 $1 {
+Pozoruhodnÿ dvojí úder!} 3. Nd3 $1 Bxd3 (3... Nxc7 4. Ne5) 4. Nxe6 Bf5 5. Kf3
+Ng1+ 6. Kg2 *
+
+[Event "Pravda-Tirnavia, hm"]
+[Site "?"]
+[Date "1989.??.??"]
+[Round "?"]
+[White "M.Hlinka"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/K2NnN2/1PB3k1/3p4/1n6/8 w - - 0 1"]
+[PlyCount "13"]
+[EventDate "1989.??.??"]
+
+1. Nfe3 (1. Nde3 Kf4 2. Bb3 Nc6 3. Kb5 Nxb4 4. Kxb4 d2 5. Kc3 d1=Q 6. Nxd1
+Nxd1+ 7. Bxd1 Kxf5) 1... Kf3 2. Bb3 $1 (2. Ba2 Nc6 3. Kb5 Nxb4 4. Kxb4 d2 5.
+Bb3 Ke2) 2... Nc6 (2... d2+ 3. b5 Ke2+ 4. b6 d1=Q+ 5. Nxd1 Nxd1 6. b7 Nd7+ 7.
+Nf6 Nb8 8. Kb6) 3. Kb6 $1 (3. Kb5 Nd4+) 3... Nxb4 (3... Nd4 $6 4. Nd1 Nxb3 5.
+Nxb2 Nd4 6. Kc5 Ke4 7. Nc3+ Ke3 8. Nc4+) 4. Nd1 $1 {The thematic domonation!}
+Na4+ 5. Kb5 (5. Bxa4 Nxd5+) 5... Nxd5 6. Bxd5+ Ke2 7. Bb3 *
+
+[Event "?"]
+[Site "?"]
+[Date "1995.??.??"]
+[Round "?"]
+[White "5.Paralelní syntéza"]
+[Black "?"]
+[Result "*"]
+[PlyCount "0"]
+[EventDate "1995.??.??"]
+
+ *
+
+[Event "Cs sach,"]
+[Site "?"]
+[Date "1987.??.??"]
+[Round "?"]
+[White "Hlinka, M VlasakE"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1B3r2/8/8/8/N5R1/p3b3/8/K1Nk4 w - - 0 1"]
+[PlyCount "13"]
+[EventDate "1987.??.??"]
+
+1. Bd6 Rf6 (1... Rd8 2. Bxa3 Bxc1+ 3. Rg1 Kc2 4. Rxc1+ Kb3 5. Be7 $1 Ra8 6.
+Rc3+ Kxa4 7. Ra3+) 2. Bxa3 Bxc1+ 3. Rg1 Kc2 4. Rxc1+ Kb3 5. Nb6 $1 Kxa3 (5...
+Rf2 6. Nc4 Ra2 7. Kb1 Rf2 8. Bb2) 6. Rc3+ Kb4 7. Nd5+ {Parallel synthesis of
+material saving.} *
+
+[Event "?"]
+[Site "?"]
+[Date "1995.??.??"]
+[Round "?"]
+[White "6.Vyhrají dvê dámy proti dvêma"]
+[Black "?"]
+[Result "*"]
+[PlyCount "0"]
+[EventDate "1995.??.??"]
+
+ *
+
+[Event "schema"]
+[Site "?"]
+[Date "1900.??.??"]
+[Round "?"]
+[White "E.Vlasák"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/Q7/1Q6/8/8/8/6pp/1K5k w - - 0 1"]
+[PlyCount "5"]
+[EventDate "1900.??.??"]
+
+1. Kb2 g1=Q 2. Qa8# Qg2+ 3. Qf2 *
+
+[Event "Prûboj"]
+[Site "?"]
+[Date "1985.??.??"]
+[Round "?"]
+[White "E.Vlasák, J.Pletánek"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/Q7/1Q6/8/2r5/8/6pp/1K5k w - - 0 1"]
+[PlyCount "6"]
+[EventDate "1985.??.??"]
+
+1. Kb2 g1=Q 2. Qa8+ Qg2+ 3. Qf2 Rg4 *
+
+[Event "Original fur Schwalbe"]
+[Site "?"]
+[Date "1992.??.??"]
+[Round "?"]
+[White "E.Vlasak, K.Husak"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/3PP2r/8/8/8/1p6/1K4pp/6k1 w - - 0 1"]
+[PlyCount "21"]
+[EventDate "1992.??.??"]
+
+1. e8=Q+ {Jetzt droht De1 Matt.} (1. d8=Q+ $2 Rxe7+ {Und Schwarz steht gut.})
+1... Kh1 $3 {Sehr gute Veteidigung!} (1... h1=Q $2 2. d8=Q {Am einfachsten,
+gut is auch De3+.} Qh5 (2... Qh4+ 3. Qxh4 Rxh4 4. Qe1+ Kh2 5. Qxh4+) 3. Qe1+
+Kh2 4. Qd6+) 2. d8=Q g1=Q+ {Weiss muss jetzt energisch spielen um
+Damenabtausch (h-Bauer!) zu vermeiden.} 3. Qd5+ $1 {Nach Da8 ware die
+Schlussidee unmoglich.} Qg2 4. Qe2 $3 {Die erste Pointe.} (4. Qxg2+ Kxg2 5.
+Qg6+ Kf1+ 6. Qxh7 Kg2 7. Qg6+ Kf2+ 8. Qh5 Kg2 9. Qg4+ Kf2+ 10. Qh3 Kg1 11. Qg3+
+Kh1 12. Kc3 b2 13. Qf2 b1=Q) 4... Rg7 $1 {Die gute Verteidigung. Es geht nicht
+Df1 Matt und droht schon wieder Damenabtausch.} 5. Qdd1+ Qg1+ 6. Qf3+ $1 (6.
+Qe4+ Rg2 7. Qde2 (7. Kc1 b2+) 7... Qf2+ $3 8. Qxf2 {Pat.}) 6... Rg2 7. Kxb3 $1
+{Zweite Pointe. Schwarz ist im Zugzwang.} (7. Kb1 Qxd1+ 8. Qxd1+ Rg1) (7. Ka3
+b2 8. Ka2 b1=Q+ 9. Kxb1 Qxd1+ 10. Qxd1+ Rg1) 7... Qxd1+ 8. Qxd1+ Rg1 9. Qf3+ {
+Oder Dd5.} Rg2 10. Qe4 $1 Kg1 11. Qe1# {Die Weiterentwicklung der Studie aus
+Ceskoslovensky sach 1991. Wir haben Finale etwas verandert um die doppelte
+weisse Umwandlung zu erreichen.} *
+
+[Event "?"]
+[Site "?"]
+[Date "1995.??.??"]
+[Round "?"]
+[White "7.Vêçnÿ ¿ach"]
+[Black "?"]
+[Result "*"]
+[PlyCount "0"]
+[EventDate "1995.??.??"]
+
+ *
+
+[Event "Vÿchodoslovenské noviny"]
+[Site "?"]
+[Date "1987.??.??"]
+[Round "?"]
+[White "M.Hlinka, E.Vlasák"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3k4/7R/8/8/8/P2K4/Prp1p1pR/8 w - - 0 1"]
+[PlyCount "24"]
+[EventDate "1987.??.??"]
+
+1. Rxg2 e1=N 2. Kd2 Nxg2 {With threat Ne1 or Ne3.} 3. Rh8+ $1 Kd7 {Black king
+has to control c file, but he cannot stand on this one. The well known motiv.}
+4. Rh7+ $1 Kd6 5. Rh6+ $1 Kd5 6. Rh5+ $1 (6. Rh8 Ne3 7. Rd8+ Kc6) 6... Kd4 7.
+Rh8 $1 {with perpetual.} Ne3 8. Rd8+ Kc4 9. Rc8+ Kd4 10. Rd8+ Nd5 11. Rc8 Nc3
+12. Rd8+ $1 Nd5 *
+
+[Event "Magyar Sakkélet ç.8,"]
+[Site "?"]
+[Date "1990.??.??"]
+[Round "?"]
+[White "M.Hlinka, E.Vlasák"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3K4/8/8/8/2k5/4p1r1/N7/4N3 w - - 0 1"]
+[PlyCount "17"]
+[EventDate "1990.??.??"]
+
+1. Nc1 $1 {Zabrañuje okamæitému Kc3.} (1. Kd7+ Rg1 2. Nc2 e2 3. Nab4 Rc1 4. Kd6
+Kc3) (1. Nc2 Kb3 $1 2. Nab4 e2 3. Nd4+ Kxb4 4. Nxe2 Rf3 $1 $19) 1... Rg1+ (1...
+Rh3 2. Ne2) (1... Rg8 2. Ke7+ Kc3 3. Na2+ $3 Kd2 4. Nf3+ Ke2 5. Nd4+) 2. Nc2
+Rd1+ 3. Ke7+ $3 (3. Kc7 Rxc1 4. Nxe3 Kd4+) 3... Kc3 4. Nxe3 Re1 5. Na2+ Kb3 6.
+Nc1+ Ka3 {Jinak vêçnÿ ¿ach.} 7. Kd6 Rxe3 8. Kd5 Kb2 9. Kd4 *
+
+[Event "?"]
+[Site "?"]
+[Date "1995.??.??"]
+[Round "?"]
+[White "8.Tajemství Liburkinova archiv"]
+[Black "?"]
+[Result "*"]
+[PlyCount "0"]
+[EventDate "1995.??.??"]
+
+ *
+
+[Event "z pozûstalosti"]
+[Site "?"]
+[Date "1995.??.??"]
+[Round "?"]
+[White "M.Liburkin"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "k4N1b/5Pn1/8/8/1K6/8/8/8 w - - 0 1"]
+[PlyCount "17"]
+[EventDate "1995.??.??"]
+
+1. Kc5 Kb7 2. Nh7 $3 (2. Nd7 Ne6+ 3. Kd6 Bg7 4. Kxe6 Kc6) (2. Kd5 Nf5 3. Ne6
+Ne7+ 4. Ke4 Ng6) 2... Ne6+ 3. Kd6 Bc3 (3... Bg7 4. Kxe6 Kc7 5. Kf5 Kd7 6. Kg6)
+4. Kxe6 Bb4 5. Kd7 $1 Ba3 6. Ke8 Kc6 7. Nf6 Bd6 8. Ng8 Kd5 9. Ne7+ *
+
+[Event "?"]
+[Site "?"]
+[Date "1995.??.??"]
+[Round "?"]
+[White "9.Miltnerovy maty"]
+[Black "?"]
+[Result "*"]
+[PlyCount "0"]
+[EventDate "1995.??.??"]
+
+ *
+
+[Event "Pruboj,"]
+[Site "?"]
+[Date "1986.??.??"]
+[Round "?"]
+[White "Miltner, V VlasakE"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/3k1B2/p7/2p5/1p6/p1N5/4K3 w - - 0 1"]
+[PlyCount "11"]
+[EventDate "1986.??.??"]
+
+1. Na1 $1 a4 2. Bb2 Kc5 (2... c3 3. Bxc3 Kc5 4. Kd2 Kc4 5. Bb2 Kb4 6. Kd3 $1 a3
+7. Bc3+ Ka4 8. Kc4 b2 9. Nb3 b1=Q 10. Nc5#) 3. Kd2 Kb4 4. Ba3+ $1 Kxa3 5. Kc3
+b2 6. Nc2# *
+
+[Event "?"]
+[Site "?"]
+[Date "1995.??.??"]
+[Round "?"]
+[White "10.Maty na zakázku"]
+[Black "?"]
+[Result "*"]
+[PlyCount "0"]
+[EventDate "1995.??.??"]
+
+ *
+
+[Event "Memorial Fritz and Pachman, comm"]
+[Site "?"]
+[Date "1985.??.??"]
+[Round "?"]
+[White "Vlasak, E."]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/6B1/5Q2/6K1/8/4p1pp/7k w - - 0 1"]
+[PlyCount "11"]
+[EventDate "1985.??.??"]
+
+1. Qf3 e1=Q 2. Be4 Qg1+ 3. Qe2 $1 {Zugzwang.} (3. Kg3 Qe3) (3. Kh4 Qf2+) (3.
+Bd5 Qd4) 3... Qf2+ 4. Qd1 Qg1+ 5. Bxg2 Kxg2 6. Qf3# *
+
+[Event "Schach"]
+[Site "?"]
+[Date "1983.??.??"]
+[Round "?"]
+[White "G.Amirjan"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/2p2K2/4B3/8/8/6p1/2P1Q2p/6qk w - - 0 1"]
+[PlyCount "17"]
+[EventDate "1983.??.??"]
+
+1. Bd5# g2+ 2. Ke6 c6 (2... c5 3. Bf3) 3. Be4 c5 4. Bf3 $3 c4 5. Kd5+ c3 6. Ke4
+Qf2 7. Qd1 Qg1 8. Bxg2 Kxg2 9. Qf3# *
+
+[Event "3.WCCT,"]
+[Site "?"]
+[Date "1986.??.??"]
+[Round "?"]
+[White "Polasek, J VlasakE"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6n1/2B2P2/8/8/3k1K2/2p5/8/1Nn5 b - - 0 1"]
+[PlyCount "14"]
+[EventDate "1986.??.??"]
+
+1... Ne2 2. Kf3 c2 3. Nd2 Kd3 4. fxg8=Q c1=Q 5. Qd5+ Kc2 (5... Nd4+ 6. Qxd4+ $1
+) 6. Qe4+ Kxd2 7. Ba5+ Nc3 8. Qe2# *
+
+[Event "?"]
+[Site "?"]
+[Date "1995.??.??"]
+[Round "?"]
+[White "11.Záhadná baterie"]
+[Black "?"]
+[Result "*"]
+[PlyCount "0"]
+[EventDate "1995.??.??"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "1994.??.??"]
+[Round "?"]
+[White "Husák, Vlasák Hlinka"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3r4/1R3BPk/8/2B3P1/8/2r5/2b5/7K w - - 0 1"]
+[PlyCount "23"]
+[EventDate "1994.??.??"]
+
+1. g8=Q# (1. Bf8 Be4 2. Kg1 Rg3+ 3. Kf2 Rxg5) (1. Rc7 Kxg7 2. Bd4+ Rxd4 3. Rxc3
+Kxf7) (1. g8=R# Be4 2. Kg1 Bxb7 3. g6 Kh6 4. Bf8+ Rxf8 5. Rxf8 Rc8) (1. g8=B
+Kh8 $1 (1... Kg7 $2 2. Rc7) 2. Be7 Be4 3. Kg1 Rxg8 4. Bf6+ Rg7 5. Rb8+ (5.
+Bxg7+ Kxg7 6. Bd5+ Kg6) (5. Bxc3 Bxb7 6. g6 Be4 7. Kf2 Bxg6 8. Bxg6 Kg8) 5...
+Kh7 6. g6+ Bxg6 7. Bxc3 Bxf7+ $1) 1... Rxg8 2. Bh5+ $3 {Jedinê na toto
+exponované pole, jak ukazují varianty} (2. Be8 Rg7 3. Rxg7 Kxg7 4. Bd4+ Kf8) (
+2. Ba2 Kg6 $1 3. Rb6+ Kh5 4. Bxg8 Rxc5) 2... Rg7 $1 3. Rxg7 Kh8 $3 {Vÿbornÿ
+záchrannÿ pokus, visí oba st elci.} 4. Bd4 (4. Rc7 Rh3 5. Kg2 Rxh5 6. Bd4+ Kg8
+7. Rxc2 Rxg5+) 4... Rh3 5. Kg1 $3 {Smysl tohoto tahu se vyjasní dále.} Rxh5 6.
+Bf6 $1 {Ani zde nelze ztrácet ças jinÿmi manévry st elce, coæ bude objasnêno.}
+(6. Rc7+ Kg8 7. Rxc2 Rxg5+) 6... Bf5 7. Kg2 $1 {Vznikla pozice vzájemného
+zugzwangu! Kdyby bílÿ pokraçoval 5.Kg2?, byl by na tahu a nemohl by zabránit
+proniknutí çerné vêæe na h1. To spolu s tempováním Sf5-b1 a patovÿmi motivy
+çerného zachrañuje, jak ukazují varianty} Be4+ (7... Rh7 8. Rg6+) (7... Bh7 8.
+Rg6#) (7... Rh3 8. g6) (7... Rh4 8. g6 Bxg6 (8... Rg4+ 9. Kf3) 9. Ra7+ Kg8 10.
+Bxh4) 8. Kg3 Bf5 9. Kf4 Rh4+ (9... Rh1 10. Ra7+ Kg8 11. Kxf5) 10. Ke5 $1 (10.
+Kxf5 Rf4+ 11. Ke5 Rf5+ $1 (11... Rxf6 $2 12. Rh7+ $1) 12. Ke6 Rxf6+) 10... Re4+
+(10... Be4 11. Re7+ {Nejjednodu¿¿í.} Kg8 12. g6 Rh5+ 13. Kxe4) 11. Kd6 {
+Sloæitê vyhrává i Kd5.} Re6+ (11... Rg4 12. g6) 12. Kd5 {a vyhraje.} *
+
+[Event "Originál"]
+[Site "?"]
+[Date "1993.??.??"]
+[Round "?"]
+[White "K.Husák a E.Vlasák"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "7k/4B1pb/6R1/4r1PK/8/8/7P/8 w - - 0 1"]
+[PlyCount "17"]
+[EventDate "1993.??.??"]
+
+1. Rxg7 $1 {Vynuceno.} Re2+ $1 (1... Kxg7 2. Bf6+ Kf7 3. Bxe5 {A pomêrnê
+snadno vyhraje.} Ke6 {Nejlep¿í ¿ance} (3... Bc2 4. Bc3 Ke6 {Musí zabránit g6 a
+Kg5.} 5. g6 Kf5 6. g7 Bb3 7. Kh6 Bg8 8. Bb2 {Tempo.} Kg4 9. Kg6 Kh3 10. Be5 Kg4
+11. Bg3 Kh3 12. Kf6 Kg4 13. Ke7 Kg5 14. Kf8) 4. g6 {Nejrychlej¿í.} Bg8 5. Kg5
+Kxe5 6. h4 Ke6 7. h5 Ke7 8. h6 Kf8 9. Kf6 Bf7 10. h7 Bxg6 11. h8=Q#) (1... Bf5
+2. Bf6 Re4+ (2... Re6+ 3. Kh6) 3. g6 Bxg6 4. Rxg6 Kh7 5. Rg7+ Kh8 6. Rg4+) (
+1... Bc2 2. Bf6 Bd1 3. Kh6) 2. Bf6 (2. Rf7 Rxh2 3. Kg4 Bc2 4. Bf6 Kg8 5. Rg7+
+Kf8) 2... Rxh2 (2... Be4 3. h4 Bf3+ 4. Kh6) 3. Kg4 Bf5+ $1 {Jediná moænost
+pokraçovat!} 4. Kf4 $1 {Musí dræet kontakt se st elcem, aby ho hrozil vzít po
+od¿achu.} (4. Kg3 Rh1 {Poziçní remis çíslo 1.}) (4. Kxf5 Rf2+ 5. Ke5 Rf5+ $3 (
+5... Rxf6 6. Rh7) 6. Ke6 Rxf6+ 7. Kxf6) 4... Rf2+ $1 {Nejlep¿í moænost.} (4...
+Rh4+ 5. Ke5 $1 {A vyhraje, nap íklad} Re4+ (5... Be4 6. Re7+ Kg8 7. g6) 6. Kd6
+Re6+ (6... Rf4 7. Ke7# Re4+ 8. Kf8#) (6... Rh4 7. g6 Bxg6 8. Ra7 Kg8 9. Bxh4)
+7. Kd5) 5. Ke3 $1 (5. Kg3 Rf1 {Poziçní remis çíslo 2.}) (5. Ke5 Rf1 {A nestaçí
+zabránit Sb1 s pozicemi poziçních remis ç 1 a 2.}) 5... Rh2 {Opêt nejlep¿í!} (
+5... Rf1 {Zde tento tah na rozdíl od pozic s Kg3 nestaçí, protoæe Sd4 bude
+kryt.} 6. Bd4 {Hrozí 7.g6 Sxg6 8.Vf7.} Re1+ (6... Bd3 7. Rc7 Kg8 8. Kxd3) 7.
+Kd2 Re4 8. Bc3 Rf4 9. g6 Rf2+ (9... Bxg6 10. Rf7) 10. Ke3) 6. Be5 $1 {Jedinÿ
+tah, vyuæívající postavení vêæe na druhé adê. P i Vh1 by byla pozice remízová.}
+(6. Kd4 Rh1 $1) (6. Bd4 Rh3+ 7. Kf2 Bd3 8. Kg2 (8. Bf6 Bf5 9. Ba1 Rh1 10. Bf6
+Bb1) 8... Rh5 $1 9. Bf6 Bf5 10. Ba1 Bb1 11. Bf6 Bf5 12. Kg3 Rh1) 6... Rh3+ 7.
+Kf4 {a vyhraje, nap íklad} Rh4+ (7... Bd3 8. Bf6 $1 {nejrychlej¿í!} Rh4+ 9. Kg3
+) 8. Kxf5 Rf4+ 9. Bxf4 *
+
+[Event "Analÿza studie Husák a Vlasák"]
+[Site "?"]
+[Date "1993.??.??"]
+[Round "?"]
+[White "Nevÿhoda tahu"]
+[Black "çernÿ na tahu"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "7k/6R1/5B2/5bPr/8/8/6K1/8 b - - 0 1"]
+[PlyCount "10"]
+[EventDate "1993.??.??"]
+
+1... Be4 {Çernÿ je v této pozici ve vzájemné nevÿhodê tahu. Viz téæ dal¿í
+moænosti v poznámkách.} (1... Rh7 2. Rg6) (1... Bh7 2. Rg6) (1... Rh3 2. g6
+Bxg6 3. Kxh3) (1... Rh4 2. g6 Bxg6 (2... Rg4 3. Kf3 Bxg6 4. Rxg6 Kh7 5. Rxg4)
+3. Ra7 Kg8 4. Bxh4) 2. Kg3 Bf5 3. Kf4 Rh4+ $1 (3... Rh1 4. Ra7 Kg8 5. Kxf5) 4.
+Ke5 $1 (4. Kxf5 Rf4+ 5. Ke5 $5 Rf5+ $1 (5... Rxf6 6. Rh7 Kxh7 7. Kxf6) 6. Ke6
+Rxf6+) 4... Re4+ (4... Be4 5. Re7+ {Nejjednodu¿¿í.} Kg8 6. g6 Rh5+ 7. Kxe4) 5.
+Kd6 Re6+ (5... Rh4 6. g6) 6. Kd5 $1 $18 1-0
+
+[Event "Analÿza studie Husák a Vlasák."]
+[Site "?"]
+[Date "1993.??.??"]
+[Round "?"]
+[White "Nevÿhoda tahu"]
+[Black "bílÿ na tahu."]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "7k/6R1/5B2/5bPr/8/8/6K1/8 w - - 0 1"]
+[PlyCount "14"]
+[EventDate "1993.??.??"]
+
+1. Kg3 {Bílÿ na tahu z ejmê nemûæe vyhrát. Varianty jsou sloæité, viz téæ
+dal¿í vedlej¿í moænosti bílého.} (1. g6 Bxg6 $1 2. Rxg6 Kh7 {Tato pozice je
+remis podle databanky.}) (1. Kg1 Rh3 $1 2. Ba1 Bd3 3. Bd4 (3. Kg2 Bf1+ 4. Kf2
+Bd3 5. Kg1 Be4 $1) 3... Be4 $1 {A dosáhne ideální obranné postavení s vêæí na
+h1.} 4. Re7+ Kg8 5. Rxe4 Rg3+ 6. Kf2 Rxg5) (1. Bb2 Bb1 2. Ba1 Be4+ 3. Kg3 Rh1
+4. Bf6 Bf5 {Viz dále.}) (1. Bc3 Bc2 2. Kg3 Rh1 3. Kf4 Rf1+ 4. Ke3 Rh1 {Ani
+takhle král nepronikne na f8.} 5. Bf6 Bf5 6. Kd4 Rd1+ {Viz hlavní variantu.})
+1... Rh1 {Základní remízová pozice, a je na tahu kdokoli.} 2. Kf4 (2. Kg2 Be4+
+3. Kf2 Bf5 4. Kg3 {Teâ je na tahu çernÿ!} Bb1 (4... Rf1 {Druhá moæná obrana,
+ale sloæitêj¿í.} 5. Be5 Re1 6. Bd4 Rd1 7. Bf6 Rf1 8. Kg2 Bh3+ 9. Kg3 Bf5 10.
+Kh2 {Vytlaçil çernou vêæ, ale zde to nepomáhá.} Rf3 $1 11. Kg2 Be4 $1 12. Kg1
+Bf5 13. Kg2 Be4 14. Kh2 Bf5 15. Kg1 Rh3 16. Kg2 Rh5) 5. Bb2 Rh5 $1 6. Kg4 Rh1
+7. Bf6 Bf5+) 2... Rf1+ 3. Ke5 Re1+ $1 4. Kd6 (4. Kxf5 Rf1+ 5. Ke5 Rf5+ $1 6.
+Ke6 Rxf6+) 4... Rd1+ 5. Kc7 (5. Ke7# Rd7+) 5... Rc1+ 6. Kb7 Rb1+ 7. Ka7 Rh1 $1
+{Vêæ na h sloupci má ideální postavení, hrozí Vh7 nebo dal¿í ¿achování. Bílÿ
+král na f8 tedy nepronikne.} 1-0
+
+[Event "JT Dobrescu"]
+[Site "?"]
+[Date "1994.??.??"]
+[Round "?"]
+[White "Nestorescu, V."]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5r2/7k/8/2p4n/K1B3R1/4P3/8/8 w - - 0 1"]
+[PlyCount "13"]
+[EventDate "1994.??.??"]
+
+1. Bd3 Kh6 2. Rg6+ Kh7 3. Kb3 (3. Kb5 Rf7 4. Kxc5 (4. Kc4 Ng7) 4... Rg7 5. Re6+
+Kg8 6. Bg6 Rc7+ 7. Kd5 Ng7) 3... Rf7 4. Kc3 c4 5. Be4 {zugzwang} Rg7 (5... Rf8
+6. Kxc4 Rf7 7. Kd4 Rg7 8. Rd6+ Kg8 9. Bg6) 6. Re6+ Kg8 7. Bg6 *
+
+[Event "?"]
+[Site "?"]
+[Date "1995.??.??"]
+[Round "?"]
+[White "12.Jedna z nejtêæ¿ích koncovek"]
+[Black "?"]
+[Result "*"]
+[PlyCount "0"]
+[EventDate "1995.??.??"]
+
+ *
+
+[Event "Magyar Sakkélet ç.3"]
+[Site "?"]
+[Date "1989.??.??"]
+[Round "?"]
+[White "J.Polá¿ek, E.Vlasák"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3rnKR1/8/8/4k2n/8/8/5P2/8 w - - 0 1"]
+[PlyCount "13"]
+[EventDate "1989.??.??"]
+
+1. Ke7+ Rd7+ $1 2. Kxd7+ Nef6+ 3. Kd8+ $3 {Tempové manévry krále se vyjasní v
+závêru.} Nxg8 4. f4 Ke4 $5 5. Kd7 Kf5 6. Ke8 {Vzájemná nevÿhoda tahu, zaloæená
+na teoretické pozici se zablokovanÿm pê¿cem na f5. Jde o mezní p ípad. Bílÿ
+dosáhne remízy jen tehdy, vybojuje-li pole h8.} Nh6 (6... Ngf6+ 7. Kf7 {
+Vzájemnÿ zugzwang.}) (6... Kg4 7. Kf8 $1 Ngf6 8. Ke7 $1 Kf5 9. Kf7) 7. Kf8 {
+Vzájemnÿ zugzwang.} *
+
+[Event "?"]
+[Site "?"]
+[Date "1995.??.??"]
+[Round "?"]
+[White "13.Jak p ekonat poziçní remízu"]
+[Black "?"]
+[Result "*"]
+[PlyCount "0"]
+[EventDate "1995.??.??"]
+
+ *
+
+[Event "Schach"]
+[Site "?"]
+[Date "1987.??.??"]
+[Round "?"]
+[White "Hlinka, M VlasakE"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1k1r4/8/R1BpP3/3pP3/7r/3p4/8/4K3 w - - 0 1"]
+[PlyCount "25"]
+[EventDate "1987.??.??"]
+
+1. e7+ Re8 $1 2. Ra8+ (2. exd6+ Rxe7+ 3. dxe7+ Re4+) 2... Kc7 3. Bxe8 $1 Re4+
+4. Kd2 Re2+ $1 5. Kc3 $3 d4+ 6. Kxd3 Re3+ 7. Kc4 $1 Rxe5 8. Ra7+ Kb6 9. Rd7 Kc6
+$1 10. Kxd4 {The mysterious manoevre ends with Zugzwang. BR have to move and W
+can break the positional draw.} Re1 (10... Re6 11. Ra7+ Kb6 12. Bf7) 11. Ra7+
+Kb6 12. Bg6 $1 Re5 13. Rd7 *
+
+[Event "Memorial Fritz and Pachman, comm"]
+[Site "?"]
+[Date "1985.??.??"]
+[Round "?"]
+[White "Hlinka, M VlasakE"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5bk1/8/2RP4/Br2p3/4p3/7K/8/8 w - - 0 1"]
+[PlyCount "19"]
+[EventDate "1985.??.??"]
+
+1. d7+ Be7 2. Re6+ Bd8 3. Bxd8 Rd5 4. Re7+ $1 Kf8 $1 {Positional draw? No!} 5.
+Kg2 $3 (5. Kg3 $2 e3 6. Kf3 Rd3 7. Ke2 e4 8. Ke1 Rd5 $1) 5... e3 (5... Rd3 6.
+Kg1 $1 Rg3+ 7. Kh2 $1 Rd3 8. Kg2) 6. Kf1 $1 e4 7. Ke1 $1 {Zugzwang.} Rd2 (7...
+Rd4 8. Rh7 Kg8 9. Bb6) (7... Rd6 8. Rh7 Kg8 9. Bc7) 8. Rh7 Kg8 9. Ba5 $3 Rd5
+10. Re7 *
+
+[Event "?"]
+[Site "?"]
+[Date "1995.??.??"]
+[Round "?"]
+[White "14.Pruæina"]
+[Black "?"]
+[Result "*"]
+[PlyCount "0"]
+[EventDate "1995.??.??"]
+
+ *
+
+[Event "Kachmaty v SSSR ç.6, pochvalná zmínka"]
+[Site "?"]
+[Date "1988.??.??"]
+[Round "?"]
+[White "M.Hlinka, E.Vlasák"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1k6/8/2b5/8/R1P1r3/8/1p4K1/8 w - - 0 1"]
+[PlyCount "19"]
+[EventDate "1988.??.??"]
+
+1. Rb4 Kc8 (1... Kc7 2. Kf2 Rg4 3. Ke3 Rg2 4. Kd3 $1 {A remis, nap .} (4. Kd4
+$2 Rc2 {Hrozí Se8.} 5. Kd3 Ba4 $19) 4... Ba4 5. Kc3 Rc2+ 6. Kd3) 2. Kf2 (2. Kf1
+Rh4 $19) 2... Rg4 $1 3. Ke3 Rg2 4. Kd4 $1 {A remis, nap .} (4. Kd3 $2 Ba4 $1 5.
+Kc3 Rc2+ 6. Kd3 Kc7 {Centrální vzájemná nevÿhoda tahu!} 7. Kd4 (7. Rb5 Rh2 8.
+Rb4 Rh3+) (7. c5 Kc6 8. Rb8 Kxc5 {A vyhraje obchodem krále.}) 7... Be8) 4...
+Rc2 (4... Ba4 5. Rb6 $1 Kc7 6. Rb4 Kc6 7. Rb8 Rh2 8. Kc3 Rc2+ 9. Kd3 Kc7 10.
+Rb4) 5. Kd3 Ba4 6. Rb6 Kd7 7. Rb7+ $1 Kc6 8. Rb8 $1 Kd6 9. Rb6+ Kc7 10. Rb4 $1
+*
+
+[Event "?"]
+[Site "?"]
+[Date "1995.??.??"]
+[Round "?"]
+[White "15.Dvojník"]
+[Black "?"]
+[Result "*"]
+[PlyCount "0"]
+[EventDate "1995.??.??"]
+
+ *
+
+[Event "'64' ç.20,"]
+[Site "?"]
+[Date "1989.??.??"]
+[Round "?"]
+[White "M.Hlinka, E.Vlasák"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/r7/b1B5/2K1k3/2n5/P7/8/4N3 w - - 0 1"]
+[PlyCount "13"]
+[EventDate "1989.??.??"]
+
+1. Nd3 Ke6 $1 {Kryje d6, jinak Jb4.} (1... Kf6 2. Nb4 Ne5 3. Kb6 Nxc6 4. Nxa6
+Ra8 5. Kb7 Ra7+ 6. Kb6 Ke5 7. Nb4 $1) 2. Bd5+ $3 (2. Nb4 $6 Nd6 3. Bd5+ (3. Kb6
+Nc8+) 3... Kd7 4. Bc6+ (4. Nc6 Rc7 5. Kb6 Bc4) 4... Ke7 $1 5. Nd5+ Ke6 6. Nf4+
+Kf5) 2... Kd7 $1 {Kryje c7.} (2... Ke7 3. Bxc4 Rc7 4. Kb6) 3. Bxc4 Rc7 4. Kd4
+$3 Rxc4+ (4... Bxc4 5. Ne5+) 5. Kd5 {Pointa, tuto pozici nemûæe çernÿ vyhrát!}
+Kc7 6. Nc5 Bb5 7. a4 $1 *
+
+[Event "'64' ç.20,"]
+[Site "?"]
+[Date "1989.??.??"]
+[Round "?"]
+[White "M.Hlinka, E.Vlasák"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/r7/b1B5/2K1k3/2n1P3/8/8/4N3 w - - 0 1"]
+[PlyCount "21"]
+[EventDate "1989.??.??"]
+
+1. Nd3 Ke6 2. Nb4 $1 {Zde je v¿e právê naopak.} (2. Bd5+ Kd7 3. Nb4 Ne3 $3 4.
+Kb6 Nxd5+ 5. exd5 Rb7+) 2... Nd6 3. Bd5+ $1 (3. e5 $5 Kxe5 4. Bd5 Bb7 $1 5.
+Bxb7 (5. Nd3+ Kf6 6. Kxd6 Ra6+ $1 7. Kc5 Ra5+) 5... Nxb7 $1 6. Kb6 Ra3 $1 7.
+Nc6+ Kd6 8. Kxb7 Rb3+) 3... Kd7 4. Bc6+ Ke7 5. Nd5+ Ke6 6. Nf4+ Ke5 7. Ng6+ Kf6
+8. e5+ $1 Kxg6 9. exd6 Bc8 $1 10. d7 $1 (10. Kb6 $2 Rg7 11. Be8+ Kf6 12. Kc6
+Ke6) 10... Bxd7 11. Kb6 *
+
+[Event "?"]
+[Site "?"]
+[Date "1995.??.??"]
+[Round "?"]
+[White "16.Dostihy se t emi dámami"]
+[Black "?"]
+[Result "*"]
+[PlyCount "0"]
+[EventDate "1995.??.??"]
+
+ *
+
+[Event "Cs sach,"]
+[Site "?"]
+[Date "1985.??.??"]
+[Round "?"]
+[White "Vlasak, E."]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/2K4k/2n4P/3B4/Pp6/8/7p/8 w - - 0 1"]
+[PlyCount "17"]
+[EventDate "1985.??.??"]
+
+1. Be4 $1 (1. Bxc6+ b3 2. a5 b2 3. a6 (3. Be4 Kh8 $1 4. a6 b1=Q+ 5. Bxb1 h1=Q+
+6. a7 Qc1+) 3... b1=Q+ 4. a7 Qc2 $1 $19) 1... Kxh6 2. Bxc6 b3 3. a5 b2 4. a6
+b1=Q+ 5. a7 Qh7 6. Kb6 Qb1+ 7. Kc7 Qc2 8. a8=Q h1=Q 9. Qh8+ {Prepared in first
+move!} *
+
+[Event "?"]
+[Site "?"]
+[Date "1995.??.??"]
+[Round "?"]
+[White "17.Herní cviçení"]
+[Black "?"]
+[Result "*"]
+[PlyCount "0"]
+[EventDate "1995.??.??"]
+
+ *
+
+[Event "Sachove umeni,"]
+[Site "?"]
+[Date "1979.??.??"]
+[Round "?"]
+[White "Vlasak, E."]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/5p2/8/3P1p1P/8/5P2/p1p2PQb/k3K3 w - - 0 1"]
+[PlyCount "21"]
+[EventDate "1979.??.??"]
+
+1. Kd2 Kb2 2. Qg7+ Kb1 3. Qa1+ $1 Kxa1 4. Kc1 $1 (4. Kxc2 Bf4 {Zugzwang.} 5. d6
+(5. h6 Bxh6 6. d6 Bf8 7. d7 Be7 8. Kc1 Bh4 9. Kc2 Bg5 $19) 5... Bxd6 6. h6 Be5
+7. h7 Bb2 $1 $19) 4... Bb8 5. f4 $1 Bc7 6. Kxc2 Bxf4 7. f3 f6 8. d6 (8. h6 Bxh6
+9. d6 Bf8 10. d7 Be7 11. Kc1 $11) 8... Bxd6 9. h6 Bf8 10. h7 Bg7 11. f4 $1 *
+
+[Event "?"]
+[Site "?"]
+[Date "1995.??.??"]
+[Round "?"]
+[White "18.Fritzova ro¿áda"]
+[Black "?"]
+[Result "*"]
+[PlyCount "0"]
+[EventDate "1995.??.??"]
+
+ *
+
+[Event "Ná¿ rozhlas"]
+[Site "?"]
+[Date "1939.??.??"]
+[Round "?"]
+[White "J.Fritz"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1N6/8/8/1r1pk3/8/8/1P6/R3K3 w Q - 0 1"]
+[PlyCount "7"]
+[EventDate "1939.??.??"]
+
+1. Nc6 Kd6 2. Na5 Rxb2 3. Nc4+ dxc4 4. O-O-O+ *
+
+[Event "Prûboj"]
+[Site "?"]
+[Date "1988.??.??"]
+[Round "?"]
+[White "E.Vlasák podle Fritze"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1N6/4k3/8/1r1p4/8/8/1N6/R3K3 w Q - 0 1"]
+[PlyCount "7"]
+[EventDate "1988.??.??"]
+
+1. Nc6 Kd6 2. Na5 Rxb2 (2... Kc5 3. Na4+ Kb4 4. Nc6+ Kb3 5. Nd4+) (2... Kc7 3.
+Ra2 Kb6 4. Na4+) 3. Nc4+ dxc4 4. O-O-O+ *
+
+[Event "?"]
+[Site "?"]
+[Date "1995.??.??"]
+[Round "?"]
+[White "19.Efekty dvou jezdcû"]
+[Black "?"]
+[Result "*"]
+[PlyCount "0"]
+[EventDate "1995.??.??"]
+
+ *
+
+[Event "Sachove umeni"]
+[Site "?"]
+[Date "1978.??.??"]
+[Round "?"]
+[White "Vlasak, E."]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/3N3B/8/1p6/2kp1pK1/2N5 w - - 0 1"]
+[PlyCount "7"]
+[EventDate "1978.??.??"]
+
+1. Nxb3 f1=Q+ 2. Kxf1 d1=Q+ 3. Bxd1 Kxd1 4. Ne3# *
+
+[Event "ts23"]
+[Site "?"]
+[Date "1951.??.??"]
+[Round "?"]
+[White "Sobolevski, P."]
+[Black "\[+0045.00h3f7\]"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "8/5k1N/5BN1/8/8/7K/6nb/8 w - - 0 1"]
+[PlyCount "21"]
+[EventDate "1951.??.??"]
+
+1. Nh8 $1 (1. Ngf8 Bd6) 1... Kg8 $1 2. Kxg2 (2. Kxh2 Ne3) 2... Bf4 $1 3. Ng6
+Bh6 $1 4. Ng5 Bg7 5. Ne7+ $1 (5. Bd8 Bf6) 5... Kh8 6. Nf7+ Kh7 7. Bh4 $1 Bf6 8.
+Ng5+ Kh6 9. Ng8+ Kh5 10. Nxf6+ $3 Kxh4 11. Nf3# 1-0
+
+[Event "3.hm tl10"]
+[Site "?"]
+[Date "1967.??.??"]
+[Round "?"]
+[White "Badai, B."]
+[Black "\[+0402.11f1f5\]"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "8/8/7R/5k1N/7P/2r5/2N4p/5K2 w - - 0 1"]
+[PlyCount "13"]
+[EventDate "1967.??.??"]
+
+1. Nd4 Kg4 2. Kg2 h1=Q+ 3. Kxh1 Rh3+ 4. Kg2 Rxh4 5. Nf6+ Kg5 6. Rxh4 Kxh4 7.
+Nf3# 1-0
+
+[Event "1.hm tc13"]
+[Site "?"]
+[Date "1975.??.??"]
+[Round "?"]
+[White "Makletsov, J."]
+[Black "\[+3501.20h2h6\]"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "4q3/8/1r4Pk/8/5R1P/8/6RK/4N3 w - - 0 1"]
+[PlyCount "11"]
+[EventDate "1975.??.??"]
+
+1. g7 Rg6 2. Rxg6 Qxg6 3. Rf6 $1 Qxf6 4. g8=N Kh5 5. Nxf6+ Kxh4 6. Nf3# 1-0
+
+[Event "Sachove umeni,"]
+[Site "?"]
+[Date "1980.??.??"]
+[Round "?"]
+[White "Vlasak, E."]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/3n1K2/5p2/8/5N2/4BNk1 w - - 0 1"]
+[PlyCount "11"]
+[EventDate "1980.??.??"]
+
+1. Nd2 Ne3 2. Kxf4 Nc2 $1 (2... Ng2+ 3. Kg4) 3. Kf3 $3 Nxe1+ 4. Kg3 {Zugzwang.}
+Nd3 5. Nh3 Kh1 6. Ne4 *
+
+[Event "Sachove umeni"]
+[Site "?"]
+[Date "1983.??.??"]
+[Round "?"]
+[White "Vlasak, E."]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4K3/8/2P4n/1r1P1k2/8/5P2/8/5n2 w - - 0 1"]
+[PlyCount "15"]
+[EventDate "1983.??.??"]
+
+1. c7 (1. d6 Rb8 2. Kd7+ (2. Ke7+ Ng8+ 3. Kd7+ (3. Kf7+ Ke5) 3... Nf6+ 4. Kc7
+Rh8 5. d7+ Ne3 6. d8=Q+ Ned5+ 7. Kc8 Ne7+ 8. Kc7+ Nfd5+ 9. Kd7+ Rxd8+ 10. Kxd8+
+Nxc6+ 11. Kd7+ Ne5+ 12. Kd6 Nf4) 2... Nf7 3. c7+ Ne5+ (3... Rh8 {ale ne} 4.
+c8=Q+ Rxc8 5. Kxc8 Nxd6+ 6. Kd7+ {tak vznikla studie z kapitoly Jedna z
+nejtêæ¿ích koncovek}) 4. Ke7+ Rc8 5. f4 Kxf4 6. Ke6 Re8+) 1... Rc5 2. d6 (2.
+Kd7+ Ne3 3. d6 Nc4 4. Ke7+ Ng8+) 2... Ke6 (2... Ng8 3. Kd8 (3. d7 Rxc7 4. d8=Q
+Nf6+ 5. Kf8 Rd7 6. Qc8 Ne3 7. f4 {s hrozbou patu}) 3... Nf6 4. d7) 3. d7 Rg5 4.
+d8=N+ Kd6 5. c8=N+ Kd5 6. Nb6+ Ke5 7. f4+ Kxf4 8. Ne6+ *
+
+[Event "?"]
+[Site "?"]
+[Date "1995.??.??"]
+[Round "?"]
+[White "20.Téma pawnpusher"]
+[Black "?"]
+[Result "*"]
+[PlyCount "0"]
+[EventDate "1995.??.??"]
+
+ *
+
+[Event "Pruboj,"]
+[Site "?"]
+[Date "1984.??.??"]
+[Round "?"]
+[White "Vlasak, E."]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "K4k2/8/1b1p4/1r1Pp3/4Pp1p/5PpP/PPN3P1/6B1 w - - 0 1"]
+[PlyCount "15"]
+[EventDate "1984.??.??"]
+
+1. b4 $1 (1. Bxb6 Rxb6 2. b3 Ra6) 1... Bxg1 (1... Bc7 2. a4 Rb8 3. Ka7 Ke8 (
+3... Re8 4. b5 Ba5 5. Ka6 Ra8+ 6. Kb7 Re8 7. Ka6 Bd2 8. Ba7) 4. b5 Rc8 5. Kb7
+Kd7 6. Nb4 Ba5 7. Nc6) 2. a4 Rb6 (2... Rxd5 3. exd5 e4 4. Ne1 Bf2+ 5. b5 Bxe1
+6. b6 Ba5+ 7. b7 Bc7 8. a5 exf3 9. a6 fxg2 10. a7 g1=Q# 11. b8=Q+ {s vêçnÿm
+¿achem.}) 3. b5 Bc5 (3... Ke8 4. Na3 Kd7 5. Nc4 Kc7 6. Nxb6 Kxb6 (6... Bxb6 7.
+a5 Bxa5+ 8. Ka7 Bb6+ 9. Ka6) 7. Kb8 Bc5 8. Kc8 Ka5 9. Kc7) 4. Na3 (4. Na1 Ke8
+5. Nb3 Kd7 6. Na5 Kc8 7. Nc6 Rb7) (4. Nb4 Bxb4+ 5. Ka7 Ba5) 4... Bxa3 5. Ka7
+Bc5 6. a5 Rxb5+ (6... Rc6+ 7. Kb7) 7. Ka6 Rxa5+ 8. Kxa5 *
+
+[Event "Original for Shakend Nederlands"]
+[Site "?"]
+[Date "1992.??.??"]
+[Round "?"]
+[White "Vlasak, Husak"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "7K/2prNrPP/1p1p3k/1pP3p1/1P4p1/3NP1P1/8/8 w - - 0 1"]
+[PlyCount "23"]
+[EventDate "1992.??.??"]
+
+1. Ne5 $1 (1. cxd6 cxd6 2. g8=N Kh5 3. e4 Rd8 $1 (3... Rfxe7 4. Nxe7 Rxe7 5.
+Kg8 Kg6 6. h8=N+ Kf6 7. Nf2) 4. e5 (4. Nc6 Rc8 5. Nce5 dxe5 6. Nxe5 Ra7 7. Nd3
+Rcc7) (4. Nf5 Rb7 {Zugzwang, good is also Kg6.} 5. Ne5 {Else Kg6.} dxe5 6. Nfe7
+Re8 7. Kg7 Rexe7+ 8. Nxe7 Rxe7+ 9. Kg8 Kg6) 4... Rxe7 5. exd6 Ra7 6. Ne5 Rxd6)
+(1. g8=Q+ Rdxe7) 1... dxe5 2. c6 $3 (2. g8=Q+ Rdxe7) (2. g8=N Kh5 3. Nf6+ (3.
+c6 Rdxe7 4. Nxe7 Rxe7 5. Kg8 Kg6) 3... Rxf6 4. Kg8 Rxe7 5. h8=Q+ Kg6) (2. Ng8
+Kg6 3. c6 Rxg7) (2. e4 Rfxe7 $1 3. c6 Rxg7) 2... Rdxe7 (2... Rd8 3. Ng8 $3 (3.
+g8=N Kh5 4. e4 $5 Rd6 5. Nf5 Kg6 6. Nfe7+ Rxe7 7. Nxe7+ Kf7 8. Ng8 Rxc6) 3...
+Kg6 (3... Kh5 4. e4 Rd6 5. Nf6+ $1 {Draw, for example:} (5. Ne7 Rxe7 6. g8=Q
+Rh6 7. Qg7 Re8 8. Qg8 Rxg8 9. Kxg8 Kg6) 5... Rdxf6 (5... Rfxf6 6. g8=Q Rg6 (
+6... Rxc6 7. Kg7 Rg6+ 8. Kf7) 7. Qf8 $1 Rxc6 (7... Rd3 8. Qe7 Rxg3 9. Qxg5+) 8.
+Qf1 Rh6 $1 (8... Rgf6 9. Kg7) 9. Qf7+ Rcg6 10. Qxc7 Re6 11. Qf7+ Rhg6 12. Qe7)
+6. g8=Q Rf8 7. Kg7 Rxg8+ 8. Kxg8 $1 {See main line.}) 4. e4 Rd6 $5 (4... Rxg7 {
+Stalemate.}) (4... Rdf8 $5 5. gxf8=N+ $1 Rxf8 {Stalemate.}) 5. Ne7+ Rxe7 6.
+g8=Q+ {Draw, for example:} Kh5 7. Qf8 Ree6 8. Qf7+ Rg6 9. Qe7 Rxc6 10. Qxg5+)
+3. e4 $3 {Mutual zugzwang. White can wait with promotion and that saves him.}
+Kh5 $5 (3... Re8 4. g8=N+ $1 Kg6 {Stalemate No 2.}) (3... Kg6 4. g8=Q+ Kf6 (
+4... Kh6 5. Qg7+ Kh5 6. Qxf7+ Rxf7 7. Kg8) 5. Qg7+ Ke6 6. Qg6+ Rf6 7. Qg8+ Rff7
+(7... Ref7 $2 8. Qc8+ Kd6 9. Kg8) 8. Qg6+) (3... Rxg7 {Stalemate No 1.}) 4.
+g8=Q Rf6 $1 {The best try.} 5. Qd8 $1 {Otherwise Rxc6.} (5. Qa8 Rh6 $1 6. Qg8
+Rxc6) 5... Rfe6 $1 (5... Ref7 6. Qxf6 Rxf6 7. Kg8 {See main line.}) 6. Qf8 $1
+Re8 7. Kg8 $1 (7. Kg7 R6e7+) 7... Rg6+ 8. Kf7 Rxf8+ 9. Kxf8 Rf6+ 10. Kg8 $3 Rh6
+11. Kg7 {Mutual zugzwang.} Rxh7+ 12. Kxh7 {Stalemate No 3.} *
+
+[Event "?"]
+[Site "?"]
+[Date "1995.??.??"]
+[Round "?"]
+[White "21.Dva stejnopolí"]
+[Black "?"]
+[Result "*"]
+[PlyCount "0"]
+[EventDate "1995.??.??"]
+
+ *
+
+[Event "1.p wh04"]
+[Site "?"]
+[Date "1970.??.??"]
+[Round "?"]
+[White "Bent, C VeitchW"]
+[Black "\[+0354.10h7f7\]"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "8/5knK/8/2P2N2/1B4r1/8/8/3b1B2 w - - 0 1"]
+[PlyCount "55"]
+[EventDate "1970.??.??"]
+
+1. Nh6 Kf8 2. c6+ (2. Nxg4 $2 Bxg4 3. c6+ Kf7 4. Bc4+ Ne6 5. c7 Kf6 6. Bc3+ Ke7
+7. c8=Q Ng5) 2... Rxb4 3. c7 Rc4 4. Bxc4 Bc2 5. Kh8 Bf5 6. Nxf5 Ne8 7. c8=B (7.
+c8=N Nd6 8. Be6 Nf7+ 9. Kh7 Ng5+) 7... Nf6 8. Bb7 Ke8 9. Bc6+ Kf8 (9... Kd8 10.
+Ne3 Kc7 11. Kg7 Nh5+ 12. Kg6 Nf4+ (12... Ng3 13. Bg2) 13. Kg5 Nh3+ 14. Kg4 Nf2+
+15. Kg3) 10. B6b5 Nd5 (10... Nh7 11. Nh4) 11. Kh7 Nf6+ (11... Ne7 12. Nh4) 12.
+Kh6 Ng4+ 13. Kg5 Nf6 (13... Ne5 14. Nh4) 14. Ng3 Ke7 15. Kf5 Kf8 (15... Nh7 16.
+Ne4 Nf8 17. Bg8) 16. Be6 Kg7 (16... Ke7 17. Bc6 Kf8 18. Kg6 Ke7 19. Bc8 Ng8 20.
+Kg7 Nf6 21. Nf5+) 17. Bc6 Nh7 18. Ne4 Nf8 19. Be8 Nh7 20. B6f7 Nf8 21. Bg6 Kh6
+22. Nf2 Kg7 23. Ng4 Kh8 24. Kf6 Kg8 25. Ne5 Kh8 26. Ba4 Kg8 27. Bb3+ Kh8 28.
+Be6 1-0
+
+[Event "Pruboj,"]
+[Site "?"]
+[Date "1985.??.??"]
+[Round "?"]
+[White "Vlasak, E."]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "7k/8/6R1/6K1/8/8/6pP/6br w - - 0 1"]
+[PlyCount "9"]
+[EventDate "1985.??.??"]
+
+1. Kh4 $1 Bf2+ 2. Kh3 g1=B $1 3. Rh6 Kg7 4. Kg2 Kxh6 5. Kxh1 *
+
+[Event "?"]
+[Site "?"]
+[Date "1995.??.??"]
+[Round "?"]
+[White "22.St elci proti vêæím"]
+[Black "?"]
+[Result "*"]
+[PlyCount "0"]
+[EventDate "1995.??.??"]
+
+ *
+
+[Event "Pruboj"]
+[Site "?"]
+[Date "1983.??.??"]
+[Round "?"]
+[White "E.Vlasak"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5K1k/6rr/8/1p1B1p2/3B4/8/8/8 w - - 0 1"]
+[PlyCount "21"]
+[EventDate "1983.??.??"]
+
+1. Bg8 f4 2. Bd5# f3 3. Be4 f2+ 4. Bd3# b4 5. Be5 b3+ 6. Bb2# f1=Q+ 7. Bxf1 Rh6
+8. Bxg7 Kh7 9. Bd3+ Rg6 10. Kf7 b2 11. Bxg6# *
+
+[Event "Prûboj"]
+[Site "?"]
+[Date "1984.??.??"]
+[Round "?"]
+[White "E.Vlasák"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1k3B2/8/p7/K7/2B2n2/4r2P/7P/8 w - - 0 1"]
+[PlyCount "19"]
+[EventDate "1984.??.??"]
+
+1. Bd6 Ka8 $1 {The only chance.} (1... Kb7 2. Bxf4 Re4+ 3. Bxa6+) 2. Bxf4 (2.
+Bxa6 Nxh3 3. Kb6 Rb3+) (2. Kxa6 Rc3 3. Bb5 Nd5 4. Bd7 Nc7+ 5. Kb6 Nd5+) (2. Kb6
+Re4 (2... Rf3 3. Be5 Rf2 4. Kxa6 Rd2) 3. Bf7 Rd4 4. Be5 Rd7 5. Be8 Rb7+) 2...
+Re4+ $1 3. Bd5+ Ka7 4. Bb8+ (4. Bg3 Re5+ 5. Bf2+ Kb8 6. Bg3 Ka7) 4... Kxb8 5.
+Bxe4 Kc7 6. h4 Kd6 7. h5 Ke7 8. h6 Kf7 9. Bh7 $1 Kf6 10. h4 *
+
+[Event "Studie z partie - originál"]
+[Site "?"]
+[Date "1992.??.??"]
+[Round "?"]
+[White "Emil Vlasák"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2k5/5B2/8/2K1p2r/8/2B4r/8/8 w - - 0 1"]
+[PlyCount "19"]
+[EventDate "1992.??.??"]
+
+1. Be6 (1. Bxh5+ Rxc3 2. Kd5 Rg3 $1 3. Be2 (3. Bf7+ Rg5 4. Be6 Kd8 5. Ke4 Ke7
+6. Bf5 Kf6) 3... Kd7 4. Bb5+ Ke7) (1. Bb2 Rh6) 1... Kb7 $1 {Bílému zbyde
+çernopolÿ st elec a tento tah bere moænost od¿achu.} 2. Bxh3 e4 $3 {Vÿborná
+¿ance!} 3. Bf5 $3 (3. Kd4 Rxh3 4. Bb2 $1 {Ostatní viz hlavní variantu.} e3 5.
+Kd3 e2+ 6. Kd2 Rh1 7. Kxe2 Rh2+) 3... Rxf5 4. Kd4 Rf3 $1 (4... Rf4 5. Bd2 Rh4 (
+5... Rf2 6. Be3) 6. Ke5 Kc6 7. Bf4 Rxf4 8. Kxf4 Kd5 9. Ke3) 5. Bb2 $1 {Remíza,
+çerná vêæ je proti svûdnosti blízko.} (5. Bd2 Rd3+) (5. Be1 Rf8 6. Bg3 Re8) (5.
+Ba1 Ra3 6. Bb2 Ra4+ 7. Ke3 Kc6 8. Bd4 Kd5) (5. Bb4 Rb3 6. Ba5 (6. Kc4 Rd3) 6...
+e3 7. Kc4 Ra3 8. Bb4 Ra4) (5. Ba5 Ra3 6. Bc3 Ra4+ 7. Ke3 Kc6) 5... Rf4 (5...
+Rb3 6. Bc1 Rb4+ 7. Kd5) 6. Bc1 Rh4 7. Ke5 Kc6 8. Bf4 Rxf4 9. Kxf4 Kd5 10. Ke3 *
+
+[Event "Pruboj,"]
+[Site "?"]
+[Date "1987.??.??"]
+[Round "?"]
+[White "Vlasak, E."]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3k4/b7/8/1R1P4/3n4/8/R7/K6b w - - 0 1"]
+[PlyCount "11"]
+[EventDate "1987.??.??"]
+
+1. Rb1 Nb3 2. Rxb3 Bd4 3. Kb1 (3. Rab2 Kd7 $1) 3... Bxd5 4. Rd3 Be4 5. Rad2 Kc7
+(5... Ke7 6. Re2) 6. Rc2+ *
+
+[Event "?"]
+[Site "?"]
+[Date "1995.??.??"]
+[Round "?"]
+[White "23.Skuteçnê z partie"]
+[Black "?"]
+[Result "*"]
+[PlyCount "0"]
+[EventDate "1995.??.??"]
+
+ *
+
+[Event "Studie z partie,"]
+[Site "?"]
+[Date "1989.??.??"]
+[Round "?"]
+[White "E.Vlasák"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/4K3/8/2B5/6p1/5kP1/5P2/1r6 w - - 0 1"]
+[PlyCount "23"]
+[EventDate "1989.??.??"]
+
+1. Kf6 Rb2 2. Kg5 $1 Rb5 3. Kh4 $1 Ke4 $1 {Nejlepsí ¿ance, jinak pat.} 4. Be3
+$1 {St elec musí bÿt kryt, viz dále.} Kf5 5. Kh5 $1 Rb8 6. Kh6 Rd8 7. Bf4 $1 (
+7. Bc5 $2 Rh8+ 8. Kg7 Rc8 9. Be3 Rc6 $1 {a po od íznutí krále o dvê ady snadno
+vyhraje.}) 7... Ra8 8. Be3 $1 Ra6+ 9. Kh5 $1 Ra1 10. Kh6 Rh1+ 11. Kg7 Ra1 12.
+Kh6 $1 *
+
+[Event "?"]
+[Site "?"]
+[Date "1995.??.??"]
+[Round "?"]
+[White "24.Zaruçenê pûvodní?"]
+[Black "?"]
+[Result "*"]
+[PlyCount "0"]
+[EventDate "1995.??.??"]
+
+ *
+
+[Event "Shakend Nederland,"]
+[Site "?"]
+[Date "1987.??.??"]
+[Round "?"]
+[White "Vlasak, E HlinkaM"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5N2/b2K4/b7/4kP2/8/p7/3N4/1n3B2 w - - 0 1"]
+[PlyCount "19"]
+[EventDate "1987.??.??"]
+
+1. Nc4 Kf6 2. Nxa3 Bxf1 3. Nxb1 Bd3 $1 4. Kc7 $3 Bxb1 5. Nd7+ Kg5 $1 6. f6 $1
+Kg6 $1 7. f7 Kxf7 8. Nb6 $1 Be4 9. Nc8 $1 Bc5 10. Nd6+ *
+
+[Event "?"]
+[Site "?"]
+[Date "1995.??.??"]
+[Round "?"]
+[White "25.P ekvapivá domonance"]
+[Black "?"]
+[Result "*"]
+[PlyCount "0"]
+[EventDate "1995.??.??"]
+
+ *
+
+[Event "Rétiho memoriál,"]
+[Site "?"]
+[Date "1989.??.??"]
+[Round "?"]
+[White "E.Vlasák"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/4B2p/1P3Rr1/3K4/8/p7/pkN1b3/8 w - - 0 1"]
+[PlyCount "13"]
+[EventDate "1989.??.??"]
+
+1. Na1 $1 Kxa1 (1... Ba6 2. Rxg6 hxg6 3. Bf6+ Kb1 {Tato pozice je vyhraná
+jedinê pomocí matového útoku.} 4. Ke4 Bb7+ 5. Ke3 Kc1 6. Ke2 $1 Ba6+ 7. Ke1 Bb7
+8. Bg5+ Kb2 9. Kd2 $3 Bc6 10. Bf6+ Kb1 11. Nc2 a1=Q 12. Bxa1 g5 13. Bd4 Ka2 14.
+Kc3) 2. b7 Bf3 $1 (2... Rg5 3. Kc6 Rb5 4. Re6 $1 Rb2 (4... Bc4 5. Re1+ Kb2 6.
+Kc7 a1=Q 7. Bf6+ Kc2 8. Rxa1 Rc5+ 9. Kd6 Rb5 10. Kc6 Bd3 11. Rxa3 Rb4 12. Rc3+
+Kd2 13. Kc7) 5. Rxe2 Rxe2 6. b8=Q Rxe7 7. Qb3 $1 Rg7 8. Qc2 Rg1 9. Qc3+ Kb1 10.
+Qd3+ Kc1 11. Qe3+ Kb2 12. Qf2+ $1) 3. Rxf3 Rb6 4. Bd6 $3 Rxb7 5. Kc6 $1 {
+Neçekaná dominance!} Rb1 (5... Rb2 6. Rf1+ Rb1 7. Be5#) (5... Ra7 6. Rb3 Ra6+
+7. Kd5 Rxd6+ 8. Kxd6 h5 9. Kd5 h4 10. Kc4 h3 11. Rxh3 Kb2 12. Rh2+ Kb1 13. Kb3
+a1=N+ 14. Kc3 Nc2 15. Rxc2 a2 16. Rb2+) 6. Be5+ Rb2 7. Rf1# *
+
+[Event "?"]
+[Site "?"]
+[Date "1995.??.??"]
+[Round "?"]
+[White "26.Jatka"]
+[Black "?"]
+[Result "*"]
+[PlyCount "0"]
+[EventDate "1995.??.??"]
+
+ *
+
+[Event "Kachová skladba"]
+[Site "?"]
+[Date "1986.??.??"]
+[Round "?"]
+[White "M.Hlinka, E.Vlasák"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4k3/R2pnr2/2P2b2/KP6/b1r5/8/4N3/4R3 w - - 0 1"]
+[PlyCount "17"]
+[EventDate "1986.??.??"]
+
+1. Ra8+ Nc8 2. Rxc8+ Bd8 (2... Ke7 3. Nd4+ Kd6 4. Nf5+ Kd5 5. Ne3+) 3. c7 Rxc7
+4. Nf4+ $3 (4. Nc3+ Re7+ 5. Rxe7+ Kf8 $3 6. Rxd8+ Kxe7 7. Rh8 Bb3 8. b6 Rxc3 9.
+b7 Bd5 10. b8=Q Ra3 11. Kb4 Rb3+) 4... Re7+ 5. Rxe7+ Kxe7 (5... Kf8 6. Ng6+) 6.
+Nd5+ Kd6 7. Nxc7 (7. Rxd8 Kxd5) 7... Bxb5 8. Kb6 $3 {mutual zugzwang} Bxc7+ 9.
+Kxb5 *
+
+[Event "?"]
+[Site "?"]
+[Date "1995.??.??"]
+[Round "?"]
+[White "27.Památce Proke¿e"]
+[Black "?"]
+[Result "*"]
+[PlyCount "0"]
+[EventDate "1995.??.??"]
+
+ *
+
+[Event "Jubilejní ùJÇ¢"]
+[Site "?"]
+[Date "1948.??.??"]
+[Round "?"]
+[White "L.Proke¿"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/8/B3n3/7p/7p/4NK1k w - - 0 1"]
+[PlyCount "11"]
+[EventDate "1948.??.??"]
+
+1. Bc2 Nd2 2. Kf2 Nf3 3. Bf5 Nxe1 4. Bxh3 Nd3+ 5. Kf1 Ne1 6. Bc8 *
+
+[Event "Sachova skladba, to the memory of Proke"]
+[Site "?"]
+[Date "1985.??.??"]
+[Round "?"]
+[White "Vlasak, E."]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/5B2/4p3/8/8/6pK/7p/6Nk w - - 0 1"]
+[PlyCount "9"]
+[EventDate "1985.??.??"]
+
+1. Ne2 g2 2. Bh5# $1 (2. Bxe6 g1=N 3. Kg3 Nxe2+ 4. Kf2 Nc3 $1 5. Kf1 Ne4 $1) (
+2. Be8 e5 3. Bc6# e4 4. Bb7 g1=N 5. Kg3 Nxe2+ 6. Kf2 Nc3 7. Kf1 Nd5 $1) 2...
+g1=N $1 3. Kg3 $1 Nxe2+ 4. Kf2 $1 Ng1 5. Be8 $1 (5. Bg4 e5 6. Bc8 e4 7. Bb7 Nf3
+$1) (5. Bg6# Nh3+ 6. Kf1 Ng5 $1) *
+
+[Event "The Problemist"]
+[Site "?"]
+[Date "1989.??.??"]
+[Round "?"]
+[White "S.Tkaçenko"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2n5/8/8/2B5/6B1/K7/pp6/kN4n1 w - - 0 1"]
+[PlyCount "13"]
+[EventDate "1989.??.??"]
+
+1. Nd2 (1. Nc3 b1=Q+ 2. Nxb1 axb1=N) 1... b1=N 2. Kb3 Nxd2+ 3. Kc2 Ngf3 (3...
+Nb3 4. Kxb3 Kb1 5. Bf5+ Kc1 6. Kxa2) 4. Bxf3 $1 Nxf3 5. Kc1 Nd6 6. Ba3 $3 (6.
+Bxd6 Nd4) (6. Bb4 Nb5 7. Bf8 Nc3 8. Bg7 Nd4) 6... Nc4 7. Bb4 *
+
+[Event "?"]
+[Site "?"]
+[Date "1995.??.??"]
+[Round "?"]
+[White "28.K íæová vazba pro A.Lázniçk"]
+[Black "?"]
+[Result "*"]
+[PlyCount "0"]
+[EventDate "1995.??.??"]
+
+ *
+
+[Event "Prûboj XI.1988"]
+[Site "?"]
+[Date "1988.??.??"]
+[Round "?"]
+[White "E.Vlasák, památce A.Lázniçky"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6b1/8/4r2P/2Rpr3/7k/8/6KP/3R4 w - - 0 1"]
+[PlyCount "14"]
+[EventDate "1988.??.??"]
+
+1. Rd4 Kh5 $1 (1... Re4+ 2. h7 Bxh7 3. Rcxd5) 2. h7 $1 Bxh7 3. Rcxd5 $1 Be4 4.
+Rxe4 Rg6 5. Kh3 $1 Rxd5 6. Rh4+ $1 (6. Re5+ $2 Rg5 $1) (6. Rd4 $2 Rg3+) 6...
+Kg5 7. Rh5+ Kxh5 *
+
+[Event "?"]
+[Site "?"]
+[Date "1995.??.??"]
+[Round "?"]
+[White "29.Falanga"]
+[Black "?"]
+[Result "*"]
+[PlyCount "0"]
+[EventDate "1995.??.??"]
+
+ *
+
+[Event "Fritz"]
+[Site "?"]
+[Date "1982.??.??"]
+[Round "?"]
+[White "Vlasak, E."]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/5pp1/6pb/6pk/2K2pp1/8/5B2/5B2 w - - 0 1"]
+[PlyCount "11"]
+[EventDate "1982.??.??"]
+
+1. Bg3 f5 2. Kd3 fxg3 (2... f3 3. Ke3 f4+ 4. Kf2 fxg3+ 5. Kxg3) 3. Bg2 f4 4.
+Ke2 $1 f3+ 5. Kf1 fxg2+ 6. Kg1 $1 *
+
+[Event "?"]
+[Site "?"]
+[Date "1995.??.??"]
+[Round "?"]
+[White "30.Tisíc ¿achovnic"]
+[Black "?"]
+[Result "*"]
+[PlyCount "0"]
+[EventDate "1995.??.??"]
+
+ *
+
+[Event "Shakend Nederland ç.6"]
+[Site "?"]
+[Date "1990.??.??"]
+[Round "?"]
+[White "V.Buñka, E.Vlasák"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4b3/7p/1p6/8/7p/R6P/3kN2P/2b4K w - - 0 1"]
+[PlyCount "25"]
+[EventDate "1990.??.??"]
+
+1. Ra2 Ke1 $1 (1... Kd1+ 2. Nc3+ Ke1 3. Re2+) 2. Nxc1 Kf1# $1 3. Rc2 Bf7 $1 {
+Tímto manévrem dosáhne zablokování pole d3.} 4. Rd2 Bh5 5. Rd3 Kf2# {Teâ musí
+dát bílÿ kvalitu a vzniklé koncovky jsou vêt¿inou remízové. Cesta k vÿh e je
+jediná.} 6. Na2 $1 (6. Nb3 $2 Bf3 7. Rxf3+ Kxf3 8. Kg1 Ke3 9. Kf1 Kd3 10. Ke1
+Ke3) 6... Bf3 7. Rxf3+ Kxf3 8. Nc3 $1 {Zugzwang!} (8. Nb4 $2 Ke4 $1 9. Kg2 b5
+10. Nc6 Kd3 11. Kf3 Kc3 12. Kg4 b4 $11) (8. Kg1 Ke3 $1 9. Kf1 Kd3 10. Ke1 b5
+11. Nb4+ Kc4 12. Nc6 b4 13. Ne5+ Kd4 14. Nf3+ Ke3 15. Nxh4 b3 16. Kd1 b2 17.
+Kc2 Kf2 $11) 8... Kf2# 9. Nd5 {Lze i Ja4.} b5 10. Nc3 {Lze i Jc7.} b4 11. Na2
+b3# 12. Nc1 b2 13. Nd3+ *
+
+[Event "?"]
+[Site "?"]
+[Date "1995.??.??"]
+[Round "?"]
+[White "31.Dvê dámy v rozpcích"]
+[Black "?"]
+[Result "*"]
+[PlyCount "0"]
+[EventDate "1995.??.??"]
+
+ *
+
+[Event "FD13,14"]
+[Site "?"]
+[Date "1990.??.??"]
+[Round "?"]
+[White "Petlak"]
+[Black "Vlasak"]
+[Result "*"]
+[PlyCount "87"]
+[EventDate "1990.??.??"]
+
+1. Nf3 Nf6 2. g3 g6 3. Bg2 Bg7 4. O-O O-O 5. d4 d6 6. c3 Nc6 7. Nbd2 e5 8. dxe5
+dxe5 9. Qa4 Qe7 10. e4 Nd7 11. b3 Rd8 12. Ba3 Nc5 13. Qb5 Bf8 14. Rad1 a6 15.
+Qe2 f6 16. Nb1 Qf7 17. Qe3 b6 18. Rxd8 Nxd8 19. Rd1 Be6 20. Nbd2 Nxb3 21. axb3
+Bxa3 22. b4 c5 23. Nb1 cxb4 24. Qxb6 Qe7 25. Rd6 Ba2 26. Bh3 bxc3 27. Nxa3 Nf7
+28. Rxf6 Qxa3 29. Be6 c2 30. Rxf7 c1=Q+ 31. Kg2 {[#]} Rf8 32. Rxf8+ Kxf8 33.
+Qd8+ Kg7 34. Qg8+ Kh6 35. Bxa2 {[#]} Qe7 36. h4 Qg7 37. Qe6 Qc5 38. Ng5 Qgf8
+39. Nf7+ Kg7 40. h5 Qfe7 41. h6+ Kf8 42. Qxa6 (42. Ng5 Ke8 43. Qg8+ Kd7 44.
+Nxh7 Qcd6) 42... Qa3 43. Qe2 Qf6 44. Bd5 *
+
+[Event "?"]
+[Site "?"]
+[Date "1995.??.??"]
+[Round "?"]
+[White "32.A opêt nêkolik dam"]
+[Black "?"]
+[Result "*"]
+[PlyCount "0"]
+[EventDate "1995.??.??"]
+
+ *
+
+[Event "originál"]
+[Site "?"]
+[Date "1995.??.??"]
+[Round "?"]
+[White "E.Vlasák"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/r7/6p1/q1PQ1R2/3p1R2/5N2/2rp3K/k7 w - - 0 1"]
+[PlyCount "19"]
+[EventDate "1995.??.??"]
+
+1. Nxd4 (1. Nxd2 Rxd2 2. Kg3 gxf5) (1. Qxd4 Kb1 2. Nxd2+ (2. Qb4+ Qxb4+ 3.
+Rxb4+ Kc1+ 4. Nxd2 Rxd2 5. Kg3 gxf5) 2... Rxd2 3. Qxd2 Qxd2+ 4. Rf2 Qh6 5. Kg3
+gxf5) (1. Rxd4 d1=Q+ 2. Kg3 Qae1+ 3. Nxe1 Qxe1+ 4. Kf4 Qf2+ 5. Kg5 Qxf5+) 1...
+d1=Q+ (1... Qa2 2. Nxc2 Qxc2 3. Rf1 d1=Q+ 4. Kg1) (1... gxf5 2. Nxc2 Kb1 3. Ne3
+) (1... Rb2 2. Nb3 Kb1 3. Rf1+ d1=Q+ 4. Kg1) (1... Rh7 2. Kg2 {and whites are
+better comparing to main}) 2. Nxc2 Qxc2+ 3. Rf2 Qac3+ (3... gxf5 4. Rxc2) (3...
+Qaxc5 4. Qxc5) (3... Qxf5 4. Qd4) (3... Qca4 4. Qe5+) (3... Qc1+ 4. Qd4 Qac3+
+5. Qxc3 Qxc3+ 6. Rf1 Kb2 7. R5f2+) (3... Qc7 4. Kg2 Ra2 5. Rxc2 Rxc2+ 6. Rf2) (
+3... Qaa4 4. Qe5+ Kb1 5. Qe1+ Qc1+ 6. Qxc1+ Kxc1 7. Rf1+ Kb2 8. R5f2+) (3...
+Qe1 $5 4. Rxc2 Rh7 5. Kg2 Qh1+ 6. Kg3 Rh3+ (6... Qh4+ 7. Kf3 Qh3+ 8. Kf2 Qh2+
+9. Qg2) 7. Kg4 Rh4+ (7... gxf5+ 8. Qxf5 Rh4+ 9. Kg3 Qe1+ 10. Rf2) 8. Kg5 Rh5+
+9. Kxg6 Rh6+ 10. Kf7+) 4. R5f3 (4. Qg2 gxf5 5. Rxc2 Rh7 6. Kg1 Qe1+ 7. Qf1 Rh1+
+) (4. Qh1 Kb2 5. Rxc2+ Qxc2) (4. Rxc2 Qxc2 5. Kg1 (5. Kg3 gxf5 6. Qd4 Ka2) 5...
+gxf5 6. Qd4 Qb2) (4. Rf7 Rxf7 5. Qxf7+ Qe5+) 4... Ra2 $3 (4... Qxc5 5. Rxc2 Rh7
+6. Kg3 Qg1+ 7. Rg2) (4... Qh8 5. Kg1 Qb1+ (5... Ra2 6. Rxc2 Rxc2 7. Rf2) 6. Rf1
+) (4... Qxf2+ 5. Rxf2 Rh7 6. Kg1 Qg3+ 7. Qg2) (4... Rh7 5. Kg2) 5. Qxa2 $3 (5.
+Rxc3 Qxf2+ 6. Kh3 Qh2+ 7. Kg4 Rg2+ 8. Kf3 Rf2+ 9. Kg4 Qf4+) (5. Rxc2 Qxc2 6.
+Kg3 Qh2+ 7. Kg4 Rg2+) (5. Kg1 Qe1+) (5. Kg2 $5 Qxc5 $1 6. Qxa2 Qxa2) 5... Kxa2
+6. Kg2 $3 (6. Kg1 Qxc5) (6. Kg3 Qxf2+) 6... Kb1 (6... Qxf3+ 7. Kxf3) (6...
+Qxf2+ 7. Rxf2+) (6... Qxc5 7. Rxc2+ Qxc2+ 8. Rf2) 7. Rxc3 Qxc3 8. Rf1+ Kc2 9.
+Rf2+ Kb3 10. Rf3 *
+
